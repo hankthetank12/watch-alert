@@ -2,7 +2,7 @@ name: Watch Inventory Check
 
 on:
   schedule:
-    - cron: '0 * * * *'   # runs every hour
+    - cron: '0 16,23 * * *'   # runs at noon and 7pm EDT (UTC-4)
   workflow_dispatch:
     inputs:
       force_alert:
