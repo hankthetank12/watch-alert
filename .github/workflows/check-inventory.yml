@@ -35,7 +35,13 @@ jobs:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           ALERT_TO_EMAIL: ${{ secrets.ALERT_TO_EMAIL }}
           INCLUDE_PARTNER_LISTINGS: 'true'
-        run: python main.py --once ${{ github.event.inputs.force_alert == 'true' && '--force-alert' || '' }}
+          FORCE_ALERT: ${{ github.event.inputs.force_alert }}
+        run: |
+          if [ "$FORCE_ALERT" = "true" ]; then
+            python main.py --once --force-alert
+          else
+            python main.py --once
+          fi
 
       - name: Save updated state back to repo
         run: |
