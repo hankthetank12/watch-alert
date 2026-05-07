@@ -1,0 +1,301 @@
+2026-05-07 16:02:38,378 [INFO] __main__: [Wind Vintage] Checking inventory...
+2026-05-07 16:02:40,315 [INFO] httpx: HTTP Request: GET https://www.windvintage.com/ "HTTP/1.1 200 OK"
+2026-05-07 16:02:40,543 [INFO] sites.windvintage: [Wind Vintage] Scraped 270 listing(s)
+2026-05-07 16:02:40,547 [INFO] __main__: [Wind Vintage] Baseline saved: 270 watches
+2026-05-07 16:02:51,607 [INFO] __main__: [Wind Vintage] Checking inventory...
+2026-05-07 16:02:52,133 [INFO] httpx: HTTP Request: GET https://www.windvintage.com/ "HTTP/1.1 200 OK"
+2026-05-07 16:02:52,323 [INFO] sites.windvintage: [Wind Vintage] Scraped 270 listing(s)
+2026-05-07 16:02:52,326 [INFO] __main__: [Wind Vintage] --force-alert: treating all 270 watches as new
+2026-05-07 16:02:52,326 [INFO] __main__: [Wind Vintage] 270 new watch(es):
+2026-05-07 16:02:52,346 [INFO] __main__:   + Wind Vintage — https://www.windvintage.com/
+2026-05-07 16:02:52,346 [INFO] __main__:   + Patek Philippe “Tasti Tondi” Reference 1463 in 18k Yellow Gold w/ Extract from the Archives — https://www.windvintage.com/patek-philippe-tasti-tondi-reference-1463-in-18k-yellow-gold-w/-extract-from-the-archives
+2026-05-07 16:02:52,347 [INFO] __main__:   + F.P.Journe Centigraphe Sport Titanium Reference CTS on Strap w Box &amp; Booklet — https://www.windvintage.com/fpjourne-centigraphe-sport-reference-cts-in-titanium-on-strap-w-box-booklet
+2026-05-07 16:02:52,347 [INFO] __main__:   + F.P.Journe Chronometre Souverain Dubai Limited Edition in Platinum Full Set — https://www.windvintage.com/fpjourne-chronometre-souverain-dubai-edition-limited-in-platinum-full-set
+2026-05-07 16:02:52,347 [INFO] __main__:   + Rolex Ice Blue Daytona Reference 126576TBR in Platinum w/ Diamond Bezel Full Set Stickered New — https://www.windvintage.com/rolex-ice-blue-daytona-reference-126576tbr-in-platinum-with-diamond-bezel-full-set-stickered-new
+2026-05-07 16:02:52,347 [INFO] __main__:   + Rolex Tiffany &amp; Co. Daytona Reference 6263 — https://www.windvintage.com/rolex-tiffany-co-daytona-reference-6263
+2026-05-07 16:02:52,349 [INFO] __main__:   + Robin Williams' Jaeger-LeCoultre Reverso Reference 270.3.36 in Full Set Unpolished — https://www.windvintage.com/robin-williams-jaeger-lecoultre-reverso-reference-270336-in-full-set-unpolished
+2026-05-07 16:02:52,349 [INFO] __main__:   + Rolex Submariner Reference 5514 — https://www.windvintage.com/rolex-submariner-reference-5514
+2026-05-07 16:02:52,349 [INFO] __main__:   + Rolex GMT-Master Ref. 1675 Tiffany &amp; Co. — https://www.windvintage.com/rolex-gmt-master-ref-1675-tiffany-co
+2026-05-07 16:02:52,349 [INFO] __main__:   + Audemars Piguet Royal Oak Perpetual Calendar 2657OR.OO.12200R.02 in 18K RG w/ Full Set Unpolished — https://www.windvintage.com/audemars-piguet-royal-oak-perpetual-calendar-ref-2657oroo12200r02-in-18k-rg-w/-box-and-papers-unpolished
+2026-05-07 16:02:52,349 [INFO] __main__:   + Rolex John Mayer Daytona Reference 116508  in 18K YG Unpolished Full Set — https://www.windvintage.com/rolex-john-mayer-daytona-reference-116508-in-18k-yg-unpolished-full-set
+2026-05-07 16:02:52,350 [INFO] __main__:   + Rolex GMT-Master 1675 w/ Box and Papers — https://www.windvintage.com/rolex-gmt-master-1675-w/-box-and-papers
+2026-05-07 16:02:52,350 [INFO] __main__:   + Rolex GMT-Master II Pepsi 126710BLRO on Jubilee Full Set Unpolished Mk 1 Bezel — https://www.windvintage.com/rolex-gmtmaster-ii-pepsi-126710blro-on-jubilee-full-set-unpolished-copy
+2026-05-07 16:02:52,351 [INFO] __main__:   + Rolex Meteorite Cosmograph Daytona 126519LN in 18K WG on Oysterflex Full Set Unpolished — https://www.windvintage.com/rolex-meteorite-cosmograph-daytona-126519ln-in-18k-wg-on-oysterflex-full-set-unpolished
+2026-05-07 16:02:52,351 [INFO] __main__:   + Rolex Patrizzi Dial Zenith Daytona Reference 16520 — https://www.windvintage.com/rolex-patrizzi-dial-zenith-daytona-reference-16520
+2026-05-07 16:02:52,351 [INFO] __main__:   + Rolex Domino's Air-King 14000 w/ Papers Unpolished — https://www.windvintage.com/rolex-dominos-air-king-14000-w/-papers-unpolished
+2026-05-07 16:02:52,351 [INFO] __main__:   + Rolex 26mm Bark Datejust Reference 6927 in 18K YG Unpolished — https://www.windvintage.com/rolex-26mm-bark-datejust-reference-6927-in-18k-yg-unpolished
+2026-05-07 16:02:52,352 [INFO] __main__:   + Rolex Oyster Perpetual Reference 67198 on Ladies Jubilee Link in 18K YG Unpolished — https://www.windvintage.com/rolex-oyster-perpetual-reference-67198-on-ladies-jubilee-link-in-18k-yg-unpolished
+2026-05-07 16:02:52,352 [INFO] __main__:   + Rolex Day-Date Ref 118339 with Diamond Lugs and Sapphire Indices in White Gold w/ Card — https://www.windvintage.com/rolex-day-date-white-gold-with-diamond-lugs-and-sapphire-indices-w/-card
+2026-05-07 16:02:52,352 [INFO] __main__:   + Rolex Gilt Explorer I Ref 1016 on Folded Link Bracelet — https://www.windvintage.com/rolex-explorer-i-ref-1016-on-folded-link-bracelet
+2026-05-07 16:02:52,352 [INFO] __main__:   + Rolex Explorer I Silver Font Gilt Dial Reference 1016 Unpolished — https://www.windvintage.com/rolex-explorer-i-silver-font-gilt-dial-reference-1016-unpolished
+2026-05-07 16:02:52,352 [INFO] __main__:   + Rolex Big Daytona Ref 6239 Unpolished — https://www.windvintage.com/rolex-big-daytona-ref-6239-unpolished
+2026-05-07 16:02:52,353 [INFO] __main__:   + Rolex Pre-Daytona Reference 6234 — https://www.windvintage.com/rolex-pre-daytona-reference-6234
+2026-05-07 16:02:52,353 [INFO] __main__:   + Rolex Precision Ref. 4411 In 14k Rose Gold Unpolished — https://www.windvintage.com/rolex-precision-ref-4411-in-14k-rose-gold-unpolished
+2026-05-07 16:02:52,353 [INFO] __main__:   + Rolex Coke GMT-Master II Ref 16710 Unpolished — https://www.windvintage.com/rolex-coke-gmt-master-ii-ref-16710-unpolished-1-1-1
+2026-05-07 16:02:52,353 [INFO] __main__:   + Rolex Mk 4 GMT-Master Pepsi Matte Dial Ref. 1675 — https://www.windvintage.com/rolex-mk-4-gmt-master-pepsi-matte-dial-ref-1675
+2026-05-07 16:02:52,353 [INFO] __main__:   + Rolex Matte Dial GMT-Master Ref. 16750 — https://www.windvintage.com/rolex-matte-dial-gmt-master-ref-16750
+2026-05-07 16:02:52,354 [INFO] __main__:   + Rolex GMT-Master Ref 16750 Spider Dial — https://www.windvintage.com/rolex-gmt-master-ref-16750
+2026-05-07 16:02:52,354 [INFO] __main__:   + Rolex GMT-Master Reference 16700 w/ Black Insert Unpolished — https://www.windvintage.com/rolex-gmtmaster-reference-16700-w-black-insert
+2026-05-07 16:02:52,354 [INFO] __main__:   + Rolex GMT-Master Reference 16753 Unpolished — https://www.windvintage.com/rolex-gmt-master-reference-16753-unpolished
+2026-05-07 16:02:52,354 [INFO] __main__:   + Rolex Submariner PCG Ref. 5512 w/ Gilt Exclamation Dial — https://www.windvintage.com/rolex-submariner-pcg-ref-5512-w/-gilt-exclamation-dial
+2026-05-07 16:02:52,354 [INFO] __main__:   + Rolex Sea-Dweller Reference 126600 As New Full Set — https://www.windvintage.com/rolex-sea-dweller-reference-126600-unpolished-full-set
+2026-05-07 16:02:52,354 [INFO] __main__:   + Rolex MK 4 Double Red Sea-Dweller Reference 1665 Full Set Unpolished — https://www.windvintage.com/rolex-mk-4-double-red-sea-dweller-reference-1665-full-set-unpolished
+2026-05-07 16:02:52,354 [INFO] __main__:   + Rolex Red Submariner Ref. 1680 Unpolished — https://www.windvintage.com/rolex-red-submariner-ref-1680-unpolished
+2026-05-07 16:02:52,356 [INFO] __main__:   + Rolex Submariner Ref. 1680 w/ Ghost Insert — https://www.windvintage.com/rolex-submariner-ref-1680-w/-ghost-insert
+2026-05-07 16:02:52,356 [INFO] __main__:   + Rolex Submariner Transitional Matte Dial Reference 16800 — https://www.windvintage.com/rolex-submariner-transitional-matte-dial-reference-16800
+2026-05-07 16:02:52,356 [INFO] __main__:   + Rolex Feet First Dial Submariner Reference 5512 — http://windvintage.com/rolex-feet-first-dial-submariner-reference-5512-1
+2026-05-07 16:02:52,356 [INFO] __main__:   + Rolex Submariner Ref. 1680 Unpolished — https://www.windvintage.com/rolex-submariner-ref-1680-1-
+2026-05-07 16:02:52,356 [INFO] __main__:   + Rolex Submariner Ref. 1680 — https://www.windvintage.com/rolex-submariner-ref-1680-5136
+2026-05-07 16:02:52,357 [INFO] __main__:   + Rolex Submariner Reference 126610LN Unpolished Box &amp; Papers — https://www.windvintage.com/rolex-submariner-reference-126610ln-unpolished-box-papers1
+2026-05-07 16:02:52,357 [INFO] __main__:   + Rolex “Red Sub” Submariner Ref. 1680 Ghost Bezel — https://windvintage.com/rolex-red-sub-submariner-ref-1680-ghost-bezel
+2026-05-07 16:02:52,357 [INFO] __main__:   + Rolex Yacht-Master Reference 116622-0002 Rolesium/Platinum Full Set — https://www.windvintage.com/rolex-yacht-master-reference-116622-0002-rolesium/platinum-full-set
+2026-05-07 16:02:52,358 [INFO] __main__:   + Rolex 31MM Ladies Explorer Dial Oyster Perpetual Ref 77080 Unpolished w/ Papers &amp; Booklets — https://www.windvintage.com/rolex-ladies-explorer-dial-oyster-perpetual-31mm-ref-77080-unpolished
+2026-05-07 16:02:52,358 [INFO] __main__:   + Rolex Ladies Pink Explorer Dial Oyster Perpetual Ref 76080 Unpolished — https://www.windvintage.com/rolex-ladies-oyster-perpetual-pink-explorer-dial-76080-unpolished
+2026-05-07 16:02:52,358 [INFO] __main__:   + Rolex Ladies Pink Explorer Dial Oyster Perpetual Ref 76080 Unpolished — https://www.windvintage.com/rolex-ladies-oyster-perpetual-ref-76080-pink-explorer-dial-unpolished-1
+2026-05-07 16:02:52,358 [INFO] __main__:   + Rolex Day-Date Green Ombre Roman Numeral Dial Ref 228238 in 18K YG Unpolished Full Set — https://windvintage.com/rolex-day-date-green-ombre-roman-numeral-dial-ref-228238-in-18k-yg-unpolished-full-set
+2026-05-07 16:02:52,359 [INFO] __main__:   + Rolex Day-Date 40 White Gold w/ Grey Dial Reference 228239 Full Set — https://www.windvintage.com/rolex-day-date-40-white-gold-w/-grey-dial-reference-228239-full-set
+2026-05-07 16:02:52,359 [INFO] __main__:   + Rolex Datejust Ref. 16030 w/ Grey Dial — https://www.windvintage.com/rolex-datejust-ref-16030-w/-grey-dial
+2026-05-07 16:02:52,359 [INFO] __main__:   + Rolex Datejust Ref. 16014 Linen Dial — https://www.windvintage.com/rolex-datejust-ref-16014-linen-dial
+2026-05-07 16:02:52,359 [INFO] __main__:   + Rolex Datejust Ref. 16030 with Silver Dial Unpolished — https://www.windvintage.com/rolex-datejust-ref-16030-with-silver-dial
+2026-05-07 16:02:52,360 [INFO] __main__:   + Rolex Datejust 16030 with Silver Dial Unpolished — https://www.windvintage.com/rolex-datejust-16030-with-silver-dial-unpolished
+2026-05-07 16:02:52,360 [INFO] __main__:   + Rolex Two-Tone Linen Dial Datejust Ref. 16233 Unpolished w/ Papers and Hangtag — https://www.windvintage.com/rolex-two-tone-linen-dial-datejust-ref-16233-unpolished-w/-papers-and-hangtag
+2026-05-07 16:02:52,360 [INFO] __main__:   + Rolex Datejust Ref. 16014 Silver Dial Unpolished — https://www.windvintage.com/rolex-datejust-ref-16014-silver-dial-unpolished-sbuxyt5161
+2026-05-07 16:02:52,360 [INFO] __main__:   + Rolex Two-Tone Datejust Roman Dial Ref. 16233 Unpolished — https://www.windvintage.com/rolex-two-tone-datejust-roman-dial-ref-16233-unpolished
+2026-05-07 16:02:52,361 [INFO] __main__:   + Rolex Datejust Ref. 1603 Unpolished — https://www.windvintage.com/rolex-datejust-ref-1603-unpolishedsbuxyt5165
+2026-05-07 16:02:52,361 [INFO] __main__:   + Rolex Datejust Ref. 16200 Non-Luminous Roman Dial Unpolished — https://www.windvintage.com/rolex-datejust-ref-16200-roman-dial-unpolished
+2026-05-07 16:02:52,361 [INFO] __main__:   + Rolex Silver Dial Datejust Ref. 16030 Unpolished — https://www.windvintage.com/rolex-silver-dial-datejust-ref-16030-with-unpolishedsbuxyt5156
+2026-05-07 16:02:52,361 [INFO] __main__:   + Patek Philippe Cloisonné Enamel World Time Ref 5231J-001 in 18k YG Unpolished Full Set Like New — https://www.windvintage.com/patek-philippe-cloisonn-enamel-world-time-reference-5231j-001-in-18k-yg-unpolished-full-set
+2026-05-07 16:02:52,361 [INFO] __main__:   + Patek Philippe Calatrava Reference 5120G-001 in White Gold Unpolished — https://www.windvintage.com/patek-philippe-calatrava-reference-5120g-001-in-white-gold-unpolished
+2026-05-07 16:02:52,362 [INFO] __main__:   + Patek Philippe 5905P-001 in Platinum with Box and Pouch Unpolished — https://www.windvintage.com/patek-philippe-5905p-001-in-platinum-with-box-and-pouch-
+2026-05-07 16:02:52,362 [INFO] __main__:   + Patek Philippe Reference 2451 in 18 YG — https://www.windvintage.com/patek-philippe-reference-2451-in-18-yg
+2026-05-07 16:02:52,362 [INFO] __main__:   + A. Lange &amp; Söhne Saxonia Jubiläums Langematik Ref. 302.025 in Platinum Full Set — https://www.windvintage.com/a-lange-shne-saxonia-jubilums-langematik-ref-302025-in-platinum-full-set
+2026-05-07 16:02:52,362 [INFO] __main__:   + A. Lange &amp; Söhne Lange 1 Reference 101.031 18K Rose Gold w/ Certificate — https://www.windvintage.com/a-lange-shne-lange-1-reference-101031-18k-rose-gold-w/-extract
+2026-05-07 16:02:52,362 [INFO] __main__:   + Movado M95 Panda Chronograph Ref 19068 on Bracelet Unpolished — https://windvintage.com/movado-m95-panda-chronograph-on-bracelet-unpolished
+2026-05-07 16:02:52,362 [INFO] __main__:   + Abercrombie &amp; Fitch Seafarer Ref 2443 Unpolished — https://www.windvintage.com/abercrombie-fitch-seafarer-ref-2443-unpolished
+2026-05-07 16:02:52,362 [INFO] __main__:   + Heuer Monaco ref. 1133 Paintless Wonder Dial — https://www.windvintage.com/heuer-monaco-ref-1133-paintless-wonder-dial
+2026-05-07 16:02:52,362 [INFO] __main__:   + Heuer Monaco Reference 1133G Unpolished — https://www.windvintage.com/heuer-monaco-reference-1133g-unpolished
+2026-05-07 16:02:52,363 [INFO] __main__:   + Heuer Autavia Ref 2446 First Generation Big Subs — https://www.windvintage.com/heuer-autavia-ref-2446-first-generation-big-subs
+2026-05-07 16:02:52,363 [INFO] __main__:   + Heuer Autavia Ref 2446C Unpolished — https://www.windvintage.com/heuer-autavia-ref-2446c-unpolished
+2026-05-07 16:02:52,363 [INFO] __main__:   + Zenith El Primero Ref. A3817 on GF Bracelet Unpolished — https://www.windvintage.com/zenith-el-primero-ref-a3817-on-gf-bracelet-unpolished
+2026-05-07 16:02:52,363 [INFO] __main__:   + Aquastar Deepstar Big Eye Mk 4 Chronograph Mint Condition — https://www.windvintage.com/aquastar-deepstar-chronograph-mint-condition
+2026-05-07 16:02:52,363 [INFO] __main__:   + Audemars Piguet Edward Piguet Tourbillon 25819PT/O/0002/01 Box &amp; Papers — https://www.windvintage.com/audemars-piguet-edward-piguet-tourbillon-25819pt/o/0002/01-box-papers
+2026-05-07 16:02:52,364 [INFO] __main__:   + Audemars Piguet Royal Oak C Series Ref 5402ST w/ Box — https://windvintage.com/audemars-piguet-royal-oak-c-series-ref-5402st-w/-box
+2026-05-07 16:02:52,364 [INFO] __main__:   + Audemars Piguet Royal Oak A Series Ref 5402ST — https://www.windvintage.com/audemars-piguet-royal-oak-a-series-ref-5402s
+2026-05-07 16:02:52,364 [INFO] __main__:   + Audemars Piguet Royal Oak Reference 4100ST — https://www.windvintage.com/audemars-piguet-royal-oak-reference-4100st
+2026-05-07 16:02:52,364 [INFO] __main__:   + Audemars Piguet Royal Oak 14813BC in White Gold with Diamond Bezel — https://www.windvintage.com/audemars-piguet-royal-oak-14813bc-in-white-gold-with-diamond-bezel
+2026-05-07 16:02:52,364 [INFO] __main__:   + Vacheron Constantin Les Historiques Chronograph Ref. 47101/4 Unpolished — https://www.windvintage.com/vacheron-constantin-les-historiques-chronograph-ref-47101/4-unpolished
+2026-05-07 16:02:52,366 [INFO] __main__:   + Urwerk UR-106 ‘Only Watch’ Full Set Mint Condition — https://www.windvintage.com/urwerk-ur-106-only-watch-full-set-mint-condition
+2026-05-07 16:02:52,366 [INFO] __main__:   + Universal Geneve Compax Ref. 885103/01 with Nina Rindt Dial Unpolished — https://www.windvintage.com/universal-geneve-compax-ref-885103/01-with-nina-rindt-dial-unpolished
+2026-05-07 16:02:52,366 [INFO] __main__:   + Breguet Classique Quantième Perpétuel 7327 7327BB/11/9VU Perpetual Calendar w/ Papers — https://windvintage.com/breguet-classique-quantime-perptuel-7327-7327bb/11/9vu-perpetual-calendar-w/-papers
+2026-05-07 16:02:52,366 [INFO] __main__:   + Cartier Tank Asymétrique WGTA0043 in 18k Rose Gold Unpolished w/ Box and Papers — https://www.windvintage.com/cartier-tank-asymtrique-wgta0043-in-18k-rose-gold-unpolished-w/-box-and-papers
+2026-05-07 16:02:52,366 [INFO] __main__:   + Longines Swissair 24-Hour Reference 6630 w/ Extract from the Archives — https://www.windvintage.com/longines-swissair-24-hour-reference-6630
+2026-05-07 16:02:52,367 [INFO] __main__:   + OMEGA Speedmaster Reference 145.022-69 BA In 18K YG — https://www.windvintage.com/omega-speedmaster-reference-14502269-ba-in-18k-yg
+2026-05-07 16:02:52,367 [INFO] __main__:   + OMEGA Railmaster Reference 2914-4 SC Unpolished — https://www.windvintage.com/omega-railmaster-reference-29144-sc
+2026-05-07 16:02:52,367 [INFO] __main__:   + Gallet USMC Non-Luminous Clamshell Chronograph — https://www.windvintage.com/gallet-usmc-non-luminous-clamshell-chronograph
+2026-05-07 16:02:52,367 [INFO] __main__:   + Gallet “Jim Clark” Chronograph Unpolished — https://www.windvintage.com/gallet-jim-clark-chronograph-unpolished-2
+2026-05-07 16:02:52,368 [INFO] __main__:   + Ikepod Hemipode Grand Date on Rare Bracelet Full Set Unpolished — https://windvintage.com/ikepod-hemipode-grand-date-on-rare-bracelet-full-set-unpolished
+2026-05-07 16:02:52,368 [INFO] __main__:   + Piaget Polo Reference 71731 C701 18k Yellow Gold With Later Box — https://windvintage.com/piaget-polo-reference-71731c701-18k-yellow-gold-with-later-box
+2026-05-07 16:02:52,368 [INFO] __main__:   + Titus Big Crown Calypsomatic Ref. 7840 Unpolished — https://windvintage.com/titus-calypsomatic-ref-7840-unpolished
+2026-05-07 16:02:52,368 [INFO] __main__:   + Rolex GMT-Master II Pepsi 126710BLRO on Jubilee Full Set Unpolished — https://www.windvintage.com/rolex-gmt-master-ii-pepsi-126710blro-on-jubilee-full-set-unpolished
+2026-05-07 16:02:52,368 [INFO] __main__:   + Rolex Milgauss Ref. 116400 Black Dial Full Set Unpolished — https://www.windvintage.com/rolex-milgauss-ref-116400-black-dial-full-set-unpolished
+2026-05-07 16:02:52,368 [INFO] __main__:   + Gübelin Ipso-Vox Memovox E 855 By Jaeger-LeCoultre — https://www.windvintage.com/gbelin-ipso-vox-memovox-e-855-by-jaeger-lecoultre
+2026-05-07 16:02:52,369 [INFO] __main__:   + Universal Genève Uni-Compax in 18K Rose Gold Unpolished — https://www.windvintage.com/universal-genve-uni-compax-in-18k-rose-gold-unpolished
+2026-05-07 16:02:52,369 [INFO] __main__:   + Audemars Piguet Jules Audemars Metropolis 25919PT.OO.D002CR.01 Box &amp; Papers Unpolished — https://www.windvintage.com/audemars-piguet-jules-audemars-metropolis-25919ptood002cr01-box-papers
+2026-05-07 16:02:52,369 [INFO] __main__:   + Rolex Flat Four Kermit Submariner Ref 16610 T Full Set — https://www.windvintage.com/rolex-flat-four-kermit-submariner-ref-16610-t-full-set
+2026-05-07 16:02:52,369 [INFO] __main__:   + Vacheron Constantin Patrimony Semainier Reference 47052 in 18K White Gold Unpolished — https://windvintage.com/vacheron-constantin-patrimony-semainier-reference-47052-in-18k-white-gold
+2026-05-07 16:02:52,369 [INFO] __main__:   + Universal Geneve “Evil Nina” Compax  Ref. 885103/01 — https://www.windvintage.com/universal-geneve-compax-evil-nina-reference-885103/01-unpolished
+2026-05-07 16:02:52,369 [INFO] __main__:   + Rolex IBM Datejust 16220 Full Set — https://windvintage.com/rolex-ibm-datejust-16220-full-set
+2026-05-07 16:02:52,371 [INFO] __main__:   + Orvis Solunagraph by Heuer Ref. 2446C Second Execution Unpolished — https://www.windvintage.com/orvis-solunagraph-by-heuer-ref-2446c-second-execution
+2026-05-07 16:02:52,371 [INFO] __main__:   + Rolex Kermit Submariner Ref 16610 Full Set Unpolished — https://www.windvintage.com/rolex-kermit-submariner-ref-16610-full-set-unpolished
+2026-05-07 16:02:52,371 [INFO] __main__:   + Breguet Tourbillon Ref 3657PT/12/9V6 with Box — https://www.windvintage.com/breguet-tourbillon-ref-3657pt129v6-with-box
+2026-05-07 16:02:52,371 [INFO] __main__:   + OMEGA Speedmaster Reference 2998-4 Unpolished w/ Extract — https://www.windvintage.com/omega-speedmaster-reference-29984-unpolished-w-extract
+2026-05-07 16:02:52,371 [INFO] __main__:   + IWC Pilot’s Watch Performance Chronograph 41 AMG IW388305 Full Set — https://www.windvintage.com/iwc-pilots-watch-performance-chronograph-41-amg-iw388305-full-set
+2026-05-07 16:02:52,371 [INFO] __main__:   + Rolex Land-Dweller 40mm Ref 127334 in Stainless Steel Full Set Unpolished — https://www.windvintage.com/rolex-land-dweller-40mm-ref-127334-in-stainless-steel-full-set-unpolished
+2026-05-07 16:02:52,372 [INFO] __main__:   + Longines Sei Tacche United States Navy's Bureau of Ships — https://www.windvintage.com/longines-sei-tacche-united-states-navys-bureau-of-ships
+2026-05-07 16:02:52,372 [INFO] __main__:   + Zenith El Primero Reference A385 on GF Bracelet — https://www.windvintage.com/zenith-el-primero-reference-a385onbracelet
+2026-05-07 16:02:52,372 [INFO] __main__:   + Rolex Matte Dial Submariner Reference 16800 — http://windvintage.com/rolex-matte-dial-submariner-reference-168000
+2026-05-07 16:02:52,372 [INFO] __main__:   + Lémania 5012 for South African Air Force — https://www.windvintage.com/lemania-5012-for-south-african-air-force
+2026-05-07 16:02:52,372 [INFO] __main__:   + Breitling Chronograph Ref. 777 Gilt Dial Unpolished — https://windvintage.com/breitling-chronograph-ref-777-gilt-dial-unpolished
+2026-05-07 16:02:52,372 [INFO] __main__:   + Rolex Zenith Daytona Black Dial Ref 16520 w RSC Service Card &amp; Pouch — https://www.windvintage.com/rolex-zenith-daytona-black-dial-ref-16520-w-rsc-service-card-pouch
+2026-05-07 16:02:52,373 [INFO] __main__:   + Rolex GMT-Master II Reference 116710LN Full Set — https://www.windvintage.com/rolex-gmt-master-ii-reference-116710ln-full-set-
+2026-05-07 16:02:52,373 [INFO] __main__:   + Heuer Monaco Reference 1533G on Bracelet Unpolished — https://www.windvintage.com/heuer-monaco-reference-1533g-on-bracelet-unpolished
+2026-05-07 16:02:52,373 [INFO] __main__:   + A. Lange &amp; Söhne Saxonia Thin Ref. 201.027 in 18k White Gold Full Set — https://www.windvintage.com/a-lange-shne-saxonia-thin-ref-201027-in-18k-white-gold-full-set
+2026-05-07 16:02:52,373 [INFO] __main__:   + A. Lange &amp; Söhne Odysseus Ref 363.068 / LSLS3633AD in 18K WG Unpolished Box &amp; Papers — https://www.windvintage.com/a-lange-shne-odysseus-ref-363068-/-lsls3633ad-in-18k-wg-unpolished-box-papers
+2026-05-07 16:02:52,373 [INFO] __main__:   + Vacheron Constantin Overseas Black Dial Ref. 4500V/110A-B483 Full Set Unpolished + Straps — https://www.windvintage.com/vacheron-constantin-overseas-black-dial-ref-4500v/110a-b483-full-set-unpolished-straps
+2026-05-07 16:02:52,374 [INFO] __main__:   + Dunhill Jaeger-LeCoultre Memovox Reference E 855 On Gay Freres Bracelet Unpolished — https://www.windvintage.com/dunhill-jaegerlecoultre-memovox-reference-e-855-on-gay-freres-bracelet-unpolished
+2026-05-07 16:02:52,374 [INFO] __main__:   + Rolex White Dial Zenith Daytona Reference 16528 in 18K Yellow Gold Unpolished — https://www.windvintage.com/rolex-white-dial-zenith-daytona-reference-16528-in-18k-yellow-gold-unpolished
+2026-05-07 16:02:52,374 [INFO] __main__:   + Rolex Day-Date Blue Dial Reference 18038 Unpolished — https://www.windvintage.com/rolex-daydate-blue-dial-reference-18038-unpolished
+2026-05-07 16:02:52,374 [INFO] __main__:   + Rolex Submariner Reference 126610LN Unpolished Box &amp; Papers — https://www.windvintage.com/rolex-submariner-reference-126610ln-unpolished-box-papers
+2026-05-07 16:02:52,375 [INFO] __main__:   + Rolex MK II “Red Sub” Submariner Reference 1680 — https://www.windvintage.com/rolex-red-sub-submariner-reference-1680
+2026-05-07 16:02:52,375 [INFO] __main__:   + Dunhill Jaeger-LeCoultre Memovox Reference E 855 W/ Papers — https://www.windvintage.com/dunhill-jaeger-lecoultre-memovox-reference-e-855-w/-papers
+2026-05-07 16:02:52,375 [INFO] __main__:   + Heuer USS Whale Carrera Reference 2447S Eggshell Dial — https://www.windvintage.com/heuer-white-whale-carrera-reference-2447s-eggshell-dial
+2026-05-07 16:02:52,375 [INFO] __main__:   + Rolex Gilt Dial GMT-Master Ref 1675 Unpolished — https://www.windvintage.com/rolex-gilt-dial-gmt-master-ref-1675-unpolished
+2026-05-07 16:02:52,375 [INFO] __main__:   + Rolex Submariner Reference 5513 w/ Box &amp; Receipt — https://www.windvintage.com/rolex-submariner-reference-5513-w/-box-receipt
+2026-05-07 16:02:52,377 [INFO] __main__:   + Movado Breguet Numerals M95 Chronograph Unpolished — https://www.windvintage.com/movado-breguet-numerals-chronograph-unpolished
+2026-05-07 16:02:52,377 [INFO] __main__:   + Rolex Green Dial 41MM Oyster Perpetual Reference 134300 Full Set New — https://www.windvintage.com/rolex-pistachio-41mm-oyster-perpetual-reference-134300-full-set-unpolished-1
+2026-05-07 16:02:52,377 [INFO] __main__:   + Patek Philippe Reference 2526 in 18K YG w/ Extract, Box &amp; Service Box/Papers — https://www.windvintage.com/patek-philippe-reference-2526-in-18k-yg-w/-extract-box-service-box/papers
+2026-05-07 16:02:52,377 [INFO] __main__:   + Tudor Submariner Ref 79090 Unpolished — https://www.windvintage.com/tudor-submariner-ref-79090
+2026-05-07 16:02:52,377 [INFO] __main__:   + Patek Philippe Reference 5146G-010 w/ Service Receipts and Extract — https://www.windvintage.com/patek-philippe-reference-5146g-010-w/-service-receipts-and-extract
+2026-05-07 16:02:52,377 [INFO] __main__:   + Rolex Explorer II Ref. 226570 Full Set Unpolished — https://www.windvintage.com/-rolex-explorer-ii-ref-226570-full-set-unpolished-5149
+2026-05-07 16:02:52,377 [INFO] __main__:   + Rolex Silver Datejust Ref. 16014 Unpolished — https://windvintage.com/rolex-silver-datejust-ref-16014-unpolished
+2026-05-07 16:02:52,378 [INFO] __main__:   + Heuer Carrera 1153 Test Dial — https://www.windvintage.com/heuer-carrera-1153-test-dial
+2026-05-07 16:02:52,378 [INFO] __main__:   + Rolex Explorer I Reference 1016 on Folded Oyster Bracelet — https://www.windvintage.com/rolex-explorer-i-reference-1016-on-folded-oyster
+2026-05-07 16:02:52,378 [INFO] __main__:   + Rolex Two-Tone Datejust Ref 16013 Unpolished — https://www.windvintage.com/rolex-two-tone-datejust-ref-16013-unpolished
+2026-05-07 16:02:52,378 [INFO] __main__:   + Rolex Transitional Matte Dial Submariner Reference 16800 Unpolished — https://www.windvintage.com/rolex-transitional-matte-dial-submariner-reference-16800-unpolished
+2026-05-07 16:02:52,378 [INFO] __main__:   + Tudor Blue Snowflake Submariner Ref. 7021/0 — https://www.windvintage.com/tudor-blue-snowflake-submariner-ref-7021/0
+2026-05-07 16:02:52,380 [INFO] __main__:   + Rolex Oyster Perpetual 36mm Reference 6614 Unpolished — https://www.windvintage.com/rolex-oyster-perpetual-reference-6614
+2026-05-07 16:02:52,380 [INFO] __main__:   + Rolex Datejust Ref. 16234 Grey Roman Dial Unpolished — https://www.windvintage.com/rolex-datejust-ref-16234-grey-roman-dial-unpolished
+2026-05-07 16:02:52,380 [INFO] __main__:   + Heuer Skipperera Reference 7754 Unpolished — https://www.windvintage.com/heuer-skipperera-reference-7754-unpolished2025
+2026-05-07 16:02:52,380 [INFO] __main__:   + TAG Heuer Carrera Seafarer x Hodinkee Full Set Unpolished — https://www.windvintage.com/tag-heuer-carrera-seafarer-x-hodinkee-full-set
+2026-05-07 16:02:52,380 [INFO] __main__:   + Rolex GMT-Master 1675 Full Set — https://www.windvintage.com/rolex-gmt-master-1675-full-set
+2026-05-07 16:02:52,380 [INFO] __main__:   + Rolex GMT-Master II Coke Reference 16710 w/ CPO Card — https://www.windvintage.com/rolex-gmt-master-ii-coke-reference-16710-cpo
+2026-05-07 16:02:52,381 [INFO] __main__:   + A. Lange &amp; Söhne Meter Dial Datograph Ref 403.035 in Platinum Full Set — https://www.windvintage.com/a-lange-shne-meter-dial-datograph-ref-403035-in-platinum-full-set
+2026-05-07 16:02:52,381 [INFO] __main__:   + Rolex Kermit Submariner 16610LV w/ Papers &amp; RSC Card w/ Extra Insert — https://www.windvintage.com/rolex-kermit-submariner-16610lv-w/-papers-rsc-card
+2026-05-07 16:02:52,381 [INFO] __main__:   + Rolex Submariner Ref. 5513 Gilt Dial — https://www.windvintage.com/rolex-submariner-ref-5513-gilt-dial
+2026-05-07 16:02:52,381 [INFO] __main__:   + Rolex Precision “UFO” Reference 9083 w/ Waffle Dial Unpolished — https://www.windvintage.com/rolex-precision-ufo-reference-9083-w/-waffle-dial-unpolished
+2026-05-07 16:02:52,382 [INFO] __main__:   + Rolex Green Dial Hebrew Day-Date Reference 118238 in 18K Yellow Gold w/ Card &amp; RSC Card — https://www.windvintage.com/rolex-green-dial-hebrew-day-date-reference-118238-in-18k-yellow-gold-w/-card
+2026-05-07 16:02:52,382 [INFO] __main__:   + Rolex Submariner Ref. 5513 w/ Box and Hang Tag — https://www.windvintage.com/rolex-submariner-ref-5513-w/-box-hang-tag-5513
+2026-05-07 16:02:52,382 [INFO] __main__:   + Rolex "Pre-Daytona" Chronograph Ref. 6238 — https://www.windvintage.com/rolex-pre-daytona-chronograph-ref-6238
+2026-05-07 16:02:52,383 [INFO] __main__:   + Rolex "Bluesy" Submariner Ref. 16613 w/ Papers and Hangtag Unpolished — https://www.windvintage.com/rolex-bluesy-submariner-ref-16613-w/-papers-and-hangtag
+2026-05-07 16:02:52,383 [INFO] __main__:   + Rolex Honeycomb Dial Oyster Perpetual Reference 6564 18K RG Unpolished — https://www.windvintage.com/rolex-honeycomb-dial-oyster-perpetual-6564-18k-yg
+2026-05-07 16:02:52,383 [INFO] __main__:   + Rolex Fuchsia GMT-Master Reference 1675 Unpolished — https://www.windvintage.com/rolex-fuchsia-gmt-master-reference-1675-unpolished5144
+2026-05-07 16:02:52,383 [INFO] __main__:   + Rolex Kermit Submariner Ref 16610LV w/ RSC Card — https://www.windvintage.com/rolex-kermit-submariner-ref-16610lv-w/-rsc-card
+2026-05-07 16:02:52,383 [INFO] __main__:   + Heuer Carrera Reference 2447T Retailed by Abercrombie &amp; Fitch — https://www.windvintage.com/heuer-carrera-reference-2447t-retailed-by-abercrombie-fitch
+2026-05-07 16:02:52,383 [INFO] __main__:   + Rolex Four Line Black Dial Zenith Daytona Reference 16528 in 18K YG Unpolished — https://www.windvintage.com/rolex-four-line-black-dial-zenith-daytona-reference-16528-in-18k-yg-unpolished
+2026-05-07 16:02:52,383 [INFO] __main__:   + Ebel 1911 Chronograph Ref. 8134901 Blue Dial 18k Yellow Gold — https://www.windvintage.com/ebel-1911-chronograph-ref-8134901-blue-dial-18k-yellow-gold
+2026-05-07 16:02:52,383 [INFO] __main__:   + Audemars Piguet [RE]Master01 Full Set Unpolished — https://www.windvintage.com/audemars-piguet-remaster01-full-set-unpolished
+2026-05-07 16:02:52,385 [INFO] __main__:   + Rolex Silver Dial Datejust Reference 1603 Unpolished NOS — https://www.windvintage.com/rolex-white-dial-datejust-reference-1603-unpolished-nos
+2026-05-07 16:02:52,385 [INFO] __main__:   + Audemars Piguet Royal Oak Quartz Ref. 6005SA — https://www.windvintage.com/audemars-piguet-royal-oak-quartz-ref-6005sa
+2026-05-07 16:02:52,385 [INFO] __main__:   + Rolex Oysterquartz Datejust Ref. 17000 Blue Dial Unpolished — https://www.windvintage.com/rolex-oysterquartz-datejust-ref-17000-blue-dial-unpolished
+2026-05-07 16:02:52,385 [INFO] __main__:   + Rolex Air-King Reference 5500 Full Set  Unpolished — https://www.windvintage.com/rolex-air-king-reference-5500-full-set-unpolished
+2026-05-07 16:02:52,385 [INFO] __main__:   + Patek Philippe Reference 5035P-024 in Platinum w/ Full Set — https://www.windvintage.com/patek-philippe-reference-5035p
+2026-05-07 16:02:52,386 [INFO] __main__:   + Rolex Submariner "Meters First" Reference 5512 — https://www.windvintage.com/rolex-submariner-meters-first-reference-5512
+2026-05-07 16:02:52,386 [INFO] __main__:   + Rolex GMT-Master Reference 16753 Unpolished [partner] — https://kith.com/products/wv-16753
+2026-05-07 16:02:52,386 [INFO] __main__:   + Rolex GMT-Master Reference 16700 with Black Insert [partner] — https://kith.com/collections/wind-vintage/products/wv-16700-4207
+2026-05-07 16:02:52,386 [INFO] __main__:   + Rolex Oyster Perpetual Datejust Automatic Chronometer 36mm Oystersteel Watch, Ref. No. 16030 [partner] — https://www.mrporter.com/en-us/mens/product/wind-vintage/vintage-luxury-watches/vintage-luxury-watches/pre-owned-1986-rolex-oyster-perpetual-datejust-automatic-chronometer-36mm-oystersteel-watch-ref-no-16030/46376663162957283
+2026-05-07 16:02:52,386 [INFO] __main__:   + Rolex Datejust 31mm 18-karat gold watch — https://www.net-a-porter.com/en-us/shop/product/wind-vintage/jewelry-and-watches/vintage-watches/pre-owned-1979-rolex-datejust-31mm-18-karat-gold-watch/46376663163039005
+2026-05-07 16:02:52,387 [INFO] __main__:   + Cartier Tank Normale in 18K YG — https://www.net-a-porter.com/en-us/shop/product/wind-vintage/jewelry-and-watches/vintage-watches/pre-owned-cartier-tank-normale-23mm-18-karat-gold-and-alligator-watch/46376663163039009
+2026-05-07 16:02:52,387 [INFO] __main__:   + Rolex Silver Datejust Reference 1601 Full Set — https://www.net-a-porter.com/en-us/shop/product/wind-vintage/jewelry-and-watches/vintage-watches/pre-owned-rolex-datejust-36mm-stainless-steel-watch/46376663163039001
+2026-05-07 16:02:52,387 [INFO] __main__:   + Patek Philippe 19mm 18-karat gold watch — https://www.net-a-porter.com/en-us/shop/product/wind-vintage/jewelry-and-watches/vintage-watches/pre-owned-1966-patek-philippe-19mm-18-karat-gold-watch/46376663163039011
+2026-05-07 16:02:52,387 [INFO] __main__:   + Rolex Grey Dial Datejust Reference 1601 Unpolished — https://www.windvintage.com/rolex-grey-dial-datejust-reference-1601-unpolished1111
+2026-05-07 16:02:52,388 [INFO] __main__:   + Rolex 14K Two-Tone Datejust 16013 Unpolished — https://www.windvintage.com/rolex-14k-two-tone-datejust-16013-unpolished
+2026-05-07 16:02:52,388 [INFO] __main__:   + Rolex Ladies Oyster Perpetual Reference 76080 Unpolished — https://www.windvintage.com/rolex-ladies-oyster-perpetual-reference-76080-unpolished
+2026-05-07 16:02:52,388 [INFO] __main__:   + Rolex Ladies Oyster Perpetual Ref. 6618 Unpolished — https://www.windvintage.com/rolex-ladies-oyster-perpetual-ref-6618-unpolished
+2026-05-07 16:02:52,388 [INFO] __main__:   + 20mm Rolex Oyster Bracelet ref 7206 w 82 End Links 6.25 inches — https://www.windvintage.com/20mm-rolex-oyster-bracelet-ref-7206-w-82-end-links-625-inches
+2026-05-07 16:02:52,388 [INFO] __main__:   + 17mm Gay Frères Stretch Rivet Bracelet 5.7 inch 1950 — https://www.windvintage.com/17mm-gay-frres-stretch-rivet-bracelet-57-inch
+2026-05-07 16:02:52,389 [INFO] __main__:   + 18mm Gay Frères Stretch Rivet Bracelet 1952 6.1 inch — https://www.windvintage.com/18mm-gay-frres-gf-stretch-rivet-bracelet-1952-61-inch
+2026-05-07 16:02:52,389 [INFO] __main__:   + 12mm Gay Frères Stretch Rivet Bracelet 6 inch — https://www.windvintage.com/12mm-gay-frres-stretch-rivet-bracelet-6-inch
+2026-05-07 16:02:52,389 [INFO] __main__:   + 18mm Gay Frères Jubilee Beads of Rice Style Bracelet w/ End Links 5.25 Inches — https://www.windvintage.com/18mm-gay-frres-jubilee-beads-of-rice-style-bracelet-w/-end-links-525-inches
+2026-05-07 16:02:52,389 [INFO] __main__:   + 18mm Gay Frères Stretch Rivet Bracelet 5.5 inch 1960 — https://www.windvintage.com/18mm-tapered-gay-frres-stretch-rivet-bracelet-55-inch-1960
+2026-05-07 16:02:52,389 [INFO] __main__:   + 18mm Tapered Gay Frères Stretch Rivet Bracelet 5.9 inch 1949 — https://www.windvintage.com/18mm-tapered-gay-frres-stretch-rivet-bracelet-59-inch-1949
+2026-05-07 16:02:52,390 [INFO] __main__:   + 18mm Gay Frères Stretch Rivet Bracelet 6.1 inch — https://www.windvintage.com/18mm-gay-frres-stretch-rivet-bracelet-61-inch
+2026-05-07 16:02:52,390 [INFO] __main__:   + 19.5mm Bamboo Gay Frères Bracelet — https://www.windvintage.com/195mm-bamboo-gay-frres-bracelet
+2026-05-07 16:02:52,390 [INFO] __main__:   + 18mm Tapered Gay Frères Stretch Rivet Bracelet 5.6 inch — https://www.windvintage.com/18mm-tapered-gay-frres-stretch-rivet-bracelet-56-inch
+2026-05-07 16:02:52,390 [INFO] __main__:   + 18mm Gay Frères Beads of Rice Rivet Style Bracelet 6 Inches 1960s — https://www.windvintage.com/18mm-gay-frres-beads-of-rice-rivet-style-bracelet-6-inches-1960s
+2026-05-07 16:02:52,391 [INFO] __main__:   + 18mm Gay Frères Beads of Rice Bracelet Straight End Links 6.25 Inches — https://www.windvintage.com/18mm-gay-frres-beads-of-rice-bracelet-straight-end-links-625-inches
+2026-05-07 16:02:52,391 [INFO] __main__:   + 18mm Gay Frères Stretch Rivet Bracelet 1940s 6.1 inch — https://www.windvintage.com/18mm-gay-frres-stretch-rivet-bracelet-1940s-61-inch
+2026-05-07 16:02:52,391 [INFO] __main__:   + 17.5mm Gay Frères Stretch Rivet Bracelet 1940s 7.25 inch — https://www.windvintage.com/175mm-gay-frres-stretch-rivet-bracelet-1940s-725-inch
+2026-05-07 16:02:52,391 [INFO] __main__:   + 18mm Gay Frères Beads of Rice Rivet Style Bracelet 5.7 Inches 1940s — https://www.windvintage.com/18mm-gay-frres-beads-of-rice-rivet-style-bracelet-57-inches-1940s
+2026-05-07 16:02:52,392 [INFO] __main__:   + 18mm Gay Freres Stretch Bracelet in Steel 6.1 Inches circa 1949 — https://www.windvintage.com/18mm-gay-freres-stretch-bracelet-in-steel-61-inches-circa-1949
+2026-05-07 16:02:52,392 [INFO] __main__:   + 17mm Gay Frères Thick Beads of Rice Bracelet Straight End Links 5.1 Inches — https://www.windvintage.com/17mm-gay-frres-thick-beads-of-rice-bracelet-straight-end-links-51-inches
+2026-05-07 16:02:52,392 [INFO] __main__:   + Mulco Gay Frères Stretch Bracelet No End Links 5.9 Inches — https://www.windvintage.com/mulco-gay-frres-bracelet-no-end-links-59-inches
+2026-05-07 16:02:52,392 [INFO] __main__:   + 18mm Gay Freres Stretch Bracelet in Steel 6 Inches circa 1953 — https://www.windvintage.com/18mm-gay-freres-stretch-bracelet-in-steel-6-inches-circa-1953
+2026-05-07 16:02:52,393 [INFO] __main__:   + 18mm Gay Frères Stretch Rivet Bracelet 6 inch — https://www.windvintage.com/18mm-gay-frres-stretch-rivet-bracelet-6-inch-2024
+2026-05-07 16:02:52,393 [INFO] __main__:   + 17mm Gay Frères Stretch Rivet Bracelet 6.2 Inches — https://www.windvintage.com/17mm-gay-frres-stretch-rivet-bracelet-62-inches
+2026-05-07 16:02:52,393 [INFO] __main__:   + 16mm Gay Frères Stretch Rivet Bracelet 5.7 inch — https://www.windvintage.com/16mm-gay-frres-stretch-rivet-bracelet-57-inch
+2026-05-07 16:02:52,393 [INFO] __main__:   + 18mm Gay Freres Bracelet Stretch Rivet 1955 6 Inches — https://www.windvintage.com/18mm-gay-freres-bracelet-stretch-rivet-1955-6-inches
+2026-05-07 16:02:52,394 [INFO] __main__:   + 18mm Gay Frères Stretch Rivet Bracelet 5.9 inches 1955 — https://www.windvintage.com/18mm-gay-frres-stretch-rivet-bracelet-59-inches-1955-2024
+2026-05-07 16:02:52,394 [INFO] __main__:   + 18mm Gay Frères Stretch Rivet Bracelet 5.9 inches 1951 — https://www.windvintage.com/18mm-gay-frres-stretch-rivet-bracelet-59-inches-1951
+2026-05-07 16:02:52,394 [INFO] __main__:   + 17mm Gay Frères Stretch Rivet Bracelet 56 inches — https://www.windvintage.com/17mm-gay-frres-stretch-rivet-bracelet-56-inches
+2026-05-07 16:02:52,394 [INFO] __main__:   + Heuer Autavia Beads of Rice Style Bracelet No End Links 6.2 inches — https://www.windvintage.com/heuer-autavia-beads-of-rice-style-bracelet-no-end-links-62-inches
+2026-05-07 16:02:52,395 [INFO] __main__:   + Heuer Bracelet 20mm End Links 6.25 inches — https://www.windvintage.com/heuer-nsa-bracelet-18mm-end-links-61-inches
+2026-05-07 16:02:52,395 [INFO] __main__:   + 16mm Universal Geneve Mesh Bracelet 6.4 inch — https://www.windvintage.com/16mm-universal-geneve-mesh-bracelet-64-inch
+2026-05-07 16:02:52,396 [INFO] __main__:   + 16mm Universal Geneve Mesh Bracelet 6.8 inch — https://www.windvintage.com/16mm-universal-geneve-mesh-bracelet-68-inch
+2026-05-07 16:02:52,396 [INFO] __main__:   + 16mm Universal Geneve Mesh Bracelet 7 inch — https://www.windvintage.com/16mm-universal-geneve-mesh-bracelet-7-inch
+2026-05-07 16:02:52,396 [INFO] __main__:   + 16mm Gay Frères Rolled Bracelet in Steel 5.6 Inches — https://www.windvintage.com/16mm-gay-frres-rolled-bracelet-in-steel-56-inches
+2026-05-07 16:02:52,396 [INFO] __main__:   + 20mm OMEGA Speedmaster 1171 bracelet 633 end links 5.7 Inch — https://www.windvintage.com/20mm-omega-speedmaster-1171-bracelet-633-end-links-57-inch
+2026-05-07 16:02:52,397 [INFO] __main__:   + OMEGA 1171 bracelet 5.8 inch No End Links — https://www.windvintage.com/omega-1171-bracelet-58-inch-no-end-links
+2026-05-07 16:02:52,397 [INFO] __main__:   + OMEGA No end links No. 32 1171/1 bracelet 6.4 inch — https://www.windvintage.com/omega-no-end-links-no-32-1171/1-bracelet-64-inch
+2026-05-07 16:02:52,397 [INFO] __main__:   + 19mm Rolex 7835 with 357 end links 1977 6.75 inch — https://www.windvintage.com/19mm-rolex-7835-with-357-end-links-1977-675-inch
+2026-05-07 16:02:52,397 [INFO] __main__:   + OMEGA no end links two tone 5.9 inch — https://www.windvintage.com/18mm-omega-no-end-links-two-tone-59-inch
+2026-05-07 16:02:52,397 [INFO] __main__:   + 13mm Rolex 7830 Folded Oyster Bracelet 366 End Links 6 inches — https://www.windvintage.com/13mm-rolex-7830-folded-oyster-bracelet-366-end-links-6-inches
+2026-05-07 16:02:52,398 [INFO] __main__:   + 18mm Rolex C&amp;I Straight End Rivet Stretch 6.2 inch 1973 — https://www.windvintage.com/18mm-rolex-ci-straight-end-rivet-stretch-62-inch-1973
+2026-05-07 16:02:52,398 [INFO] __main__:   + Rolex 78350 Solid Link Swiss 6.5 inch no end links 1993 — https://www.windvintage.com/rolex-78350-solid-link-swiss-65-inch-no-end-links-1993
+2026-05-07 16:02:52,398 [INFO] __main__:   + Rolex 78350 Solid Link Swiss 6.2 inch no end links 1989 — https://www.windvintage.com/rolex-78350-solid-link-swiss-62-inch-no-end-links-1989
+2026-05-07 16:02:52,398 [INFO] __main__:   + Rolex 78350 Solid Link Swiss 6.2 Inches w/ 1 end link 557 B 1979 — https://www.windvintage.com/rolex-78350-solid-link-swiss-62-inches-w/-1-end-link-557-b-1979
+2026-05-07 16:02:52,398 [INFO] __main__:   + Rolex 78350 Solid Link Swiss 6.1 Inches No End Links 1976-1977 — https://www.windvintage.com/rolex-78350-solid-link-swiss-61-inches-no-end-links
+2026-05-07 16:02:52,399 [INFO] __main__:   + Rolex 78350 Solid Link Swiss 6.2 Inches w/ 1 end link 557 B 1979 — https://www.windvintage.com/rolex-78350-solid-link-swiss-66-inch-w/-1-end-link-557-circa-2011-
+2026-05-07 16:02:52,399 [INFO] __main__:   + 20mm Rolex Jubilee 6251H Bracelet 6.5 inch 55 end links 1972 — https://www.windvintage.com/20mm-rolex-jubilee-6251h-bracelet-65-inch-1972
+2026-05-07 16:02:52,399 [INFO] __main__:   + 18mm Gay Frères Stretch Rivet Bracelet 6.25 inch circa 1950s — https://www.windvintage.com/18mm-gay-frres-stretch-rivet-bracelet-625-inch-circa-1950s
+2026-05-07 16:02:52,399 [INFO] __main__:   + OMEGA Seamaster Bracelet No. 12  18mm 511 End Links 5.5 inches — https://www.windvintage.com/omega-seamaster-bracelet-no-12-18mm-511-end-links-55-inches
+2026-05-07 16:02:52,399 [INFO] __main__:   + 18mm Gay Frères Beads of Rice  straight end links 6.5 inch — https://www.windvintage.com/18mm-gay-frres-beads-of-rice-straight-end-links-65-inch
+2026-05-07 16:02:52,401 [INFO] __main__:   + 16mm Gay Freres Stretch Bracelet in Steel 6.2 Inches — https://www.windvintage.com/16mm-gay-freres-stretch-bracelet-in-steel-62-inches
+2026-05-07 16:02:52,401 [INFO] __main__:   + 21mm Gay Freres Rare Stretch Bracelet in Steel 5.75 Inches — https://www.windvintage.com/21mm-gay-freres-rare-stretch-bracelet-in-steel-575-inches
+2026-05-07 16:02:52,401 [INFO] __main__:   + 17mm Gay Freres Steel Gladiator Bracelet 7 Inches — https://www.windvintage.com/17mm-gay-freres-steel-gladiator-bracelet-7-inches
+2026-05-07 16:02:52,401 [INFO] __main__:   + 13.5mm Gay Freres Stretch Bracelet in Steel 5.5 Inches — https://www.windvintage.com/135mm-gay-freres-stretch-bracelet-in-steel-55-inches
+2026-05-07 16:02:52,401 [INFO] __main__:   + 18mm Gay Freres Stretch Bracelet in Steel 6.1 Inches — https://www.windvintage.com/18mm-gay-freres-stretch-bracelet-in-steel-61-inches
+2026-05-07 16:02:52,401 [INFO] __main__:   + 18mm Gay Freres Stretch Bracelet in Steel 6 Inches — https://www.windvintage.com/18mm-gay-freres-stretch-bracelet-in-steel-6-inches
+2026-05-07 16:02:52,402 [INFO] __main__:   + 17mm Tapered Gay Freres Stretch Bracelet in Steel 6 Inches 1958 — https://www.windvintage.com/17mm-tapered-gay-freres-stretch-bracelet-in-steel-6-inches
+2026-05-07 16:02:52,402 [INFO] __main__:   + 18mm OMEGA Speedmaster JB Champion Bracelet 5.5 Inch — https://www.windvintage.com/18mm-omega-speedmaster-jb-champion-bracelet-55-inch
+2026-05-07 16:02:52,402 [INFO] __main__:   + 20mm Rolex Swiss 6251H Jubilee Bracelet 6 inches — https://www.windvintage.com/20mm-rolex-swiss-6251h-jubilee-bracelet-6-inches
+2026-05-07 16:02:52,402 [INFO] __main__:   + 20mm Rolex Jubilee Oval Link Bracelet Made in USA 6 inches — https://www.windvintage.com/20mm-rolex-jubilee-oval-link-bracelet-made-in-usa-6-inches
+2026-05-07 16:02:52,402 [INFO] __main__:   + 20mm Rolex Jubilee Oval Link Bracelet Made in USA 5.3 Inches — https://www.windvintage.com/20mm-rolex-jubilee-oval-link-bracelet-made-in-usa-53-inches
+2026-05-07 16:02:52,402 [INFO] __main__:   + 17mm Yellow Gold Mesh Bracelet Straight End Links 5.5 Inches — https://www.windvintage.com/17mm-yellow-gold-mesh-bracelet-straight-end-links-55-inches
+2026-05-07 16:02:52,403 [INFO] __main__:   + 18mm Gay Frères Stretch Rivet Bracelet 5.5 inch circa 1950s — https://www.windvintage.com/18mm-gay-frres-stretch-rivet-bracelet-55-inch-circa-1950s2024
+2026-05-07 16:02:52,403 [INFO] __main__:   + 16mm Gay Freres Made In France Jubilee Bracelet 6 Inches — https://www.windvintage.com/16mm-gay-freres-made-in-france-jubilee-bracelet-6-inches
+2026-05-07 16:02:52,403 [INFO] __main__:   + 18mm Korean War Rolex Stretch Rivet Bracelet 6.1 inch — https://www.windvintage.com/18mm-korean-war-rolex-stretch-rivet-bracelet-61-inch
+2026-05-07 16:02:52,403 [INFO] __main__:   + 17mm Gay Frères Stretch Rivet Bracelet 6.25 Inch — https://www.windvintage.com/17mm-gay-frres-stretch-rivet-bracelet-625-inch
+2026-05-07 16:02:52,403 [INFO] __main__:   + OMEGA Seamaster Bracelet No. 12   18mm 511 End Links 6.4 inches — https://www.windvintage.com/omega-seamaster-bracelet-no-12-18mm-511-end-links-64-inches
+2026-05-07 16:02:52,404 [INFO] __main__:   + 17mm Gay Frères Gladiator B.O.R. Style 5.6 inches — https://www.windvintage.com/17mm-gay-frres-gladiator-bor-style-56-inches
+2026-05-07 16:02:52,404 [INFO] __main__:   + 17.5mm Tapered Gay Frères Stretch Rivet Bracelet 6 inch — https://www.windvintage.com/175mm-tapered-gay-frres-stretch-rivet-bracelet-6-inch
+2026-05-07 16:02:52,404 [INFO] __main__:   + 18mm Gay Freres Stretch Bracelet in Steel 6 Inches — https://www.windvintage.com/18mm-gay-freres-stretch-bracelet-in-steel-6-inches-1
+2026-05-07 16:02:52,404 [INFO] __main__:   + 18mm Tapered Gay Frères Stretch Rivet Bracelet 5.8 inch 1950 — https://www.windvintage.com/18mm-tapered-gay-frres-stretch-rivet-bracelet-58-inch-1950
+2026-05-07 16:02:52,404 [INFO] __main__:   + 18mm Gay Frères Beads of Rice Bracelet 5.9 Inches 1940s — https://www.windvintage.com/18mm-gay-frres-beads-of-rice-bracelet-59-inches
+2026-05-07 16:02:52,406 [INFO] __main__:   + 20mm Rolex Swiss Jubilee Bracelet 5.25 inches — https://www.windvintage.com/20mm-rolex-swiss-jubilee-bracelet-525-inches
+2026-05-07 16:02:52,406 [INFO] __main__:   + 18mm Gay Frères Beads of Rice Bracelet 5.3 Inches 1950s — https://www.windvintage.com/18mm-gay-frres-beads-of-rice-bracelet-53-inches-1950s
+2026-05-07 16:02:52,406 [INFO] __main__:   + 20mm Rolex Jubilee 6251H Bracelet 6.1 inch 55 end links 1972 — https://www.windvintage.com/20mm-rolex-jubilee-6251h-bracelet-61-inch-55-end-links-1972
+2026-05-07 16:02:52,406 [INFO] __main__:   + 19mm Rolex Bracelet 7835 End links 357 6.25 inches — https://www.windvintage.com/rolex-bracelet-7835-end-links-357-625-inches
+2026-05-07 16:02:52,406 [INFO] __main__:   + 20MM Rolex 78350 Solid Link Swiss w/ 557 End Links 6 Inches 1991 — https://www.windvintage.com/rolex-78350-solid-link-swiss-w-557-end-links-6-inches-1991
+2026-05-07 16:02:52,406 [INFO] __main__:   + Rolex Jubilee Oval Link Bracelet Made in USA No End Links 5.5 Inches — https://www.windvintage.com/rolex-jubilee-oval-link-bracelet-made-in-usa-no-end-links-55-inches
+2026-05-07 16:02:52,407 [INFO] __main__:   + 16mm Gay Freres Stretch Rivet 5.25 inches 1958 — https://www.windvintage.com/16mm-gay-freres-stretch-rivet-525-inches-1958
+2026-05-07 16:02:52,407 [INFO] __main__:   + 19mm Rolex 6635 Stretch Rivet 6.25 Inches 1956 — https://www.windvintage.com/19mm-rolex-rivet-6635-stretch-rivet-625-inches-1956
+2026-05-07 16:02:52,407 [INFO] __main__:   + Rolex Jubilee Oval Link Bracelet Made in USA No End Links 6.5 Inches — https://www.windvintage.com/rolex-jubilee-oval-link-bracelet-made-in-usa-no-end-links-65-inches
+2026-05-07 16:02:52,408 [INFO] __main__:   + 18mm Gay Frères Beads of Rice Bracelet Straight End Links 6.4 Inches 1963 — https://www.windvintage.com/18mm-gay-frres-beads-of-rice-bracelet-straight-end-links-64-inches
+2026-05-07 16:02:52,408 [INFO] __main__:   + 17mm Gay Frères Stretch Rivet Bracelet 6.2 inch 1966 — https://www.windvintage.com/17mm-gay-frres-stretch-rivet-bracelet-62-inch-1966
+2026-05-07 16:02:52,408 [INFO] __main__:   + 18mm Gay Freres Stretch Rivet Bracelet 6 inches — https://www.windvintage.com/18mm-gay-freres-stretch-rivet-bracelet-6-inches
+2026-05-07 16:02:52,408 [INFO] __main__:   + 20mm IWC Gay Frères Stretch Rivet Bracelet 6.25 inches — https://www.windvintage.com/20mm-iwc-gay-frres-stretch-rivet-bracelet-625-inches
+2026-05-07 16:02:52,409 [INFO] __main__:   + 15.5mm Gay Freres Stretch Rivet Bracelet 5.5 inches — https://www.windvintage.com/155mm-gay-freres-stretch-rivet-bracelet-55-inches
+2026-05-07 16:02:52,409 [INFO] __main__:   + 18mm Gay Freres Stretch Rivet Bracelet 6 inches 1950s — https://www.windvintage.com/18mm-gay-freres-stretch-rivet-bracelet-6-inches-1950s
+2026-05-07 16:02:52,409 [INFO] __main__:   + Rolex Bracelet 78350 Solid Link Swiss 5.5 inch No End Links — https://www.windvintage.com/rolex-78350-solid-link-swiss-55-inch-no-end-links
+2026-05-07 16:02:52,409 [INFO] __main__:   + Rolex 7835 Folded Oyster Bracelet No End Links 5.5 Inches — https://www.windvintage.com/rolex-7835-folded-oyster-bracelet-no-end-links-55-inches
+2026-05-07 16:02:52,409 [INFO] __main__:   + 20mm Rolex Oval Link Bracelet Made in US 6 Inches — https://www.windvintage.com/20mm-rolex-oval-link-bracelet-made-in-us-6-inches
+2026-05-07 16:02:52,410 [INFO] __main__:   + 20MM Rolex Jubilee Bracelet w/ 55 End Links 6 inches 1965 — https://www.windvintage.com/20mm-rolex-jubilee-bracelet-w/-55-end-links-6-inches-1965
+2026-05-07 16:02:52,410 [INFO] __main__:   + 20mm Rolex C&amp;I Rivet Bracelet 5.5 Inches 1976 — https://www.windvintage.com/20mm-rolex-ci-rivet-bracelet-55-inches-1976
+2026-05-07 16:02:52,410 [INFO] __main__:   + 20mm Rolex Jubilee Bracelet w/ 55 End Links 6 inches 1964 — https://windvintage.com/19mm-rolex-jubilee-bracelet-w/-55-end-links-6-inches-1966
+2026-05-07 16:02:52,410 [INFO] __main__:   + 20mm Rolex Jubilee w/ 55 End Links 7 inches 1964 — https://www.windvintage.com/19mm-rolex-jubilee-w/-55-end-links-7-inches-1964
+2026-05-07 16:02:52,410 [INFO] __main__:   + 16mm Gay Frères Stretch Rivet Bracelet 6 inch 1950s — https://www.windvintage.com/16mm-gay-frres-stretch-rivet-bracelet-6-inch-1950s
+2026-05-07 16:02:52,411 [INFO] __main__:   + 18mm Gay Frères Beads of Rice Bracelet Straight End Links 5.4 Inches — https://www.windvintage.com/18mm-gay-frres-beads-of-rice-bracelet-straight-end-links-54-inches
+2026-05-07 16:02:52,411 [INFO] __main__:   + 18mm Gay Frères Stretch Rivet Bracelet 6 inch circa 1950 — https://www.windvintage.com/18mm-gay-frres-stretch-rivet-bracelet-6-inch-circa-1950
+2026-05-07 16:02:52,411 [INFO] __main__:   + Domino’s Rolex 78350 Solid Link Swiss 6.2 Inches No End Links  2011 + — https://www.windvintage.com/dominos-rolex-78350-solid-link-swiss-62-inch-no-end-links-2011-
+2026-05-07 16:02:53,819 [INFO] notifier: [Wind Vintage] Alert sent to henrystauber@gmail.com — subject: 🆕 Wind Vintage: 270 new watches added
+2026-05-07 16:04:01,467 [INFO] __main__: Starting scheduler — 1 site(s), every 5 min. Ctrl+C to stop.
+2026-05-07 16:04:01,498 [INFO] apscheduler.scheduler: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-05-07 16:04:01,499 [INFO] __main__: [Wind Vintage] Checking inventory...
+2026-05-07 16:04:01,985 [INFO] httpx: HTTP Request: GET https://www.windvintage.com/ "HTTP/1.1 200 OK"
+2026-05-07 16:04:02,169 [INFO] sites.windvintage: [Wind Vintage] Scraped 270 listing(s)
+2026-05-07 16:04:02,172 [INFO] __main__: [Wind Vintage] No new watches.
+2026-05-07 16:04:02,196 [INFO] apscheduler.scheduler: Added job "main.<locals>.<lambda>" to job store "default"
+2026-05-07 16:04:02,196 [INFO] apscheduler.scheduler: Scheduler started
+2026-05-07 16:09:01,501 [INFO] apscheduler.executors.default: Running job "main.<locals>.<lambda> (trigger: interval[0:05:00], next run at: 2026-05-07 16:14:01 EDT)" (scheduled at 2026-05-07 16:09:01.498357-04:00)
+2026-05-07 16:09:01,501 [INFO] __main__: [Wind Vintage] Checking inventory...
+2026-05-07 16:09:01,991 [INFO] httpx: HTTP Request: GET https://www.windvintage.com/ "HTTP/1.1 200 OK"
+2026-05-07 16:09:02,153 [INFO] sites.windvintage: [Wind Vintage] Scraped 270 listing(s)
+2026-05-07 16:09:02,155 [INFO] __main__: [Wind Vintage] No new watches.
+2026-05-07 16:09:02,160 [INFO] apscheduler.executors.default: Job "main.<locals>.<lambda> (trigger: interval[0:05:00], next run at: 2026-05-07 16:14:01 EDT)" executed successfully
+2026-05-07 16:14:30,788 [WARNING] apscheduler.executors.default: Run time of job "main.<locals>.<lambda> (trigger: interval[0:05:00], next run at: 2026-05-07 16:19:01 EDT)" was missed by 0:00:29.289948
+2026-05-07 16:19:01,506 [INFO] apscheduler.executors.default: Running job "main.<locals>.<lambda> (trigger: interval[0:05:00], next run at: 2026-05-07 16:24:01 EDT)" (scheduled at 2026-05-07 16:19:01.498357-04:00)
+2026-05-07 16:19:01,507 [INFO] __main__: [Wind Vintage] Checking inventory...
+2026-05-07 16:19:02,055 [INFO] httpx: HTTP Request: GET https://www.windvintage.com/ "HTTP/1.1 200 OK"
+2026-05-07 16:19:02,205 [INFO] sites.windvintage: [Wind Vintage] Scraped 270 listing(s)
+2026-05-07 16:19:02,205 [INFO] __main__: [Wind Vintage] No new watches.
+2026-05-07 16:19:02,222 [INFO] apscheduler.executors.default: Job "main.<locals>.<lambda> (trigger: interval[0:05:00], next run at: 2026-05-07 16:24:01 EDT)" executed successfully
