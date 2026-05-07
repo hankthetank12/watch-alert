@@ -68,10 +68,12 @@ def _check_site(scraper: BaseScraper, force_alert: bool = False) -> tuple[list[d
         new_watches = get_new_watches(current, previous)
 
     if new_watches:
+        scraper.enrich(new_watches)
         logger.info("[%s] %d new watch(es):", scraper.name, len(new_watches))
         for w in new_watches:
             partner_tag = " [partner]" if w.get("is_partner") else ""
-            logger.info("  + %s%s — %s", w["title"], partner_tag, w["url"])
+            price_tag = f" {w['price']}" if w.get("price") else ""
+            logger.info("  + %s%s%s — %s", w["title"], price_tag, partner_tag, w["url"])
     else:
         logger.info("[%s] No new watches.", scraper.name)
 

@@ -37,3 +37,10 @@ class BaseScraper(ABC):
         The caller will catch this and skip the cycle without touching state.
         """
         ...
+
+    def enrich(self, watches: list[dict]) -> None:
+        """
+        Optionally fetch extra details (e.g. price) for a list of new watches.
+        Modifies each watch dict in place. Override in subclasses as needed.
+        """
+        pass

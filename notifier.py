@@ -48,14 +48,16 @@ def _build_message(new_by_site: dict[str, list[dict]], from_addr: str, to_addr: 
         plain_lines = [f"{site_name}:", "-" * len(site_name)]
         for w in watches:
             partner_tag = " [Partner listing]" if w.get("is_partner") else ""
-            plain_lines.append(f"  • {w['title']}{partner_tag}\n    {w['url']}")
+            price_tag = f" — {w['price']}" if w.get("price") else ""
+            plain_lines.append(f"  • {w['title']}{price_tag}{partner_tag}\n    {w['url']}")
         plain_sections.append("\n".join(plain_lines))
 
         # HTML section
         items_html = ""
         for w in watches:
             partner_tag = " <em>(Partner listing)</em>" if w.get("is_partner") else ""
-            items_html += f'      <li><a href="{w["url"]}">{w["title"]}</a>{partner_tag}</li>\n'
+            price_tag = f' <span style="color:#555;font-weight:bold">{w["price"]}</span>' if w.get("price") else ""
+            items_html += f'      <li><a href="{w["url"]}">{w["title"]}</a>{price_tag}{partner_tag}</li>\n'
 
         html_sections.append(f"""\
   <section style="margin-bottom:24px">
