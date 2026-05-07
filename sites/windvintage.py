@@ -72,6 +72,11 @@ class WindVintageScraper(BaseScraper):
                 continue
 
             full_url = urljoin(self.base_url, href)
+
+            # Skip the homepage link (logo/nav) which carries the site description as alt text
+            if full_url.rstrip("/") == self.base_url.rstrip("/"):
+                continue
+
             if urlparse(full_url).netloc in PARTNER_DOMAINS:
                 continue
 
