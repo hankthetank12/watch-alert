@@ -15,5 +15,5 @@ REGISTRY: dict = {
     "windvintage":   WindVintageScraper(),
     "greyandpatina": GreyAndPatinaScraper(),
     "thekeystone":   TheKeystoneScraper(),
-    # "sheartime":     SheartimeScraper(),
+    "sheartime":     SheartimeScraper(),
 }

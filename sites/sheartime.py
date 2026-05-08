@@ -1,4 +1,5 @@
 import logging
+import re
 import time
 from urllib.parse import urljoin, urlparse
 
@@ -17,6 +18,20 @@ HEADERS = {
     ),
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
 }
+
+
+def _find_nearby_price(a_tag) -> str:
+    """Climb up the DOM tree from an anchor tag looking for a $price."""
+    node = a_tag.parent
+    for _ in range(6):
+        if node is None:
+            break
+        text = node.get_text(separator=" ", strip=True)
+        m = re.search(r"\$\s*[\d,]+", text)
+        if m:
+            return m.group(0).replace(" ", "")
+        node = node.parent
+    return ""
 
 
 class SheartimeScraper(BaseScraper):
@@ -53,7 +68,6 @@ class SheartimeScraper(BaseScraper):
         for a_tag in soup.find_all("a", href=True):
             href = a_tag["href"].strip()
 
-            # Only individual watch pages
             if "/watches/" not in href:
                 continue
 
@@ -73,6 +87,9 @@ class SheartimeScraper(BaseScraper):
             if not title:
                 continue
 
-            inventory[slug] = {"title": title, "url": full_url}
+            # Price sits outside the <a> tag — climb up the DOM to find it
+            price = _find_nearby_price(a_tag)
+
+            inventory[slug] = {"title": title, "url": full_url, "price": price}
 
         return inventory
