@@ -62,7 +62,7 @@ class TheKeystoneScraper(BaseScraper):
             if not slug or slug in inventory:
                 continue
 
-            # Title is stored in the img alt attribute
+            # Title is in the img alt attribute
             img = a_tag.find("img")
             title = (img.get("alt") or "").strip() if img else ""
             if not title:
@@ -70,9 +70,9 @@ class TheKeystoneScraper(BaseScraper):
             if not title:
                 continue
 
-            # Price appears in the card text alongside the title (e.g. "$975,000 USD")
-            card_text = a_tag.get_text(separator=" ", strip=True)
-            price_match = re.search(r"\$[\d,]+", card_text)
+            # Price sits outside the <a> tag — search the parent container
+            container_text = a_tag.parent.get_text(separator=" ", strip=True) if a_tag.parent else ""
+            price_match = re.search(r"\$[\d,]+", container_text)
             price = price_match.group(0) if price_match else ""
 
             inventory[slug] = {"title": title, "url": full_url, "price": price}

@@ -54,7 +54,6 @@ class GreyAndPatinaScraper(BaseScraper):
         for a_tag in soup.find_all("a", href=True):
             href = a_tag["href"].strip()
 
-            # Only product detail pages
             if "/product/" not in href:
                 continue
 
@@ -63,21 +62,19 @@ class GreyAndPatinaScraper(BaseScraper):
             if not slug or slug in inventory:
                 continue
 
-            # Title: prefer img alt, fall back to link text
+            # Title from img alt, fall back to link text
             img = a_tag.find("img")
             title = (img.get("alt") or "").strip() if img else ""
             if not title:
                 title = a_tag.get_text(separator=" ", strip=True)
-
-            # Extract price before stripping other text
-            price_match = re.search(r"\$[\d,]+", title)
-            price = price_match.group(0) if price_match else ""
-
-            # Strip price, "SOLD" label, and stray punctuation from title
-            title = re.sub(r"\$[\d,]+", "", title)
             title = re.sub(r"\bSOLD\b", "", title, flags=re.IGNORECASE).strip(" -–")
             if not title:
                 continue
+
+            # Price sits outside the <a> tag — search the parent container
+            container_text = a_tag.parent.get_text(separator=" ", strip=True) if a_tag.parent else ""
+            price_match = re.search(r"\$[\d,]+", container_text)
+            price = price_match.group(0) if price_match else ""
 
             inventory[slug] = {"title": title, "url": full_url, "price": price}
 
