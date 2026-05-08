@@ -85,6 +85,10 @@ class TheKeystoneScraper(BaseScraper):
             if not title:
                 continue
 
+            # Strip "- The Keystone Watches" suffix and leading "Brand - Brand ..." duplication
+            title = re.sub(r"\s*-\s*The Keystone Watches$", "", title, flags=re.IGNORECASE).strip()
+            title = re.sub(r"^([^-]+)\s*-\s*\1", r"\1", title).strip()
+
             # Price is outside the <a> tag — climb up the DOM to find it
             price = _find_nearby_price(a_tag)
 

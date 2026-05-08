@@ -66,12 +66,12 @@ class GreyAndPatinaScraper(BaseScraper):
             link_text = a_tag.get_text(separator=" ", strip=True)
 
             # Extract price directly from link text
-            price_match = re.search(r"\$[\d,]+", link_text)
+            price_match = re.search(r"\$\s*[\d,]+", link_text)
             price = price_match.group(0) if price_match else ""
 
             # Clean title: strip SOLD label and price
             title = re.sub(r"\bSOLD\b", "", link_text, flags=re.IGNORECASE)
-            title = re.sub(r"\$[\d,]+", "", title).strip(" -–")
+            title = re.sub(r"\$\s*[\d,]+", "", title).strip(" -–")
             if not title:
                 continue
 
