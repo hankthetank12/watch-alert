@@ -10,10 +10,12 @@ from .windvintage import WindVintageScraper
 from .greyandpatina import GreyAndPatinaScraper
 from .thekeystone import TheKeystoneScraper
 from .sheartime import SheartimeScraper
+from .loupethis import LoupeThisScraper
 
 REGISTRY: dict = {
     "windvintage":   WindVintageScraper(),
     "greyandpatina": GreyAndPatinaScraper(),
     "thekeystone":   TheKeystoneScraper(),
     "sheartime":     SheartimeScraper(),
+    "loupethis":     LoupeThisScraper(),
 }
