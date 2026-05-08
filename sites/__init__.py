@@ -11,11 +11,13 @@ from .greyandpatina import GreyAndPatinaScraper
 from .thekeystone import TheKeystoneScraper
 from .sheartime import SheartimeScraper
 from .loupethis import LoupeThisScraper
+from .europeanwatch import EuropeanWatchScraper
 
 REGISTRY: dict = {
-    "windvintage":   WindVintageScraper(),
-    "greyandpatina": GreyAndPatinaScraper(),
-    "thekeystone":   TheKeystoneScraper(),
-    "sheartime":     SheartimeScraper(),
-    "loupethis":     LoupeThisScraper(),
+    "windvintage":    WindVintageScraper(),
+    "greyandpatina":  GreyAndPatinaScraper(),
+    "thekeystone":    TheKeystoneScraper(),
+    "sheartime":      SheartimeScraper(),
+    "loupethis":      LoupeThisScraper(),
+    "europeanwatch":  EuropeanWatchScraper(),
 }
