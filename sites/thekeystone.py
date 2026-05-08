@@ -38,29 +38,44 @@ HEADERS = {
 class TheKeystoneScraper(BaseScraper):
     key = "thekeystone"
     name = "The Keystone"
-    base_url = "https://thekeystone.com/collections/all-watches?sort_by=created-descending"
+    base_url = "https://thekeystone.com/collections/all-watches"
 
     def fetch_inventory(self, max_retries: int = 3) -> dict:
-        last_exc = None
-        for attempt in range(1, max_retries + 1):
-            try:
-                with httpx.Client(headers=HEADERS, timeout=30, follow_redirects=True) as client:
-                    resp = client.get(self.base_url)
-                    resp.raise_for_status()
-                inventory = self._parse(resp.text)
-                if not inventory:
-                    raise RuntimeError("Parsed 0 listings — site structure may have changed")
-                logger.info("[%s] Scraped %d listing(s)", self.name, len(inventory))
-                return inventory
-            except (httpx.HTTPError, RuntimeError) as exc:
-                last_exc = exc
-                if attempt < max_retries:
-                    wait = 2 ** attempt
-                    logger.warning("[%s] Attempt %d/%d failed: %s — retrying in %ds",
-                                   self.name, attempt, max_retries, exc, wait)
-                    time.sleep(wait)
+        inventory = {}
+        page = 1
+        with httpx.Client(headers=HEADERS, timeout=30, follow_redirects=True) as client:
+            while True:
+                url = f"{self.base_url}?sort_by=created-descending&page={page}"
+                last_exc = None
+                page_inventory = None
+                for attempt in range(1, max_retries + 1):
+                    try:
+                        resp = client.get(url)
+                        resp.raise_for_status()
+                        page_inventory = self._parse(resp.text)
+                        break
+                    except httpx.HTTPError as exc:
+                        last_exc = exc
+                        if attempt < max_retries:
+                            wait = 2 ** attempt
+                            logger.warning("[%s] Page %d attempt %d/%d failed: %s — retrying in %ds",
+                                           self.name, page, attempt, max_retries, exc, wait)
+                            time.sleep(wait)
+                if page_inventory is None:
+                    raise RuntimeError(f"Scrape failed on page {page} after {max_retries} attempts") from last_exc
+                if not page_inventory:
+                    break
+                new_slugs = {k: v for k, v in page_inventory.items() if k not in inventory}
+                inventory.update(new_slugs)
+                if len(new_slugs) < len(page_inventory):
+                    # All remaining slugs already seen — stop paginating
+                    break
+                page += 1
 
-        raise RuntimeError(f"Scrape failed after {max_retries} attempts") from last_exc
+        if not inventory:
+            raise RuntimeError("Parsed 0 listings — site structure may have changed")
+        logger.info("[%s] Scraped %d listing(s) across %d page(s)", self.name, len(inventory), page - 1)
+        return inventory
 
     def _parse(self, html: str) -> dict:
         soup = BeautifulSoup(html, "html.parser")
