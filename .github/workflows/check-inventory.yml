@@ -1,9 +1,6 @@
 name: Watch Inventory Check
 
 on:
-  schedule:
-    - cron: '40 16 * * *'  # 12:40pm EDT (UTC-4)
-    - cron: '0 23 * * *'   # 7:00pm EDT (UTC-4)
   workflow_dispatch:
     inputs:
       force_alert:
