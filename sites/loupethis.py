@@ -1,6 +1,7 @@
 import logging
 import re
 import time
+from urllib.parse import urlencode
 
 import httpx
 
@@ -12,11 +13,12 @@ SANITY_PROJECT_ID = "j0ua8uvr"
 SANITY_DATASET = "production"
 SANITY_API_VERSION = "2021-10-21"
 
-# Fetch the 300 most recently created auction documents
+# Fetch the 300 most recently created auction documents.
+# We fetch the full content array and extract the price range in Python
+# to avoid complex nested GROQ filters that can cause 400 errors.
 GROQ_QUERY = (
     '*[_type == "auction"] | order(_createdAt desc) [0..299]'
-    '{_id, inventoryNumber, "title": seoSettings.title,'
-    ' "priceRange": content[_type == "auctionScorecard"][0].range}'
+    '{_id, inventoryNumber, "title": seoSettings.title, content}'
 )
 
 
@@ -27,15 +29,18 @@ def _slugify(title: str) -> str:
     return slug.strip("-")
 
 
-def _format_price(price_range: dict | None) -> str:
-    if not price_range:
+def _extract_price(content) -> str:
+    if not content:
         return ""
-    start = price_range.get("start")
-    end = price_range.get("end")
-    if start and end:
-        return f"Est. ${start:,}–${end:,}"
-    if start:
-        return f"Est. ${start:,}+"
+    for block in content:
+        if isinstance(block, dict) and block.get("_type") == "auctionScorecard":
+            r = block.get("range") or {}
+            start = r.get("start")
+            end = r.get("end")
+            if start and end:
+                return f"Est. ${start:,}–${end:,}"
+            if start:
+                return f"Est. ${start:,}+"
     return ""
 
 
@@ -45,16 +50,19 @@ class LoupeThisScraper(BaseScraper):
     base_url = "https://www.loupethis.com/auctions"
 
     def fetch_inventory(self, max_retries: int = 3) -> dict:
-        api_url = (
-            f"https://{SANITY_PROJECT_ID}.api.sanity.io"
-            f"/v{SANITY_API_VERSION}/data/query/{SANITY_DATASET}"
-        )
+        # Build URL manually so the query string is encoded exactly once
+        base = f"https://{SANITY_PROJECT_ID}.api.sanity.io/v{SANITY_API_VERSION}/data/query/{SANITY_DATASET}"
+        api_url = f"{base}?{urlencode({'query': GROQ_QUERY})}"
+
         last_exc = None
         for attempt in range(1, max_retries + 1):
             try:
-                with httpx.Client(timeout=30) as client:
-                    resp = client.get(api_url, params={"query": GROQ_QUERY})
-                    resp.raise_for_status()
+                with httpx.Client(timeout=30, follow_redirects=True) as client:
+                    resp = client.get(api_url)
+                    if resp.status_code != 200:
+                        raise RuntimeError(
+                            f"API returned HTTP {resp.status_code}: {resp.text[:200]}"
+                        )
                     data = resp.json()
                 inventory = self._parse(data.get("result", []))
                 if not inventory:
@@ -84,7 +92,7 @@ class LoupeThisScraper(BaseScraper):
 
             slug = _slugify(title)
             url = f"https://www.loupethis.com/auctions/{slug}"
-            price = _format_price(item.get("priceRange"))
+            price = _extract_price(item.get("content"))
 
             inventory[inv_num] = {"title": title, "url": url, "price": price}
 
