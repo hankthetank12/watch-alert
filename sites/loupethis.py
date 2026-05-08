@@ -1,6 +1,7 @@
 import logging
 import re
 import time
+from datetime import datetime, timedelta, timezone
 from urllib.parse import urlencode
 
 import httpx
@@ -13,13 +14,21 @@ SANITY_PROJECT_ID = "j0ua8uvr"
 SANITY_DATASET = "production"
 SANITY_API_VERSION = "2021-10-21"
 
-# Fetch the 300 most recently created auction documents.
-# We fetch the full content array and extract the price range in Python
-# to avoid complex nested GROQ filters that can cause 400 errors.
-GROQ_QUERY = (
-    '*[_type == "auction"] | order(_createdAt desc) [0..299]'
-    '{_id, inventoryNumber, "title": seoSettings.title, content}'
-)
+# Only fetch auctions created within this window.
+# Loupe This auctions run 2–4 weeks, so 60 days captures all live ones
+# while excluding years of ended auction history.
+_ACTIVE_WINDOW_DAYS = 60
+
+
+def _build_query() -> str:
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=_ACTIVE_WINDOW_DAYS)).strftime(
+        "%Y-%m-%dT%H:%M:%SZ"
+    )
+    return (
+        f'*[_type == "auction" && _createdAt > "{cutoff}"]'
+        ' | order(_createdAt desc)'
+        '{_id, inventoryNumber, "title": seoSettings.title, content}'
+    )
 
 
 def _slugify(title: str) -> str:
@@ -52,7 +61,7 @@ class LoupeThisScraper(BaseScraper):
     def fetch_inventory(self, max_retries: int = 3) -> dict:
         # Build URL manually so the query string is encoded exactly once
         base = f"https://{SANITY_PROJECT_ID}.api.sanity.io/v{SANITY_API_VERSION}/data/query/{SANITY_DATASET}"
-        api_url = f"{base}?{urlencode({'query': GROQ_QUERY})}"
+        api_url = f"{base}?{urlencode({'query': _build_query()})}"
 
         last_exc = None
         for attempt in range(1, max_retries + 1):
