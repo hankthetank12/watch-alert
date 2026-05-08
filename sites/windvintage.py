@@ -110,20 +110,15 @@ class WindVintageScraper(BaseScraper):
             resp = client.get(url)
             resp.raise_for_status()
             soup = BeautifulSoup(resp.text, "html.parser")
+            # Search all text nodes for "PRICE" and extract the dollar amount
             for node in soup.find_all(string=re.compile(r"PRICE", re.IGNORECASE)):
-                # Price is in an adjacent <a> (mailto link) or sibling text
-                parent = node.parent
-                a = parent.find_next("a")
-                if a:
-                    text = a.get_text(strip=True)
-                    if "$" in text:
-                        return text
-                # Also check for plain text price after the PRICE: label
-                siblings = list(parent.next_siblings)
-                for sib in siblings[:3]:
-                    text = sib.get_text(strip=True) if hasattr(sib, "get_text") else str(sib).strip()
-                    if "$" in text:
-                        return text
+                full_text = node.get_text(strip=True) if hasattr(node, "get_text") else str(node)
+                # Also grab text from the parent element in case price spans multiple nodes
+                if node.parent:
+                    full_text = node.parent.get_text(separator=" ", strip=True)
+                match = re.search(r"\$[\d,]+", full_text)
+                if match:
+                    return match.group(0)
         except Exception as exc:
             logger.debug("[%s] Could not fetch price for %s: %s", self.name, url, exc)
         return ""

@@ -14,6 +14,6 @@ from .sheartime import SheartimeScraper
 REGISTRY: dict = {
     "windvintage":   WindVintageScraper(),
     "greyandpatina": GreyAndPatinaScraper(),
-    # "thekeystone":   TheKeystoneScraper(),
+    "thekeystone":   TheKeystoneScraper(),
     # "sheartime":     SheartimeScraper(),
 }

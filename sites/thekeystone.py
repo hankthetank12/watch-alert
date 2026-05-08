@@ -1,4 +1,5 @@
 import logging
+import re
 import time
 from urllib.parse import urljoin, urlparse
 
@@ -22,7 +23,7 @@ HEADERS = {
 class TheKeystoneScraper(BaseScraper):
     key = "thekeystone"
     name = "The Keystone"
-    base_url = "https://www.thekeystone.com/collections/all-watches"
+    base_url = "https://thekeystone.com/collections/all-watches?sort_by=created-descending"
 
     def fetch_inventory(self, max_retries: int = 3) -> dict:
         last_exc = None
@@ -53,7 +54,6 @@ class TheKeystoneScraper(BaseScraper):
         for a_tag in soup.find_all("a", href=True):
             href = a_tag["href"].strip()
 
-            # Only product detail pages (Shopify pattern)
             if "/products/" not in href:
                 continue
 
@@ -62,7 +62,7 @@ class TheKeystoneScraper(BaseScraper):
             if not slug or slug in inventory:
                 continue
 
-            # Titles on this Shopify site are stored in img alt attributes
+            # Title is stored in the img alt attribute
             img = a_tag.find("img")
             title = (img.get("alt") or "").strip() if img else ""
             if not title:
@@ -70,6 +70,11 @@ class TheKeystoneScraper(BaseScraper):
             if not title:
                 continue
 
-            inventory[slug] = {"title": title, "url": full_url}
+            # Price appears in the card text alongside the title (e.g. "$975,000 USD")
+            card_text = a_tag.get_text(separator=" ", strip=True)
+            price_match = re.search(r"\$[\d,]+", card_text)
+            price = price_match.group(0) if price_match else ""
+
+            inventory[slug] = {"title": title, "url": full_url, "price": price}
 
         return inventory

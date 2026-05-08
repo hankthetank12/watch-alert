@@ -69,11 +69,16 @@ class GreyAndPatinaScraper(BaseScraper):
             if not title:
                 title = a_tag.get_text(separator=" ", strip=True)
 
-            # Strip "SOLD" label that sometimes appears in text
+            # Extract price before stripping other text
+            price_match = re.search(r"\$[\d,]+", title)
+            price = price_match.group(0) if price_match else ""
+
+            # Strip price, "SOLD" label, and stray punctuation from title
+            title = re.sub(r"\$[\d,]+", "", title)
             title = re.sub(r"\bSOLD\b", "", title, flags=re.IGNORECASE).strip(" -–")
             if not title:
                 continue
 
-            inventory[slug] = {"title": title, "url": full_url}
+            inventory[slug] = {"title": title, "url": full_url, "price": price}
 
         return inventory

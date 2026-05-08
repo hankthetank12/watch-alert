@@ -56,7 +56,7 @@ def _build_message(new_by_site: dict[str, list[dict]], from_addr: str, to_addr: 
         items_html = ""
         for w in watches:
             partner_tag = " <em>(Partner listing)</em>" if w.get("is_partner") else ""
-            price_tag = f' <span style="color:#555;font-weight:bold">{w["price"]}</span>' if w.get("price") else ""
+            price_tag = f' <span style="color:#555">{w["price"]}</span>' if w.get("price") else ""
             items_html += f'      <li><a href="{w["url"]}">{w["title"]}</a>{price_tag}{partner_tag}</li>\n'
 
         html_sections.append(f"""\
