@@ -10,6 +10,21 @@ from .base import BaseScraper
 
 logger = logging.getLogger(__name__)
 
+
+def _find_nearby_price(a_tag) -> str:
+    """Climb up the DOM tree from an anchor tag looking for a $price."""
+    node = a_tag.parent
+    for _ in range(6):
+        if node is None:
+            break
+        text = node.get_text(separator=" ", strip=True)
+        m = re.search(r"\$[\d,]+", text)
+        if m:
+            return m.group(0)
+        node = node.parent
+    return ""
+
+
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -70,10 +85,8 @@ class TheKeystoneScraper(BaseScraper):
             if not title:
                 continue
 
-            # Price sits outside the <a> tag — search the parent container
-            container_text = a_tag.parent.get_text(separator=" ", strip=True) if a_tag.parent else ""
-            price_match = re.search(r"\$[\d,]+", container_text)
-            price = price_match.group(0) if price_match else ""
+            # Price is outside the <a> tag — climb up the DOM to find it
+            price = _find_nearby_price(a_tag)
 
             inventory[slug] = {"title": title, "url": full_url, "price": price}
 
