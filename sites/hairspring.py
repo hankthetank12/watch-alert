@@ -20,6 +20,20 @@ HEADERS = {
 }
 
 
+def _find_nearby_price(a_tag) -> str:
+    """Climb up the DOM tree from an anchor tag looking for a $price."""
+    node = a_tag.parent
+    for _ in range(6):
+        if node is None:
+            break
+        text = node.get_text(separator=" ", strip=True)
+        m = re.search(r"\$[\d,]+(?:\.\d{2})?", text)
+        if m:
+            return m.group(0)
+        node = node.parent
+    return ""
+
+
 class HairspringScraper(BaseScraper):
     key = "hairspring"
     name = "Hairspring"
@@ -85,12 +99,9 @@ class HairspringScraper(BaseScraper):
             if not title:
                 continue
 
-            # Price is inside the anchor — extract first $ amount, strip cents
-            link_text = a_tag.get_text(separator=" ", strip=True)
-            m = re.search(r"\$[\d,]+(?:\.\d{2})?", link_text)
-            price = ""
-            if m:
-                price = re.sub(r"\.00$", "", m.group(0))
+            # Price is outside the anchor in <span> tags — climb up the DOM
+            price_raw = _find_nearby_price(a_tag)
+            price = re.sub(r"\.00$", "", price_raw) if price_raw else ""
 
             inventory[slug] = {"title": title, "url": full_url, "price": price}
 

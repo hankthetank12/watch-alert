@@ -90,11 +90,14 @@ class CollectorsCornerNYScraper(BaseScraper):
             if not slug or slug in inventory:
                 continue
 
+            # Title: the anchor itself contains the text (h4 wraps the anchor, not vice versa)
             h4 = a_tag.find("h4")
             title = h4.get_text(strip=True) if h4 else ""
             if not title:
                 img = a_tag.find("img")
                 title = (img.get("alt") or "").strip() if img else ""
+            if not title:
+                title = a_tag.get_text(strip=True)
             if not title:
                 continue
 
