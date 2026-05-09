@@ -52,7 +52,7 @@ class HairspringScraper(BaseScraper):
                     break
                 new_slugs = {k: v for k, v in page_inventory.items() if k not in inventory}
                 inventory.update(new_slugs)
-                if len(new_slugs) < len(page_inventory):
+                if not new_slugs:
                     break
                 page += 1
 
