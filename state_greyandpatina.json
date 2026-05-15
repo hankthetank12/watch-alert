@@ -4,16 +4,6 @@
     "url": "https://greyandpatina.com/product/1984-rolex-16758-gold-tropical-gmt-master/",
     "price": "$ 31,800"
   },
-  "1970-rolex-1601-matte-black-door-stop-datejust-2": {
-    "title": "1969 Rolex 1601 Matte Black “Door Stop” Datejust",
-    "url": "https://greyandpatina.com/product/1970-rolex-1601-matte-black-door-stop-datejust-2/",
-    "price": "$ 7,200"
-  },
-  "1968-rolex-1600-matte-black-dial-datejust-unpolished": {
-    "title": "1968 Rolex 1600 Matte Black Dial Datejust – Unpolished",
-    "url": "https://greyandpatina.com/product/1968-rolex-1600-matte-black-dial-datejust-unpolished/",
-    "price": "$ 8,100"
-  },
   "1970-rolex-6265-black-dial-daytona": {
     "title": "1970 Rolex 6265 Black Dial Daytona",
     "url": "https://greyandpatina.com/product/1970-rolex-6265-black-dial-daytona/",
@@ -118,5 +108,15 @@
     "title": "2023 Rolex 116519LN White Gold Meteorite Dial Daytona W/Box & Paper",
     "url": "https://greyandpatina.com/product/2023-rolex-116519ln-white-gold-meteorite-dial-daytona-w-box-paper/",
     "price": "$ 98,000"
+  },
+  "rolex-116505-everrose-gold-black-dial-daytona-w-box-paper": {
+    "title": "Rolex 116505 Everrose Gold Black Dial Daytona W/Box & Paper",
+    "url": "https://greyandpatina.com/product/rolex-116505-everrose-gold-black-dial-daytona-w-box-paper/",
+    "price": "$ 46,900"
+  },
+  "1971-rolex-1601-black-gilt-dial-datejust": {
+    "title": "1971 Rolex 1601 Black Gilt Dial Datejust",
+    "url": "https://greyandpatina.com/product/1971-rolex-1601-black-gilt-dial-datejust/",
+    "price": "$ 7,600"
   }
 }
