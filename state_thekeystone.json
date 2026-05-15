@@ -59,6 +59,11 @@
     "url": "https://www.thekeystone.com/products/rolex-yellow-gold-day-date-ruby-diamond-watch-ref-18068",
     "price": "$650,000"
   },
+  "audemars-piguet-steel-tonneau-watch-ref-5369-new-arrival": {
+    "title": "Audemars Piguet Steel Tonneau Watch Ref. 5369",
+    "url": "https://www.thekeystone.com/products/audemars-piguet-steel-tonneau-watch-ref-5369-new-arrival",
+    "price": "$6,700"
+  },
   "pate-philippe-rectangular-watch-ref-3557-new-arrival": {
     "title": "Pate Philippe Rectangular Watch Ref. 3557",
     "url": "https://www.thekeystone.com/products/pate-philippe-rectangular-watch-ref-3557-new-arrival",
@@ -104,11 +109,6 @@
     "url": "https://www.thekeystone.com/products/cartier-yellow-gold-pocket-watch-1925",
     "price": "$10,800"
   },
-  "rolex-yellow-gold-jean-claude-killy-watch-ref-6036": {
-    "title": "Rolex Yellow Gold Jean Claude Killy Watch Ref. 6036",
-    "url": "https://www.thekeystone.com/products/rolex-yellow-gold-jean-claude-killy-watch-ref-6036",
-    "price": "$550,000"
-  },
   "audemars-piguet-white-gold-edward-piguet-tourbillon-power-reserve-watch-ref-26006-new-arrival": {
     "title": "Audemars Piguet White Gold Edward Piguet Tourbillon Power Reserve Watch Ref. 26006 (New Arrival)",
     "url": "https://www.thekeystone.com/products/audemars-piguet-white-gold-edward-piguet-tourbillon-power-reserve-watch-ref-26006-new-arrival",
@@ -143,6 +143,11 @@
     "title": "A. Lange & Sohne Rose Gold Little Lange 1 Ref. 813.047 (New Arrival)",
     "url": "https://www.thekeystone.com/products/a-lange-sohne-rose-gold-little-lange-1-ref-813-047-new-arrival",
     "price": "$29,800"
+  },
+  "rolex-yellow-gold-jean-claude-killy-watch-ref-6036": {
+    "title": "Rolex Yellow Gold Jean Claude Killy Watch Ref. 6036",
+    "url": "https://www.thekeystone.com/products/rolex-yellow-gold-jean-claude-killy-watch-ref-6036",
+    "price": "$550,000"
   },
   "rolex-rose-gold-turnograph-oyster-perpetual-ref-6309": {
     "title": "Rolex Rose Gold Turnograph Oyster Perpetual Ref. 6309",
@@ -248,10 +253,5 @@
     "title": "Cartier Yellow Gold Blue Enamel Secret Shutter Watch, European Watch & Clock",
     "url": "https://www.thekeystone.com/products/cartier-yellow-gold-enamel-secret-shutter-watch-european-watch-clock",
     "price": "$36,500"
-  },
-  "cartier-yellow-gold-tank-mecanique-ref-wa300651-with-pave-case": {
-    "title": "Cartier Yellow Gold Tank Mecanique Ref. WA300651 with Pave Case",
-    "url": "https://www.thekeystone.com/products/cartier-yellow-gold-tank-mecanique-ref-wa300651-with-pave-case",
-    "price": "$17,500"
   }
 }
