@@ -9,20 +9,10 @@
     "url": "https://greyandpatina.com/product/1970-rolex-6265-black-dial-daytona/",
     "price": "$ 69,500"
   },
-  "1977-rolex-1675-radial-mk3-w-tropical-insert-gmt": {
-    "title": "1977 Rolex 1675 Radial MK3 w/ Tropical Insert GMT",
-    "url": "https://greyandpatina.com/product/1977-rolex-1675-radial-mk3-w-tropical-insert-gmt/",
-    "price": "$ 21,500"
-  },
   "1994-rolex-16520-black-dial-zenith-daytona-unpolished": {
     "title": "1994 Rolex 16520 Black Dial Zenith Daytona – Unpolished",
     "url": "https://greyandpatina.com/product/1994-rolex-16520-black-dial-zenith-daytona-unpolished/",
     "price": "$ 27,950"
-  },
-  "1997-rolex-16520-white-dial-zenith-daytona-2": {
-    "title": "1997 Rolex 16520 White Dial Zenith Daytona",
-    "url": "https://greyandpatina.com/product/1997-rolex-16520-white-dial-zenith-daytona-2/",
-    "price": "$ 27,500"
   },
   "audemars-piguet-5403bc-white-gold-cobra": {
     "title": "Audemars Piguet 5403BC White Gold Cobra",
@@ -118,5 +108,15 @@
     "title": "1971 Rolex 1601 Black Gilt Dial Datejust",
     "url": "https://greyandpatina.com/product/1971-rolex-1601-black-gilt-dial-datejust/",
     "price": "$ 7,600"
+  },
+  "2020-jaeger-lecoultre-master-ultra-thin-moon-rose-gold-w-box-paper": {
+    "title": "2020 Jaeger LeCoultre Master Ultra Thin Moon Rose Gold W/Box & Paper",
+    "url": "https://greyandpatina.com/product/2020-jaeger-lecoultre-master-ultra-thin-moon-rose-gold-w-box-paper/",
+    "price": "$ 12,500"
+  },
+  "ladies-audemars-piguet-diamond-set-platinum-case": {
+    "title": "Ladies Audemars Piguet Diamond Set Platinum Case",
+    "url": "https://greyandpatina.com/product/ladies-audemars-piguet-diamond-set-platinum-case/",
+    "price": "$ 11,500"
   }
 }
