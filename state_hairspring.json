@@ -109,11 +109,6 @@
     "url": "https://hairspring.com/collections/exclusives/products/classic-micro-rotor-ice-blue-steel",
     "price": "$378,000"
   },
-  "tank-cintree-100th-anniversary-yellow-gold-copy": {
-    "title": "Tank Cintrée, 100th Anniversary, Yellow Gold",
-    "url": "https://hairspring.com/collections/exclusives/products/tank-cintree-100th-anniversary-yellow-gold-copy",
-    "price": "$65,000"
-  },
   "1601-9-datejust-lapis-dial-white-gold": {
     "title": "1601/9, Datejust, Lapis Dial, White Gold",
     "url": "https://hairspring.com/collections/exclusives/products/1601-9-datejust-lapis-dial-white-gold",
@@ -152,32 +147,37 @@
   "140-035-zeitwerk-lumen-phantom-platinum-1": {
     "title": "140.035, Zeitwerk Lumen 'Phantom', Platinum",
     "url": "https://hairspring.com/collections/exclusives/products/140-035-zeitwerk-lumen-phantom-platinum-1",
-    "price": "$225,000"
+    "price": "$415,000"
   },
   "25681pt-perpetual-calendar-clover-platinum": {
     "title": "25681PT, 'Clover' Perpetual Calendar, Platinum",
     "url": "https://hairspring.com/collections/exclusives/products/25681pt-perpetual-calendar-clover-platinum",
-    "price": "$225,000"
+    "price": "$415,000"
   },
   "mirage-38-prussian-blue-white-gold": {
     "title": "Mirage 38, Prussian Blue, White Gold",
     "url": "https://hairspring.com/collections/exclusives/products/mirage-38-prussian-blue-white-gold",
-    "price": "$225,000"
+    "price": "$415,000"
   },
   "5970p-perpetual-calendar-chronograph-platinum": {
     "title": "5970P, Perpetual Calendar Chronograph, Platinum",
     "url": "https://hairspring.com/collections/exclusives/products/5970p-perpetual-calendar-chronograph-platinum",
-    "price": "$225,000"
+    "price": "$415,000"
+  },
+  "tank-cintree-100th-anniversary-yellow-gold-copy": {
+    "title": "Tank Cintrée, 100th Anniversary, Yellow Gold",
+    "url": "https://hairspring.com/collections/exclusives/products/tank-cintree-100th-anniversary-yellow-gold-copy",
+    "price": "$65,000"
   },
   "galet-traveller-enamel-sector-dial-for-hodinkee-titanium": {
     "title": "Galet Traveller, Enamel Sector Dial for Hodinkee, Titanium",
     "url": "https://hairspring.com/collections/exclusives/products/galet-traveller-enamel-sector-dial-for-hodinkee-titanium",
-    "price": "$225,000"
+    "price": "$415,000"
   },
   "5370p-split-seconds-chronograph-platinum-1": {
     "title": "5370P, Split Seconds Chronograph, Platinum",
     "url": "https://hairspring.com/collections/exclusives/products/5370p-split-seconds-chronograph-platinum-1",
-    "price": "$225,000"
+    "price": "$415,000"
   },
   "3800-nautilus-steel": {
     "title": "3800A, Nautilus, Steel",
