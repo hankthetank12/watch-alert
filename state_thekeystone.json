@@ -94,11 +94,6 @@
     "url": "https://www.thekeystone.com/products/audemars-piguet-white-gold-royal-oak-ref-14949-new-arrival",
     "price": "$55,000"
   },
-  "patek-philippe-yellow-gold-golden-ellipse-ref-3666": {
-    "title": "Patek Philippe Yellow Gold Golden Ellipse Ref. 3666",
-    "url": "https://www.thekeystone.com/products/patek-philippe-yellow-gold-golden-ellipse-ref-3666",
-    "price": "$10,500"
-  },
   "rolex-yellow-gold-day-date-ruby-diamond-watch-ref-18068": {
     "title": "Rolex Yellow Gold Day-Date Ruby & Diamond Watch Ref. 18068",
     "url": "https://www.thekeystone.com/products/rolex-yellow-gold-day-date-ruby-diamond-watch-ref-18068",
@@ -109,10 +104,10 @@
     "url": "https://www.thekeystone.com/products/audemars-piguet-steel-tonneau-watch-ref-5369-new-arrival",
     "price": "$6,700"
   },
-  "patek-philippe-steel-nautilus-ref-3800-with-white-dial-new-arrival": {
-    "title": "Patek Philippe Steel Nautilus Ref. 3800 with White Dial (New Arrival)",
-    "url": "https://www.thekeystone.com/products/patek-philippe-steel-nautilus-ref-3800-with-white-dial-new-arrival",
-    "price": "$78,000"
+  "patek-philippe-white-gold-perpetual-calendar-chronograph-ref-5270g-complete-set-new-arrival": {
+    "title": "Patek Philippe White Gold Perpetual Calendar Chronograph Ref. 5270G",
+    "url": "https://www.thekeystone.com/products/patek-philippe-white-gold-perpetual-calendar-chronograph-ref-5270g-complete-set-new-arrival",
+    "price": "$115,000"
   },
   "rolex-yellow-gold-woven-bracelet-cover-watch-with-gay-freres-bracelet-new-arrival": {
     "title": "Rolex Yellow Gold Woven Bracelet Cover Watch with Gay Freres Bracelet (New Arrival)",
@@ -144,10 +139,10 @@
     "url": "https://www.thekeystone.com/products/audemars-piguet-yellow-gold-perpetual-calendar-minute-repeater-pocket-watch-retailed-by-asprey-new-arrival",
     "price": "$155,000"
   },
-  "patek-philippe-white-gold-perpetual-calendar-chronograph-ref-5270g-complete-set-new-arrival": {
-    "title": "Patek Philippe White Gold Perpetual Calendar Chronograph Ref. 5270G",
-    "url": "https://www.thekeystone.com/products/patek-philippe-white-gold-perpetual-calendar-chronograph-ref-5270g-complete-set-new-arrival",
-    "price": "$115,000"
+  "rolex-steel-daytona-ref-16520-u-serial-with-paper-new-arrival": {
+    "title": "Rolex Steel Daytona Ref. 16520 U-Serial with Paper (New Arrival)",
+    "url": "https://www.thekeystone.com/products/rolex-steel-daytona-ref-16520-u-serial-with-paper-new-arrival",
+    "price": "$31,000"
   },
   "patek-philippe-white-gold-perpetual-calendar-watch-ref-3448": {
     "title": "Patek Philippe White Gold Perpetual Calendar Watch Ref. 3448",
@@ -253,5 +248,10 @@
     "title": "Vacheron Constantin Yellow Gold Rectangular Watch Ref. 39200",
     "url": "https://www.thekeystone.com/products/vacheron-constantin-yellow-gold-rectangular-watch-ref-39200",
     "price": "$5,600"
+  },
+  "cartier-yellow-gold-maxi-oval-watch-1967": {
+    "title": "Cartier Yellow Gold Maxi Oval Watch, 1967",
+    "url": "https://www.thekeystone.com/products/cartier-yellow-gold-maxi-oval-watch-1967",
+    "price": "$295,000"
   }
 }
