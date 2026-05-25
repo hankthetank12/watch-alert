@@ -39,11 +39,6 @@
     "url": "https://greyandpatina.com/product/2018-rolex-116500ln-panda-daytona-full-set/",
     "price": "$ 30,500"
   },
-  "1969-rolex-1601-matte-dial-datejust": {
-    "title": "1969 Rolex 1601 Matte Dial Datejust",
-    "url": "https://greyandpatina.com/product/1969-rolex-1601-matte-dial-datejust/",
-    "price": "$ 6,780"
-  },
   "1987-rolex-16610-ghost-submariner": {
     "title": "1987 Rolex 16610 Ghost Submariner",
     "url": "https://greyandpatina.com/product/1987-rolex-16610-ghost-submariner/",
@@ -118,5 +113,10 @@
     "title": "1960 Rolex 6075 yellow Gold Overtone Oyster Perpetual",
     "url": "https://greyandpatina.com/product/1960-rolex-6075-yellow-gold-overtone-oyster-perpetual/",
     "price": "$ 9,500"
+  },
+  "patek-philippe-5054r-rose-gold-moonphase": {
+    "title": "Patek Philippe 5054R Rose Gold Moonphase",
+    "url": "https://greyandpatina.com/product/patek-philippe-5054r-rose-gold-moonphase/",
+    "price": "$ 27,000"
   }
 }
