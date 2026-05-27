@@ -95,10 +95,6 @@
     "title": "Rolex GMT-Master Reference 16753 Unpolished",
     "url": "https://www.windvintage.com/rolex-gmt-master-reference-16753-unpolished"
   },
-  "rolex-mk-4-double-red-sea-dweller-reference-1665-full-set-unpolished": {
-    "title": "Rolex MK 4 Double Red Sea-Dweller Reference 1665 Full Set Unpolished",
-    "url": "https://www.windvintage.com/rolex-mk-4-double-red-sea-dweller-reference-1665-full-set-unpolished"
-  },
   "rolex-mk-4-double-red-seadweller-ref-1665": {
     "title": "Rolex MK 4 Double Red Sea-Dweller Ref 1665",
     "url": "https://www.windvintage.com/rolex-mk-4-double-red-seadweller-ref-1665"
@@ -114,10 +110,6 @@
   "rolex-submariner-ref-1680-w/-ghost-insert": {
     "title": "Rolex Submariner Ref. 1680 w/ Ghost Insert",
     "url": "https://www.windvintage.com/rolex-submariner-ref-1680-w/-ghost-insert"
-  },
-  "rolex-submariner-transitional-matte-dial-reference-16800": {
-    "title": "Rolex Submariner Transitional Matte Dial Reference 16800",
-    "url": "https://www.windvintage.com/rolex-submariner-transitional-matte-dial-reference-16800"
   },
   "rolex-bluesy-submariner-ref-16613-full-set-unpolished": {
     "title": "Rolex \"Bluesy\" Submariner Ref. 16613 Full Set Unpolished",
@@ -164,7 +156,7 @@
     "url": "https://www.windvintage.com/rolex-silver-dial-date-reference-15000-unpolished-w/-papers-booklet"
   },
   "rolex-datejust-ref-1601-in-18k-yellow-gold-roman-dial-unpolished": {
-    "title": "https://www.windvintage.com/rolex-datejust-ref-1601-in-18k-yellow-gold-roman-dial-unpolished",
+    "title": "Rolex Datejust Ref. 1601 in 18k Yellow Gold Roman Dial Unpolished",
     "url": "https://www.windvintage.com/rolex-datejust-ref-1601-in-18k-yellow-gold-roman-dial-unpolished"
   },
   "rolex-datejust-16030-with-silver-dial-unpolished": {
@@ -455,6 +447,10 @@
     "title": "Rolex GMT-Master 1675 Full Set",
     "url": "https://www.windvintage.com/rolex-gmt-master-1675-full-set"
   },
+  "rolex-gmtmaster-ref-1675": {
+    "title": "Rolex GMT-Master Ref 1675",
+    "url": "https://www.windvintage.com/rolex-gmtmaster-ref-1675"
+  },
   "rolex-fuchsia-gmt-master-reference-1675-unpolished5144": {
     "title": "Rolex Fuchsia GMT-Master Reference 1675 Unpolished",
     "url": "https://www.windvintage.com/rolex-fuchsia-gmt-master-reference-1675-unpolished5144"
@@ -522,10 +518,6 @@
   "rolex-gmtmaster-ii-pepsi-126710blro-on-jubilee-full-set-unpolished-copy": {
     "title": "Rolex GMT-Master II Pepsi 126710BLRO on Jubilee Full Set Unpolished Mk 1 Bezel",
     "url": "https://www.windvintage.com/rolex-gmtmaster-ii-pepsi-126710blro-on-jubilee-full-set-unpolished-copy"
-  },
-  "rolex-gmtmaster-ref-1675": {
-    "title": "Rolex GMT-Master Ref 1675",
-    "url": "https://www.windvintage.com/rolex-gmtmaster-ref-1675"
   },
   "universal-genve-tri-compax-ref-52202-in-14k-yg-unpolished": {
     "title": "Universal Genève Tri-Compax Ref. 52202 in 14K YG Unpolished",
@@ -599,6 +591,10 @@
     "title": "Rolex Non-Luminous Datejust Ref. 1601 in 18k Yellow Gold Unpolished",
     "url": "https://www.windvintage.com/rolex-datejust-ref-1601-in-18k-yellow-goldunpolished"
   },
+  "rolex-mk-4-double-red-sea-dweller-reference-1665-full-set-unpolished": {
+    "title": "Rolex MK 4 Double Red Sea-Dweller Reference 1665 Full Set Unpolished",
+    "url": "https://www.windvintage.com/rolex-mk-4-double-red-sea-dweller-reference-1665-full-set-unpolished"
+  },
   "rolex-cern-dial-milgauss-reference-1019-full-set-unpolished": {
     "title": "Rolex CERN Dial Milgauss Reference 1019 Full Set Unpolished",
     "url": "https://www.windvintage.com/rolex-cern-dial-milgauss-reference-1019-full-set-unpolished"
@@ -626,5 +622,9 @@
   "rolex-matte-dial-gmt-master-ref-16750": {
     "title": "Rolex Matte Dial GMT-Master Ref. 16750",
     "url": "https://www.windvintage.com/rolex-matte-dial-gmt-master-ref-16750"
+  },
+  "rolex-submariner-transitional-matte-dial-reference-16800": {
+    "title": "Rolex Submariner Transitional Matte Dial Reference 16800",
+    "url": "https://www.windvintage.com/rolex-submariner-transitional-matte-dial-reference-16800"
   }
 }
