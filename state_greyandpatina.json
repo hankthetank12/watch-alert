@@ -5,7 +5,7 @@
     "price": "$ 23,950"
   },
   "1978-audemars-piguet-14100st-royal-oak-w-paper": {
-    "title": "1978 Audemars Piguet 14100ST Royal Oak W/Paper",
+    "title": "1978 Audemars Piguet 15100st Royal Oak W/Paper",
     "url": "https://greyandpatina.com/product/1978-audemars-piguet-14100st-royal-oak-w-paper/",
     "price": "$ 28,500"
   },
@@ -48,11 +48,6 @@
     "title": "1963 Rolex 1803 White Gold Day-Date",
     "url": "https://greyandpatina.com/product/1963-rolex-1803-white-gold-day-date/",
     "price": "$ 11,970"
-  },
-  "1978-rolex-5513-maxi-mk1-ghost-submariner": {
-    "title": "1978 Rolex 5513 Maxi MK1 Ghost Submariner",
-    "url": "https://greyandpatina.com/product/1978-rolex-5513-maxi-mk1-ghost-submariner/",
-    "price": "$ 16,500"
   },
   "2018-rolex-116655-rose-gold-yacht-master-full-set": {
     "title": "2018 Rolex 116655 Rose Gold Yacht-Master – Full Set",
@@ -118,5 +113,10 @@
     "title": "1979 Rolex 16750 Ghost GMT",
     "url": "https://greyandpatina.com/product/1979-rolex-16750-ghost-gmt/",
     "price": "$ 13,800"
+  },
+  "grand-seiko-spring-drive-sbge275-gmt-box-and-papers": {
+    "title": "Grand Seiko Spring Drive SBGE275 GMT – Box and Papers",
+    "url": "https://greyandpatina.com/product/grand-seiko-spring-drive-sbge275-gmt-box-and-papers/",
+    "price": "$ 6,600"
   }
 }
