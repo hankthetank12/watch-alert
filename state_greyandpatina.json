@@ -29,11 +29,6 @@
     "url": "https://greyandpatina.com/product/1987-rolex-18038-mother-of-pearl-jubilee-diamond-dial-day-date-w-box-booklets/",
     "price": "$ 32,900"
   },
-  "1968-king-seiko-5625-7000-tropical-dial": {
-    "title": "1968 King Seiko 5625-7000 Tropical Dial",
-    "url": "https://greyandpatina.com/product/1968-king-seiko-5625-7000-tropical-dial/",
-    "price": "$ 1,450"
-  },
   "kind-seiko-5625-7000-tropical-silver-dial": {
     "title": "Kind Seiko 5625-7000 Tropical Silver Dial",
     "url": "https://greyandpatina.com/product/kind-seiko-5625-7000-tropical-silver-dial/",
@@ -118,5 +113,10 @@
     "title": "Grand Seiko Spring Drive SBGE275 GMT – Box and Papers",
     "url": "https://greyandpatina.com/product/grand-seiko-spring-drive-sbge275-gmt-box-and-papers/",
     "price": "$ 6,600"
+  },
+  "1971-rolex-1601-tropical-datejust-2": {
+    "title": "1971 Rolex 1601 Tropical Datejust",
+    "url": "https://greyandpatina.com/product/1971-rolex-1601-tropical-datejust-2/",
+    "price": "$ 7,350"
   }
 }
