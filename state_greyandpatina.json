@@ -19,11 +19,6 @@
     "url": "https://greyandpatina.com/product/1987-rolex-18038-mother-of-pearl-jubilee-diamond-dial-day-date-w-box-booklets/",
     "price": "$ 32,900"
   },
-  "kind-seiko-5625-7000-tropical-silver-dial": {
-    "title": "Kind Seiko 5625-7000 Tropical Silver Dial",
-    "url": "https://greyandpatina.com/product/kind-seiko-5625-7000-tropical-silver-dial/",
-    "price": "$ 1,190"
-  },
   "1958-rolex-6536-1-small-crown-submariner-2": {
     "title": "1958 Rolex 6536-1 “Small Crown” Submariner",
     "url": "https://greyandpatina.com/product/1958-rolex-6536-1-small-crown-submariner-2/",
@@ -118,5 +113,10 @@
     "title": "2023 Rolex 116519LN White Gold Meteorite Dial Daytona W/Box & Paper",
     "url": "https://greyandpatina.com/product/2023-rolex-116519ln-white-gold-meteorite-dial-daytona-w-box-paper/",
     "price": "$ 98,000"
+  },
+  "rolex-116505-everrose-gold-black-dial-daytona-w-box-paper": {
+    "title": "Rolex 116505 Everrose Gold Black Dial Daytona W/Box & Paper",
+    "url": "https://greyandpatina.com/product/rolex-116505-everrose-gold-black-dial-daytona-w-box-paper/",
+    "price": "$ 46,900"
   }
 }
