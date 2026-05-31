@@ -4,11 +4,6 @@
     "url": "https://greyandpatina.com/product/1989-rolex-16610-submariner-w-box-paper-lnos/",
     "price": "$ 11,900"
   },
-  "1980s-audemars-piguet-4332-tropical-royal-oak": {
-    "title": "1980’s Audemars Piguet 4332 Tropical Royal Oak",
-    "url": "https://greyandpatina.com/product/1980s-audemars-piguet-4332-tropical-royal-oak/",
-    "price": "$ 39,500"
-  },
   "mbf-m-a-d-2-green-42": {
     "title": "MB&F M.A.D.2 Green 42",
     "url": "https://greyandpatina.com/product/mbf-m-a-d-2-green-42/",
@@ -118,5 +113,10 @@
     "title": "1979 Rolex 16750 Ghost GMT",
     "url": "https://greyandpatina.com/product/1979-rolex-16750-ghost-gmt/",
     "price": "$ 13,800"
+  },
+  "grand-seiko-spring-drive-sbge275-gmt-box-and-papers": {
+    "title": "Grand Seiko Spring Drive SBGE275 GMT – Box and Papers",
+    "url": "https://greyandpatina.com/product/grand-seiko-spring-drive-sbge275-gmt-box-and-papers/",
+    "price": "$ 6,600"
   }
 }
