@@ -49,11 +49,6 @@
     "url": "https://www.thekeystone.com/products/rolex-day-date-ref-18028-with-sapphire-string-dial",
     "price": "$42,000"
   },
-  "patek-philippe-pink-gold-for-guillermin-paris-circa-1947-new-arrival": {
-    "title": "Patek Philippe Pink Gold for Guillermin Paris, Circa 1947",
-    "url": "https://www.thekeystone.com/products/patek-philippe-pink-gold-for-guillermin-paris-circa-1947-new-arrival",
-    "price": "$22,000"
-  },
   "piaget-yellow-gold-lapis-braided-bracelet-watch-new-arrival": {
     "title": "Piaget Yellow Gold Lapis Braided Bracelet Watch",
     "url": "https://www.thekeystone.com/products/piaget-yellow-gold-lapis-braided-bracelet-watch-new-arrival",
@@ -109,6 +104,16 @@
     "url": "https://www.thekeystone.com/products/cartier-yellow-gold-cloche-ref-2841-100-pieces-made-for-cpcp-collection-new-arrival",
     "price": "$74,000"
   },
+  "patek-philipppe-yellow-gold-rectangular-breguet-numerals-watch-ref-431-new-arrival": {
+    "title": "Patek Philipppe Yellow Gold Rectangular Breguet Numerals Watch Ref. 431",
+    "url": "https://www.thekeystone.com/products/patek-philipppe-yellow-gold-rectangular-breguet-numerals-watch-ref-431-new-arrival",
+    "price": "$48,000"
+  },
+  "audemars-piguet-royal-oak-dual-time-watch-ref-25730-with-bright-yellow-dial-new-arrival": {
+    "title": "Audemars Piguet Royal Oak Dual Time Watch Ref. 25730 with Bright Yellow Dial (New Arrival)",
+    "url": "https://www.thekeystone.com/products/audemars-piguet-royal-oak-dual-time-watch-ref-25730-with-bright-yellow-dial-new-arrival",
+    "price": "$105,000"
+  },
   "breguet-cushion-shaped-diver-200m-watch-new-arrival": {
     "title": "Breguet Cushion Shaped Diver 200m Watch (New Arrival)",
     "url": "https://www.thekeystone.com/products/breguet-cushion-shaped-diver-200m-watch-new-arrival",
@@ -138,16 +143,6 @@
     "title": "Patek Philipp Steel Jumbo UFO Ref. 3580 (New Arrival)",
     "url": "https://www.thekeystone.com/products/patek-philipp-steel-jumbo-ufo-ref-3580-new-arrival",
     "price": "$16,000"
-  },
-  "kutchinsky-yellow-gold-tigers-eye-bracelet-watch-new-arrival": {
-    "title": "Kutchinsky Yellow Gold Tigers Eye Bracelet Watch (New Arrival)",
-    "url": "https://www.thekeystone.com/products/kutchinsky-yellow-gold-tigers-eye-bracelet-watch-new-arrival",
-    "price": "$26,000"
-  },
-  "patek-philipppe-yellow-gold-rectangular-breguet-numerals-watch-ref-431-new-arrival": {
-    "title": "Patek Philipppe Yellow Gold Rectangular Breguet Numerals Watch Ref. 431",
-    "url": "https://www.thekeystone.com/products/patek-philipppe-yellow-gold-rectangular-breguet-numerals-watch-ref-431-new-arrival",
-    "price": "$48,000"
   },
   "patek-philippe-rose-gold-power-reserve-moon-phase-calendar-watch-ref-5055": {
     "title": "Patek Philippe Rose Gold Power Reserve Moon Phase Calendar Watch Ref. 5055",
@@ -253,5 +248,10 @@
     "title": "Patek Philippe White Gold Perpetual Calendar Watch Ref. 3448",
     "url": "https://www.thekeystone.com/products/patek-philippe-white-gold-perpetual-calendar-watch-ref-3448",
     "price": "$975,000"
+  },
+  "patek-philippe-yellow-gold-breguet-numerals-ref-438": {
+    "title": "Patek Philippe Yellow Gold Breguet Numerals Ref. 438",
+    "url": "https://www.thekeystone.com/products/patek-philippe-yellow-gold-breguet-numerals-ref-438",
+    "price": "$32,000"
   }
 }
