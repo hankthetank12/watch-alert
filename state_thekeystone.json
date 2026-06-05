@@ -99,25 +99,20 @@
     "url": "https://www.thekeystone.com/products/audemars-piguet-yellow-gold-rectangular-watch-new-arrival",
     "price": "$17,500"
   },
+  "audemars-piguet-platinum-quantieme-perpetual-ref-25717-with-original-box-and-papers-new-arrival": {
+    "title": "Audemars Piguet Platinum Quantieme Perpetual Ref. 25717 with Original Box and Papers",
+    "url": "https://www.thekeystone.com/products/audemars-piguet-platinum-quantieme-perpetual-ref-25717-with-original-box-and-papers-new-arrival",
+    "price": "$55,000"
+  },
   "audemars-piguet-yellow-gold-royal-oak-perpetual-watch-ref-25554-new-arrival": {
     "title": "Audemars Piguet Yellow Gold Royal Oak Perpetual Watch Ref. 25554",
     "url": "https://www.thekeystone.com/products/audemars-piguet-yellow-gold-royal-oak-perpetual-watch-ref-25554-new-arrival",
     "price": "$110,000"
   },
-  "patek-philippe-yellow-gold-calatrava-watch-ref-565-new-arrival": {
-    "title": "Patek Philippe Yellow Gold Calatrava Watch Ref. 565",
-    "url": "https://www.thekeystone.com/products/patek-philippe-yellow-gold-calatrava-watch-ref-565-new-arrival",
-    "price": "$38,000"
-  },
   "rolex-yellow-gold-queen-midas-watch-ref-4314-with-lapis-and-diamond-dial-new-arrival": {
     "title": "Rolex Yellow Gold Queen Midas Watch Ref. 4314 with Lapis and Diamond Dial (New Arrival)",
     "url": "https://www.thekeystone.com/products/rolex-yellow-gold-queen-midas-watch-ref-4314-with-lapis-and-diamond-dial-new-arrival",
     "price": "$38,000"
-  },
-  "audemars-piguet-john-shaeffer-star-wheel-minute-repeater-ref-25881or-new-arrival": {
-    "title": "Audemars Piguet John Shaeffer Star Wheel Minute Repeater Ref. 25881OR (New Arrival)",
-    "url": "https://www.thekeystone.com/products/audemars-piguet-john-shaeffer-star-wheel-minute-repeater-ref-25881or-new-arrival",
-    "price": "$300,000"
   },
   "patek-philippe-white-gold-baguette-diamond-watch-ref-3540-new-arrival": {
     "title": "Patek Philippe White Gold Baguette Diamond Watch Ref. 3540 (New Arrival)",
@@ -143,6 +138,16 @@
     "title": "Cartier Yellow Gold Tank Normale Bracelet Watch  Ref. 78092 (New Arrival)",
     "url": "https://www.thekeystone.com/products/cartier-yellow-gold-tank-normale-bracelet-watch-ref-78092",
     "price": "$36,000"
+  },
+  "cartier-yellow-gold-tank-reverso": {
+    "title": "Cartier Yellow Gold Tank Reverso (New Arrival)",
+    "url": "https://www.thekeystone.com/products/cartier-yellow-gold-tank-reverso",
+    "price": "$34,500"
+  },
+  "patek-philippe-yellow-gold-calatrava-watch-ref-565-new-arrival": {
+    "title": "Patek Philippe Yellow Gold Calatrava Watch Ref. 565",
+    "url": "https://www.thekeystone.com/products/patek-philippe-yellow-gold-calatrava-watch-ref-565-new-arrival",
+    "price": "$38,000"
   },
   "rene-boivin-yellow-gold-aquamarine-bracelet-watch-circa-1950": {
     "title": "Rene Boivin Yellow Gold Aquamarine Bracelet Watch by Juliette Moutard, Circa 1950",
@@ -248,10 +253,5 @@
     "title": "A. Lange & Sohne White Gold Perpetual Calendar Watch Ref. 310.026",
     "url": "https://www.thekeystone.com/products/a-lange-sohne-white-gold-perpetual-calendar-watch-ref-310-026-new-arrival",
     "price": "$64,000"
-  },
-  "patek-philippe-pink-gold-rectangular-watch-ref-425-retailed-by-tiffany-co": {
-    "title": "Patek Philippe Pink Gold Rectangular Watch Ref. 425 Retailed by Tiffany & Co.",
-    "url": "https://www.thekeystone.com/products/patek-philippe-pink-gold-rectangular-watch-ref-425-retailed-by-tiffany-co",
-    "price": "$35,000"
   }
 }
