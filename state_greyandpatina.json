@@ -24,11 +24,6 @@
     "url": "https://greyandpatina.com/product/2010-rolex-116520-white-dial-daytona-w-card/",
     "price": "$ 25,500"
   },
-  "2008-rolex-116520-black-dial-daytona-w-card": {
-    "title": "2008 Rolex 116520 Black Dial Daytona W/Card",
-    "url": "https://greyandpatina.com/product/2008-rolex-116520-black-dial-daytona-w-card/",
-    "price": "$ 23,500"
-  },
   "1970s-patek-phillippe-4132-1-ellipse-hausmann-co": {
     "title": "1970s Patek Phillippe 4132/1 Ellipse “Hausmann & Co.”",
     "url": "https://greyandpatina.com/product/1970s-patek-phillippe-4132-1-ellipse-hausmann-co/",
@@ -118,5 +113,10 @@
     "title": "1984 Rolex 16758 Gold Tropical GMT-Master",
     "url": "https://greyandpatina.com/product/1984-rolex-16758-gold-tropical-gmt-master/",
     "price": "$ 31,800"
+  },
+  "1970-rolex-6265-black-dial-daytona": {
+    "title": "1970 Rolex 6265 Black Dial Daytona",
+    "url": "https://greyandpatina.com/product/1970-rolex-6265-black-dial-daytona/",
+    "price": "$ 75,000"
   }
 }
