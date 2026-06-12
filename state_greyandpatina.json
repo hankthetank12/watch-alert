@@ -34,11 +34,6 @@
     "url": "https://greyandpatina.com/product/2015-patek-philippe-perpetual-calendar-chronograph-5270g-013-full-set/",
     "price": "$ 117,000"
   },
-  "1982-rolex-1655-steve-mcqueen-explorer-ii-w-box-cards": {
-    "title": "1982 Rolex 1655 Steve McQueen Explorer II W/Box & Cards",
-    "url": "https://greyandpatina.com/product/1982-rolex-1655-steve-mcqueen-explorer-ii-w-box-cards/",
-    "price": "$ 22,600"
-  },
   "1993-rolex-16220-tropical-datejust": {
     "title": "1993 Rolex 16220 Tropical Datejust",
     "url": "https://greyandpatina.com/product/1993-rolex-16220-tropical-datejust/",
@@ -118,5 +113,10 @@
     "title": "1998 Rolex 16523 Zenith Two-Tone White Dial Daytona",
     "url": "https://greyandpatina.com/product/1998-rolex-16523-zenith-two-tone-white-dial-daytona/",
     "price": "$ 16,500"
+  },
+  "1968-rolex-1600-matte-dial-datejust": {
+    "title": "1968 Rolex 1600 Matte Dial Datejust",
+    "url": "https://greyandpatina.com/product/1968-rolex-1600-matte-dial-datejust/",
+    "price": "$ 7,950"
   }
 }
