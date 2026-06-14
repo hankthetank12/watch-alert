@@ -1,13 +1,8 @@
 {
-  "balancier-convexe-s-green-titanium": {
-    "title": "Balancier Convexe S Green, Titanium",
-    "url": "https://hairspring.com/collections/exclusives/products/balancier-convexe-s-green-titanium",
-    "price": "$240,000"
-  },
   "363-150-odysseus-honeygold": {
     "title": "363.150, Odysseus, Honeygold",
     "url": "https://hairspring.com/collections/exclusives/products/363-150-odysseus-honeygold",
-    "price": "$240,000"
+    "price": "$205,000"
   },
   "daytona-steel": {
     "title": "6240, Daytona, Steel",
@@ -29,6 +24,11 @@
     "url": "https://hairspring.com/collections/exclusives/products/1601-9-datejust-lapis-dial-white-gold-1",
     "price": "$225,000"
   },
+  "3700-1j-nautilus-beyer-dial-yellow-gold": {
+    "title": "3700/1J, Nautilus, Beyer Dial, Yellow Gold",
+    "url": "https://hairspring.com/collections/exclusives/products/3700-1j-nautilus-beyer-dial-yellow-gold",
+    "price": "$315,000"
+  },
   "5070j-012-saatchi-chronograph-yellow-gold": {
     "title": "5070J-012, Saatchi Edition, Chronograph, Yellow Gold",
     "url": "https://hairspring.com/collections/exclusives/products/5070j-012-saatchi-chronograph-yellow-gold",
@@ -42,12 +42,7 @@
   "701-011-pour-le-merite-tourbillon-pink-gold": {
     "title": "701.011, Pour le Mérite Tourbillon, Pink Gold",
     "url": "https://hairspring.com/collections/exclusives/products/701-011-pour-le-merite-tourbillon-pink-gold",
-    "price": "$240,000"
-  },
-  "3700-1j-nautilus-beyer-dial-yellow-gold": {
-    "title": "3700/1J, Nautilus, Beyer Dial, Yellow Gold",
-    "url": "https://hairspring.com/collections/exclusives/products/3700-1j-nautilus-beyer-dial-yellow-gold",
-    "price": "$315,000"
+    "price": "$205,000"
   },
   "perpetual-calendar-retrograde-date-270th-anniversary-openface-platinum": {
     "title": "Perpetual Calendar Retrograde Date, 270th Anniversary 'Openface', Platinum",
@@ -69,6 +64,11 @@
     "url": "https://hairspring.com/collections/exclusives/products/tank-a-guichets-prive-pink-gold",
     "price": "$140,000"
   },
+  "balancier-convexe-s-green-titanium": {
+    "title": "Balancier Convexe S Green, Titanium",
+    "url": "https://hairspring.com/collections/exclusives/products/balancier-convexe-s-green-titanium",
+    "price": "$240,000"
+  },
   "mirage-38-prussian-blue-white-gold-1": {
     "title": "Mirage 38, Prussian Blue, White Gold",
     "url": "https://hairspring.com/collections/exclusives/products/mirage-38-prussian-blue-white-gold-1",
@@ -82,12 +82,12 @@
   "daytona-singer-prototype-dial-steel": {
     "title": "16520, Daytona, Singer Prototype Dial, Steel",
     "url": "https://hairspring.com/collections/exclusives/products/daytona-singer-prototype-dial-steel",
-    "price": "$315,000"
+    "price": "$115,000"
   },
   "chronograph-black-dial-white-gold": {
     "title": "5170G, Chronograph, White Gold",
     "url": "https://hairspring.com/collections/exclusives/products/chronograph-black-dial-white-gold",
-    "price": "$315,000"
+    "price": "$115,000"
   },
   "3940j-first-series-perpetual-calendar-yellow-gold": {
     "title": "3940J, First Series, Perpetual Calendar, Yellow Gold",
