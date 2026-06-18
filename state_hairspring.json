@@ -1,9 +1,4 @@
 {
-  "royal-oak-jumbo-extra-thin-white-gold": {
-    "title": "Royal Oak, 'Jumbo' Extra Thin, White Gold",
-    "url": "https://hairspring.com/collections/exclusives/products/royal-oak-jumbo-extra-thin-white-gold",
-    "price": "$146,000"
-  },
   "3970ep-small-hallmark-second-series-perpetual-calendar-chronograph-platinum": {
     "title": "3970EP, 'Small Hallmark' Second Series, Perpetual Calendar Chronograph, Platinum",
     "url": "https://hairspring.com/collections/exclusives/products/3970ep-small-hallmark-second-series-perpetual-calendar-chronograph-platinum",
@@ -12,7 +7,7 @@
   "363-150-odysseus-honeygold": {
     "title": "363.150, Odysseus, Honeygold",
     "url": "https://hairspring.com/collections/exclusives/products/363-150-odysseus-honeygold",
-    "price": "$146,000"
+    "price": "$595,000"
   },
   "daytona-steel": {
     "title": "6240, Daytona, Steel",
@@ -34,15 +29,20 @@
     "url": "https://hairspring.com/collections/exclusives/products/1601-9-datejust-lapis-dial-white-gold-1",
     "price": "$225,000"
   },
-  "1941-remontoire-for-hodinkee-steel": {
-    "title": "1941 Remontoire for Hodinkee, Steel",
-    "url": "https://hairspring.com/collections/exclusives/products/1941-remontoire-for-hodinkee-steel",
-    "price": "$120,000"
+  "royal-oak-jumbo-extra-thin-white-gold": {
+    "title": "Royal Oak, 'Jumbo' Extra Thin, White Gold",
+    "url": "https://hairspring.com/collections/exclusives/products/royal-oak-jumbo-extra-thin-white-gold",
+    "price": "$146,000"
   },
   "5070j-012-saatchi-chronograph-yellow-gold": {
     "title": "5070J-012, Saatchi Edition, Chronograph, Yellow Gold",
     "url": "https://hairspring.com/collections/exclusives/products/5070j-012-saatchi-chronograph-yellow-gold",
     "price": "$650,000"
+  },
+  "1941-remontoire-for-hodinkee-steel": {
+    "title": "1941 Remontoire for Hodinkee, Steel",
+    "url": "https://hairspring.com/collections/exclusives/products/1941-remontoire-for-hodinkee-steel",
+    "price": "$120,000"
   },
   "6238-pre-daytona-chronograph-black-galvanic-dial-steel-1": {
     "title": "6238, Black Galvanic Dial, 'Pre-Daytona' Chronograph, Steel",

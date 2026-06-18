@@ -44,11 +44,6 @@
     "url": "https://greyandpatina.com/product/piaget-7131-c701-yellow-gold-square-quartz-polo/",
     "price": "$ 18,450"
   },
-  "2000s-vacheron-constantin-42050-overseas-tropical-dial": {
-    "title": "2000’s Vacheron Constantin 42050 Overseas Tropical Dial",
-    "url": "https://greyandpatina.com/product/2000s-vacheron-constantin-42050-overseas-tropical-dial/",
-    "price": "$ 14,900"
-  },
   "2015-patek-philippe-perpetual-calendar-chronograph-5270g-013-full-set": {
     "title": "2015 Patek Philippe Perpetual Calendar Chronograph 5270G-013 Full Set",
     "url": "https://greyandpatina.com/product/2015-patek-philippe-perpetual-calendar-chronograph-5270g-013-full-set/",
@@ -118,5 +113,10 @@
     "title": "1978 Rolex 16013 Silver Dial Datejust",
     "url": "https://greyandpatina.com/product/1978-rolex-16013-silver-dial-datejust/",
     "price": "$ 6,500"
+  },
+  "1987-rolex-15000-black-dial-oyster-perpetual-date": {
+    "title": "1987 Rolex 15000 Black Dial Oyster Perpetual -Date",
+    "url": "https://greyandpatina.com/product/1987-rolex-15000-black-dial-oyster-perpetual-date/",
+    "price": "$ 5,000"
   }
 }
