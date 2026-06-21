@@ -54,11 +54,6 @@
     "url": "https://greyandpatina.com/product/2015-patek-philippe-perpetual-calendar-chronograph-5270g-013-full-set/",
     "price": "$ 117,000"
   },
-  "1993-rolex-16220-tropical-datejust": {
-    "title": "1993 Rolex 16220 Tropical Datejust",
-    "url": "https://greyandpatina.com/product/1993-rolex-16220-tropical-datejust/",
-    "price": "$ 6,500"
-  },
   "1970-tudor-7021-0-submariner": {
     "title": "1970 Tudor 7021/0 Blue Submariner",
     "url": "https://greyandpatina.com/product/1970-tudor-7021-0-submariner/",
@@ -118,5 +113,10 @@
     "title": "1978 Rolex 16013 Silver Dial Datejust",
     "url": "https://greyandpatina.com/product/1978-rolex-16013-silver-dial-datejust/",
     "price": "$ 6,500"
+  },
+  "1987-rolex-15000-black-dial-oyster-perpetual-date": {
+    "title": "1987 Rolex 15000 Black Dial Oyster Perpetual -Date",
+    "url": "https://greyandpatina.com/product/1987-rolex-15000-black-dial-oyster-perpetual-date/",
+    "price": "$ 5,000"
   }
 }
