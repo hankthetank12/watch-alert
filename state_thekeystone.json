@@ -109,6 +109,16 @@
     "url": "https://www.thekeystone.com/products/rolex-steel-paul-newman-daytona-ref-6239-with-top-condition-cream-dial",
     "price": "$420,000"
   },
+  "rolex-steel-oyster-perpetual-ref-6050-new-arrival": {
+    "title": "Rolex Steel Oyster Perpetual Ref. 6050 (New Arrival)",
+    "url": "https://www.thekeystone.com/products/rolex-steel-oyster-perpetual-ref-6050-new-arrival",
+    "price": "$8,500"
+  },
+  "audemard-piguet-octagon-white-gold-bracelet-watch-new-arrival": {
+    "title": "Audemard Piguet Octagon White Gold Bracelet Watch (New Arrival)",
+    "url": "https://www.thekeystone.com/products/audemard-piguet-octagon-white-gold-bracelet-watch-new-arrival",
+    "price": "$20,000"
+  },
   "patek-philippe-calatrava-yellow-gold-ref-3919j-new-arrival": {
     "title": "Patek Philippe Yellow Gold Calatrava Ref. 3919J (New Arrival)",
     "url": "https://www.thekeystone.com/products/patek-philippe-calatrava-yellow-gold-ref-3919j-new-arrival",
@@ -129,20 +139,10 @@
     "url": "https://www.thekeystone.com/products/patek-philippe-yellow-gold-cioccolatone-watch-ref-2486-new-arrival",
     "price": "$19,500"
   },
-  "rolex-yellow-and-white-gold-cellini-ref-4349-bracelet-watch-new-arrival": {
-    "title": "Rolex Yellow and White Gold Cellini Ref. 4349 Bracelet Watch (New Arrival)",
-    "url": "https://www.thekeystone.com/products/rolex-yellow-and-white-gold-cellini-ref-4349-bracelet-watch-new-arrival",
-    "price": "$18,000"
-  },
-  "audemars-piguet-two-tone-royal-oak-ref-56143sa-new-arrival": {
-    "title": "Audemars Piguet Two Tone Royal Oak Ref. 56143SA (New Arrival)",
-    "url": "https://www.thekeystone.com/products/audemars-piguet-two-tone-royal-oak-ref-56143sa-new-arrival",
-    "price": "$18,000"
-  },
-  "cartier-platinum-tonneau-salon-prive-ref-2803-new-arrival": {
-    "title": "Cartier Platinum Tonneau Salon Prive Ref. 2803 (New Arrival)",
-    "url": "https://www.thekeystone.com/products/cartier-platinum-tonneau-salon-prive-ref-2803-new-arrival",
-    "price": "$26,500"
+  "vacheron-constantin-white-gold-toledo-ref-47300-new-arrival": {
+    "title": "Vacheron Constantin White Gold Toledo Ref. 47300 (New Arrival)",
+    "url": "https://www.thekeystone.com/products/vacheron-constantin-white-gold-toledo-ref-47300-new-arrival",
+    "price": "$17,000"
   },
   "patek-philippe-white-gold-baguette-diamond-watch-ref-3540-new-arrival": {
     "title": "Patek Philippe White Gold Baguette Diamond Watch Ref. 3540",
@@ -253,5 +253,10 @@
     "title": "Audemars Piguet Yellow Gold Rectangular Watch",
     "url": "https://www.thekeystone.com/products/audemars-piguet-yellow-gold-rectangular-watch-new-arrival",
     "price": "$17,500"
+  },
+  "audemars-piguet-two-tone-royal-oak-ref-56143sa-new-arrival": {
+    "title": "Audemars Piguet Two Tone Royal Oak Ref. 56143SA (New Arrival)",
+    "url": "https://www.thekeystone.com/products/audemars-piguet-two-tone-royal-oak-ref-56143sa-new-arrival",
+    "price": "$18,000"
   }
 }
