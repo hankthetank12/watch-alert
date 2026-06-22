@@ -29,6 +29,11 @@
     "url": "https://www.loupethis.com/auctions/patek-philippe-calatrava-2526j-enamel-dial-18k-yg-with-extract-of-the-archives",
     "price": "Est. $20,000–$40,000"
   },
+  "A14331": {
+    "title": "CARTIER VENDOME 78090 18K YG",
+    "url": "https://www.loupethis.com/auctions/cartier-vendome-78090-18k-yg",
+    "price": "Est. $2,000–$4,000"
+  },
   "A14322": {
     "title": "PARMIGIANI FLEURIER Tonda PF Micro-Rotor  PFC914-2020002-200182-EN Grey Dial Platinum",
     "url": "https://www.loupethis.com/auctions/parmigiani-fleurier-tonda-pf-micro-rotor-pfc914-2020002-200182-en-grey-dial-platinum",
@@ -99,10 +104,25 @@
     "url": "https://www.loupethis.com/auctions/ressence-type-3-titanium",
     "price": "Est. $15,000–$25,000"
   },
+  "A14273": {
+    "title": "IWC PILOT WATCH CHRONOGRAPH LE PETIT PRINCE IW377714",
+    "url": "https://www.loupethis.com/auctions/iwc-pilot-watch-chronograph-le-petit-prince-iw377714",
+    "price": "Est. $2,000–$3,000"
+  },
+  "A14268": {
+    "title": "CHRISTOPHER WARD C1 BEL CANTO VIOLA TITANIUM",
+    "url": "https://www.loupethis.com/auctions/christopher-ward-c1-bel-canto-viola-titanium",
+    "price": "Est. $2,000–$3,000"
+  },
   "A14265": {
     "title": "Czapek & Cie. Faubourg de Cracovie Salmon Dial \"King\" Limited Edition",
     "url": "https://www.loupethis.com/auctions/czapek-cie-faubourg-de-cracovie-salmon-dial-king-limited-edition",
     "price": "Est. $10,000–$20,000"
+  },
+  "A14263": {
+    "title": "Louis Erard X Konstantin Chaykin Le Regulateur 85248NN88",
+    "url": "https://www.loupethis.com/auctions/louis-erard-x-konstantin-chaykin-le-regulateur-85248nn88",
+    "price": "Est. $2,000–$3,000"
   },
   "A14262": {
     "title": "Panerai Submersible Bronzo Blu Abisso PAM01074 Bronze",
@@ -112,6 +132,11 @@
   "A14261": {
     "title": "KURONO TOKYO CHRONOGRAPH 3 HISUI",
     "url": "https://www.loupethis.com/auctions/kurono-tokyo-chronograph-3-hisui",
+    "price": "Est. $2,000–$3,000"
+  },
+  "A14260": {
+    "title": "KURONO BUNKYO TOKYO REIWA ANNIVERSARY EDITION",
+    "url": "https://www.loupethis.com/auctions/kurono-bunkyo-tokyo-reiwa-anniversary-edition",
     "price": "Est. $2,000–$3,000"
   },
   "A14255": {
@@ -124,6 +149,11 @@
     "url": "https://www.loupethis.com/auctions/breitling-top-time-810-panda-dial-gold-capped",
     "price": "Est. $1,500–$2,500"
   },
+  "A14252": {
+    "title": "Patek Philippe Calatrava 2457J Silvered Dial 18k YG",
+    "url": "https://www.loupethis.com/auctions/patek-philippe-calatrava-2457j-silvered-dial-18k-yg",
+    "price": "Est. $8,000–$12,000"
+  },
   "A14251": {
     "title": "Audemars Piguet Royal Oak Chronograph Tourbillon 25977ST Stainless Steel",
     "url": "https://www.loupethis.com/auctions/audemars-piguet-royal-oak-chronograph-tourbillon-25977st-stainless-steel",
@@ -133,30 +163,5 @@
     "title": "Patek Philippe Calatrava 2494 Arabic Indexes 18k YG",
     "url": "https://www.loupethis.com/auctions/patek-philippe-calatrava-2494-arabic-indexes-18k-yg",
     "price": "Est. $8,000–$12,000"
-  },
-  "A14250": {
-    "title": "Rolex Sea-Dweller 1665 MK 4 Double Red",
-    "url": "https://www.loupethis.com/auctions/rolex-sea-dweller-1665-mk-4-double-red",
-    "price": "Est. $15,000–$25,000"
-  },
-  "A14249": {
-    "title": "IWC\tBig Pilot IW501001 Stainless Steel",
-    "url": "https://www.loupethis.com/auctions/iwc-big-pilot-iw501001-stainless-steel",
-    "price": "Est. $3,000–$5,000"
-  },
-  "A14248": {
-    "title": "SpaceOne Tellurium TEL-206 Aventurine Dial Titanium",
-    "url": "https://www.loupethis.com/auctions/spaceone-tellurium-tel-206-aventurine-dial-titanium",
-    "price": "Est. $3,000–$5,000"
-  },
-  "A14247": {
-    "title": "Kudoke K2 Bright Silver Dial",
-    "url": "https://www.loupethis.com/auctions/kudoke-k2-bright-silver-dial",
-    "price": "Est. $6,000–$8,000"
-  },
-  "A14246": {
-    "title": "Toledano & Chan b/1.3r Ripple Dial Titanium",
-    "url": "https://www.loupethis.com/auctions/toledano-chan-b13r-ripple-dial-titanium",
-    "price": "Est. $5,000–$8,000"
   }
 }

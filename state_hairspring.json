@@ -1,8 +1,8 @@
 {
-  "type-3b-steel": {
-    "title": "Type 3B, Steel",
-    "url": "https://hairspring.com/collections/exclusives/products/type-3b-steel",
-    "price": "$595,000"
+  "reference-5-platinum": {
+    "title": "Reference 5, Platinum",
+    "url": "https://hairspring.com/collections/exclusives/products/reference-5-platinum",
+    "price": "$55,000"
   },
   "3970ep-small-hallmark-second-series-perpetual-calendar-chronograph-platinum": {
     "title": "3970EP, 'Small Hallmark' Second Series, Perpetual Calendar Chronograph, Platinum",
@@ -12,7 +12,7 @@
   "363-150-odysseus-honeygold": {
     "title": "363.150, Odysseus, Honeygold",
     "url": "https://hairspring.com/collections/exclusives/products/363-150-odysseus-honeygold",
-    "price": "$595,000"
+    "price": "$55,000"
   },
   "daytona-steel": {
     "title": "6240, Daytona, Steel",
@@ -144,6 +144,11 @@
     "url": "https://hairspring.com/collections/exclusives/products/1832-ingenieur-steel",
     "price": "$345,000"
   },
+  "type-3b-steel": {
+    "title": "Type 3B, Steel",
+    "url": "https://hairspring.com/collections/exclusives/products/type-3b-steel",
+    "price": "$345,000"
+  },
   "luc-xps-1860-officer-limited-edition-for-hodinkee-steel": {
     "title": "LUC XPS 1860 for Hodinkee, White Gold",
     "url": "https://hairspring.com/collections/exclusives/products/luc-xps-1860-officer-limited-edition-for-hodinkee-steel",
@@ -177,7 +182,7 @@
   "phillips-hommage-ii-steel": {
     "title": "Hommage II for Phillips, Steel",
     "url": "https://hairspring.com/collections/exclusives/products/phillips-hommage-ii-steel",
-    "price": "$345,000"
+    "price": "$225,000"
   },
   "chronometre-artisans": {
     "title": "Chronomètre Artisans, Rose Gold",
@@ -222,7 +227,7 @@
   "mirage-38-prussian-blue-white-gold-copy": {
     "title": "Mirage 38, Prussian Blue, White Gold",
     "url": "https://hairspring.com/collections/exclusives/products/mirage-38-prussian-blue-white-gold-copy",
-    "price": "$225,000"
+    "price": "$375,000"
   },
   "25681pt-perpetual-calendar-clover-platinum": {
     "title": "25681PT, 'Clover' Perpetual Calendar, Platinum",
@@ -267,7 +272,7 @@
   "3800-nautilus-steel": {
     "title": "3800A, Nautilus, Steel",
     "url": "https://hairspring.com/collections/exclusives/products/3800-nautilus-steel",
-    "price": "$375,000"
+    "price": "$140,000"
   },
   "2526j-calatrava-frecerro-dial-yellow-gold": {
     "title": "2526R, Calatrava, Freccero Signature, Pink Gold",
@@ -317,22 +322,22 @@
   "insight-micro-rotor-titanium": {
     "title": "Insight Micro-Rotor, Natural Titanium",
     "url": "https://hairspring.com/collections/exclusives/products/insight-micro-rotor-titanium",
-    "price": "$455,000"
+    "price": "$180,000"
   },
   "6238-pre-daytona-chronograph-yellow-gold": {
     "title": "6238, 'Pre-Daytona' Chronograph, Yellow Gold",
     "url": "https://hairspring.com/collections/exclusives/products/6238-pre-daytona-chronograph-yellow-gold",
-    "price": "$455,000"
+    "price": "$180,000"
   },
   "mirage-38-sienna-yellow-gold-1": {
     "title": "Mirage 38, Sienna, Yellow Gold",
     "url": "https://hairspring.com/collections/exclusives/products/mirage-38-sienna-yellow-gold-1",
-    "price": "$455,000"
+    "price": "$180,000"
   },
   "704-025-lange-1-tourbillon-platinum": {
     "title": "704.025, Lange 1 Tourbillon, Platinum",
     "url": "https://hairspring.com/collections/exclusives/products/704-025-lange-1-tourbillon-platinum",
-    "price": "$455,000"
+    "price": "$180,000"
   },
   "quadruple-tourbillon-secret-pink-gold": {
     "title": "Quadruple Tourbillon Secret, Pink Gold",
@@ -342,17 +347,17 @@
   "3940p-perpetual-calendar-third-series-platinum": {
     "title": "3940P, Perpetual Calendar, Third Series, Platinum",
     "url": "https://hairspring.com/collections/exclusives/products/3940p-perpetual-calendar-third-series-platinum",
-    "price": "$455,000"
+    "price": "$180,000"
   },
   "6264-paul-newman-daytona-steel": {
     "title": "6264, 'Paul Newman' Daytona, Steel",
     "url": "https://hairspring.com/collections/exclusives/products/6264-paul-newman-daytona-steel",
-    "price": "$455,000"
+    "price": "$180,000"
   },
   "5970r-patek-philippe-perpetual-calendar-chronograph-pink-gold": {
     "title": "5970R, Perpetual Calendar Chronograph, Pink Gold",
     "url": "https://hairspring.com/collections/exclusives/products/5970r-patek-philippe-perpetual-calendar-chronograph-pink-gold",
-    "price": "$455,000"
+    "price": "$180,000"
   },
   "5512-submariner-explorer-dial-steel": {
     "title": "5512, Submariner, Explorer Dial, Steel",
@@ -362,47 +367,47 @@
   "zeitwerk-lumen-honey-gold": {
     "title": "142.055, Zeitwerk Lumen, Honeygold",
     "url": "https://hairspring.com/collections/exclusives/products/zeitwerk-lumen-honey-gold",
-    "price": ""
+    "price": "$153,000"
   },
   "continuum-edition-six-titanium": {
     "title": "C Edition Six, Titanium",
     "url": "https://hairspring.com/collections/exclusives/products/continuum-edition-six-titanium",
-    "price": ""
+    "price": "$153,000"
   },
   "414-026-1815-chronograph-boutique-edition-white-gold-1": {
     "title": "414.026, 1815 Chronograph Boutique Edition, White Gold",
     "url": "https://hairspring.com/collections/exclusives/products/414-026-1815-chronograph-boutique-edition-white-gold-1",
-    "price": ""
+    "price": "$153,000"
   },
   "octa-automatique-reserve-havana-platinum": {
     "title": "Octa Automatique Réserve Havana, Platinum",
     "url": "https://hairspring.com/collections/exclusives/products/octa-automatique-reserve-havana-platinum",
-    "price": ""
+    "price": "$153,000"
   },
   "5370p-split-seconds-chronograph-platinum": {
     "title": "5370P, Split Seconds Chronograph, Platinum",
     "url": "https://hairspring.com/collections/exclusives/products/5370p-split-seconds-chronograph-platinum",
-    "price": ""
+    "price": "$153,000"
   },
   "5575g-world-timer-moonphase-175th-anniversary-white-gold": {
     "title": "5575G, World Time Moonphase, 175th Anniversary, White Gold",
     "url": "https://hairspring.com/collections/exclusives/products/5575g-world-timer-moonphase-175th-anniversary-white-gold",
-    "price": ""
+    "price": "$153,000"
   },
   "405-034-datograph-up-down-lumen-platinum": {
     "title": "405.034, Datograph Up/Down Lumen, Platinum",
     "url": "https://hairspring.com/collections/exclusives/products/405-034-datograph-up-down-lumen-platinum",
-    "price": ""
+    "price": "$153,000"
   },
   "5004r-perpetual-calendar-split-seconds-chronograph-pink-gold": {
     "title": "5004R, Perpetual Calendar Split Seconds Chronograph, Pink Gold",
     "url": "https://hairspring.com/collections/exclusives/products/5004r-perpetual-calendar-split-seconds-chronograph-pink-gold",
-    "price": ""
+    "price": "$153,000"
   },
   "3755pt-perpetual-calendar-tourbillon-skeleton-platinum": {
     "title": "3755PR, Perpetual Calendar Tourbillon Skeleton, Platinum",
     "url": "https://hairspring.com/collections/exclusives/products/3755pt-perpetual-calendar-tourbillon-skeleton-platinum",
-    "price": ""
+    "price": "$50,000"
   },
   "43031-perpetual-calendar-guilloche-dial-platinum": {
     "title": "43031, Perpetual Calendar, 'Vieux Panier’ Guilloché Dial, Platinum",
@@ -447,7 +452,7 @@
   "h39-monopoussoir": {
     "title": "H39 Monopoussoir, White Gold",
     "url": "https://hairspring.com/collections/exclusives/products/h39-monopoussoir",
-    "price": "$50,000"
+    "price": "$220,000"
   },
   "little-lange-1-mother-of-pearl-dial": {
     "title": "113.041, Little Lange 1, Blue Mother of Pearl Dial, Pink Gold",
@@ -497,42 +502,42 @@
   "116-032-lange-1-time-zone-yellow-gold": {
     "title": "116.032, Lange 1 Time Zone, Pink Gold",
     "url": "https://hairspring.com/collections/exclusives/products/116-032-lange-1-time-zone-yellow-gold",
-    "price": ""
+    "price": "$90,000"
   },
   "h11-central-balance-blue-dial-pink-gold": {
     "title": "H11, Central Balance, Blue Dial, Pink Gold",
     "url": "https://hairspring.com/collections/exclusives/products/h11-central-balance-blue-dial-pink-gold",
-    "price": ""
+    "price": "$90,000"
   },
   "6239": {
     "title": "6239, Daytona, 'Cherry Red', Steel",
     "url": "https://hairspring.com/collections/exclusives/products/6239",
-    "price": ""
+    "price": "$90,000"
   },
   "6238-pre-daytona-chronograph-black-galvanic-dial-steel": {
     "title": "6238, 'Pre-Daytona' Chronograph, Black Galvanic Dial, Steel",
     "url": "https://hairspring.com/collections/exclusives/products/6238-pre-daytona-chronograph-black-galvanic-dial-steel",
-    "price": ""
+    "price": "$90,000"
   },
   "mirage-34-lapis-lazuli-white-gold": {
     "title": "Mirage 34, Lapis Lazuli, White Gold",
     "url": "https://hairspring.com/collections/exclusives/products/mirage-34-lapis-lazuli-white-gold",
-    "price": ""
+    "price": "$90,000"
   },
   "tortue-monopoussoir-prive-platinum": {
     "title": "Tortue Monopoussoir, Privé, Platinum",
     "url": "https://hairspring.com/collections/exclusives/products/tortue-monopoussoir-prive-platinum",
-    "price": ""
+    "price": "$90,000"
   },
   "403-035-datograph-first-generation-platinum": {
     "title": "403.035, Datograph, First Generation, Platinum",
     "url": "https://hairspring.com/collections/exclusives/products/403-035-datograph-first-generation-platinum",
-    "price": ""
+    "price": "$90,000"
   },
   "6205-submariner-occ-tropical-dial-steel": {
     "title": "6205, Submariner, 'OCC' Tropical Dial, Steel",
     "url": "https://hairspring.com/collections/exclusives/products/6205-submariner-occ-tropical-dial-steel",
-    "price": ""
+    "price": "$90,000"
   },
   "anywhere-aurora-titanium": {
     "title": "Anywhere Aurora, Titanium",
