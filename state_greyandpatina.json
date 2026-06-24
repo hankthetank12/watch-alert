@@ -9,11 +9,6 @@
     "url": "https://greyandpatina.com/product/1991-rolex-14060-submariner-8/",
     "price": "$ 9,500"
   },
-  "1971-rolex-1601-black-gilt-dial-datejust-2": {
-    "title": "1971 Rolex 1601 Black Gilt Dial Datejust",
-    "url": "https://greyandpatina.com/product/1971-rolex-1601-black-gilt-dial-datejust-2/",
-    "price": "$ 6,900"
-  },
   "1986-rolex-16030-tropical-olive-green-datejust": {
     "title": "1986 Rolex 16030 Tropical Olive Green Datejust",
     "url": "https://greyandpatina.com/product/1986-rolex-16030-tropical-olive-green-datejust/",
@@ -118,5 +113,10 @@
     "title": "1981 Rolex 6694 Silver Dial OysterDate",
     "url": "https://greyandpatina.com/product/1981-rolex-6694-silver-dial-oysterdate/",
     "price": "$ 3,900"
+  },
+  "1970-rolex-1501-blue-mosaic-dial-oyster-perpetual": {
+    "title": "1970 Rolex 1501 Blue Mosaic Dial Oyster Perpetual",
+    "url": "https://greyandpatina.com/product/1970-rolex-1501-blue-mosaic-dial-oyster-perpetual/",
+    "price": "$ 5,000"
   }
 }
