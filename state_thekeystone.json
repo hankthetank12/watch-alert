@@ -34,11 +34,6 @@
     "url": "https://www.thekeystone.com/products/cartier-platinum-tank-louis-extra-flat-watch",
     "price": "$95,000"
   },
-  "breguet-steel-chronograph-watch-1940s": {
-    "title": "Breguet Steel Chronograph Watch, 1940s",
-    "url": "https://www.thekeystone.com/products/breguet-steel-chronograph-watch-1940s",
-    "price": "$75,000"
-  },
   "patek-philippe-rose-gold-gondolo-ref-5098r-001": {
     "title": "Patek Philippe Rose Gold Gondolo Ref. 5098R-001",
     "url": "https://www.thekeystone.com/products/patek-philippe-rose-gold-gondolo-ref-5098r-001",
@@ -58,11 +53,6 @@
     "title": "Audemars Piguet Yellow Gold Pietersite Stone Dial Watch Ref. 4647",
     "url": "https://www.thekeystone.com/products/audemars-piguet-yellow-gold-pietersite-stone-dial-watch-ref-4647",
     "price": "$39,500"
-  },
-  "patek-philippe-calatrava-yellow-gold-ref-3919j-new-arrival": {
-    "title": "Patek Philippe Yellow Gold Calatrava Ref. 3919J",
-    "url": "https://www.thekeystone.com/products/patek-philippe-calatrava-yellow-gold-ref-3919j-new-arrival",
-    "price": "$12,800"
   },
   "patek-philippe-white-gold-bracelet-watch-ref-3430-new-arrival": {
     "title": "Patek Philippe White Gold Bracelet Watch Ref. 3430",
@@ -109,6 +99,16 @@
     "url": "https://www.thekeystone.com/products/rolex-steel-paul-newman-daytona-ref-6239-with-black-dial",
     "price": "$365,000"
   },
+  "patek-philippe-yellow-gold-golden-ellipse-ref-3546-new-arrival": {
+    "title": "Patek Philippe Yellow Gold Golden Ellipse Ref. 3546",
+    "url": "https://www.thekeystone.com/products/patek-philippe-yellow-gold-golden-ellipse-ref-3546-new-arrival",
+    "price": "$14,500"
+  },
+  "patek-philippe-white-gold-calatrava-ref-570-with-original-paper": {
+    "title": "Patek Philippe White Gold Calatrava Ref. 570 with Original Paper",
+    "url": "https://www.thekeystone.com/products/patek-philippe-white-gold-calatrava-ref-570-with-original-paper",
+    "price": "$45,000"
+  },
   "rolex-yellow-gold-scalloped-watch-new-arrival": {
     "title": "Rolex Yellow Gold Scalloped Watch (New Arrival)",
     "url": "https://www.thekeystone.com/products/rolex-yellow-gold-scalloped-watch-new-arrival",
@@ -143,16 +143,6 @@
     "title": "Patek Philippe White Gold Golden Ellipse Ref. 3546 (New Arrival)",
     "url": "https://www.thekeystone.com/products/patek-philippe-white-gold-golden-ellipse-ref-3546-new-arrival",
     "price": "$15,500"
-  },
-  "patek-philippe-yellow-gold-golden-ellipse-ref-3546-new-arrival": {
-    "title": "Patek Philippe Yellow Gold Golden Ellipse Ref. 3546",
-    "url": "https://www.thekeystone.com/products/patek-philippe-yellow-gold-golden-ellipse-ref-3546-new-arrival",
-    "price": "$14,500"
-  },
-  "patek-philippe-white-gold-calatrava-ref-570-with-original-paper": {
-    "title": "Patek Philippe White Gold Calatrava Ref. 570 with Original Paper",
-    "url": "https://www.thekeystone.com/products/patek-philippe-white-gold-calatrava-ref-570-with-original-paper",
-    "price": "$45,000"
   },
   "chopard-white-gold-onyx-mechanical-bracelet-watch": {
     "title": "Chopard White Gold Onyx Mechanical Bracelet Watch",
@@ -224,11 +214,6 @@
     "url": "https://www.thekeystone.com/products/patek-philippe-yellow-gold-world-time-watch-ref-1417",
     "price": "$245,000"
   },
-  "rolex-yellow-gold-queen-midas-watch-ref-4314-with-lapis-and-diamond-dial-new-arrival": {
-    "title": "Rolex Yellow Gold Queen Midas Watch Ref. 4314 with Lapis and Diamond Dial",
-    "url": "https://www.thekeystone.com/products/rolex-yellow-gold-queen-midas-watch-ref-4314-with-lapis-and-diamond-dial-new-arrival",
-    "price": "$38,000"
-  },
   "audemars-piguet-perpetual-calendar-minute-repeater-murat-pocket-watch-new-arrival": {
     "title": "Audemars Piguet Perpetual Calendar Minute Repeater Murat Pocket Watch",
     "url": "https://www.thekeystone.com/products/audemars-piguet-perpetual-calendar-minute-repeater-murat-pocket-watch-new-arrival",
@@ -244,6 +229,11 @@
     "url": "https://www.thekeystone.com/products/patek-philippe-yellow-gold-golden-rule-ref-2526-retailed-by-tiffany-co",
     "price": "$245,000"
   },
+  "rolex-steel-paul-newman-daytona-ref-6239-with-top-condition-cream-dial": {
+    "title": "Rolex Steel Paul Newman Daytona Ref. 6239 with Top Condition Cream Dial",
+    "url": "https://www.thekeystone.com/products/rolex-steel-paul-newman-daytona-ref-6239-with-top-condition-cream-dial",
+    "price": "$420,000"
+  },
   "patek-philippe-white-gold-baguette-diamond-watch-ref-3540-new-arrival": {
     "title": "Patek Philippe White Gold Baguette Diamond Watch Ref. 3540",
     "url": "https://www.thekeystone.com/products/patek-philippe-white-gold-baguette-diamond-watch-ref-3540-new-arrival",
@@ -253,5 +243,15 @@
     "title": "Audemars Piguet Royal Oak Dual Time Watch Ref. 25730 with Bright Yellow Dial with Original Warranty Paper",
     "url": "https://www.thekeystone.com/products/audemars-piguet-royal-oak-dual-time-watch-ref-25730-with-bright-yellow-dial-new-arrival",
     "price": "$105,000"
+  },
+  "audemars-piguet-yellow-gold-horse-shoe-watch-for-hermes": {
+    "title": "Audemars Piguet Yellow Gold Horse Shoe Watch for Hermes",
+    "url": "https://www.thekeystone.com/products/audemars-piguet-yellow-gold-horse-shoe-watch-for-hermes",
+    "price": "$34,000"
+  },
+  "audemars-piguet-white-gold-perpetual-calendar-watch-ref-25850": {
+    "title": "Audemars Piguet Platinum Quantieme Perpetual Calendar Watch Ref. 25850",
+    "url": "https://www.thekeystone.com/products/audemars-piguet-white-gold-perpetual-calendar-watch-ref-25850",
+    "price": "$115,000"
   }
 }
