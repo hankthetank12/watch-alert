@@ -1,9 +1,4 @@
 {
-  "3417-amagnetic-steel-1": {
-    "title": "3417, Amagnetic, Steel",
-    "url": "https://hairspring.com/collections/exclusives/products/3417-amagnetic-steel-1",
-    "price": "$125,000"
-  },
   "square-micro-rotor-ice-blue-steel": {
     "title": "Square Micro-Rotor, Ice Blue, Steel",
     "url": "https://hairspring.com/collections/exclusives/products/square-micro-rotor-ice-blue-steel",
@@ -17,7 +12,12 @@
   "166-066-lange-1-time-zone-25th-anniversary-white-gold": {
     "title": "116.066, Lange 1 Time Zone, 25th Anniversary, White Gold",
     "url": "https://hairspring.com/collections/exclusives/products/166-066-lange-1-time-zone-25th-anniversary-white-gold",
-    "price": "$125,000"
+    "price": "$45,000"
+  },
+  "3700-1j-nautilus-beyer-dial-yellow-gold": {
+    "title": "3700/1J, Nautilus, Beyer Dial, Yellow Gold",
+    "url": "https://hairspring.com/collections/exclusives/products/3700-1j-nautilus-beyer-dial-yellow-gold",
+    "price": "$315,000"
   },
   "daytona-steel": {
     "title": "6240, Daytona, Steel",
@@ -34,15 +34,10 @@
     "url": "https://hairspring.com/collections/exclusives/products/chronometre-souverain-38mm-pink-gold",
     "price": "$400,000"
   },
-  "3700-1j-nautilus-beyer-dial-yellow-gold": {
-    "title": "3700/1J, Nautilus, Beyer Dial, Yellow Gold",
-    "url": "https://hairspring.com/collections/exclusives/products/3700-1j-nautilus-beyer-dial-yellow-gold",
-    "price": "$315,000"
-  },
   "403-035-datograph-wellendorff-first-generation-platinum": {
     "title": "403.035, Datograph Wellendorff, First Generation, Platinum",
     "url": "https://hairspring.com/collections/exclusives/products/403-035-datograph-wellendorff-first-generation-platinum",
-    "price": "$125,000"
+    "price": "$45,000"
   },
   "1601-9-datejust-lapis-dial-white-gold-1": {
     "title": "1601/9, Datejust, Lapis Dial, White Gold",
@@ -52,17 +47,22 @@
   "363-150-odysseus-honeygold": {
     "title": "363.150, Odysseus, Honeygold",
     "url": "https://hairspring.com/collections/exclusives/products/363-150-odysseus-honeygold",
-    "price": "$225,000"
+    "price": "$146,000"
   },
   "reference-5-platinum": {
     "title": "Reference 5, Platinum",
     "url": "https://hairspring.com/collections/exclusives/products/reference-5-platinum",
-    "price": "$225,000"
+    "price": "$146,000"
   },
   "royal-oak-jumbo-extra-thin-white-gold": {
     "title": "Royal Oak, 'Jumbo' Extra Thin, White Gold",
     "url": "https://hairspring.com/collections/exclusives/products/royal-oak-jumbo-extra-thin-white-gold",
     "price": "$146,000"
+  },
+  "3417-amagnetic-steel-1": {
+    "title": "3417, Amagnetic, Steel",
+    "url": "https://hairspring.com/collections/exclusives/products/3417-amagnetic-steel-1",
+    "price": "$125,000"
   },
   "5070j-012-saatchi-chronograph-yellow-gold": {
     "title": "5070J-012, Saatchi Edition, Chronograph, Yellow Gold",
@@ -82,7 +82,7 @@
   "701-011-pour-le-merite-tourbillon-pink-gold": {
     "title": "701.011, Pour le Mérite Tourbillon, Pink Gold",
     "url": "https://hairspring.com/collections/exclusives/products/701-011-pour-le-merite-tourbillon-pink-gold",
-    "price": "$225,000"
+    "price": "$146,000"
   },
   "perpetual-calendar-retrograde-date-270th-anniversary-openface-platinum": {
     "title": "Perpetual Calendar Retrograde Date, 270th Anniversary 'Openface', Platinum",
@@ -114,9 +114,9 @@
     "url": "https://hairspring.com/collections/exclusives/products/balancier-convexe-s-green-titanium",
     "price": "$180,000"
   },
-  "octa-quantieme-perpetuel-platinum": {
-    "title": "Octa Quantième Perpétuel, Platinum",
-    "url": "https://hairspring.com/collections/exclusives/products/octa-quantieme-perpetuel-platinum",
+  "chronometre-a-resonance-brass-movement-platinum": {
+    "title": "Chronomètre à Résonance, Brass Movement, Platinum",
+    "url": "https://hairspring.com/collections/exclusives/products/chronometre-a-resonance-brass-movement-platinum",
     "price": "$85,000"
   },
   "mirage-38-prussian-blue-white-gold-1": {
@@ -324,6 +324,11 @@
     "url": "https://hairspring.com/collections/exclusives/products/signature-1-piece-unique",
     "price": "$155,000"
   },
+  "chronographe-monopoussoir-rattrapante-red-gold": {
+    "title": "FP-Journe-Chronographe-Monopoussoir-Rattrapante",
+    "url": "https://hairspring.com/collections/exclusives/products/chronographe-monopoussoir-rattrapante-red-gold",
+    "price": "$155,000"
+  },
   "25820pt-tuscan-dial-royal-oak-quantieme-perpetuel-platinum": {
     "title": "Audemars-Piguet-Tuscan-Dial-Royal-Oak-Perpetual-Calendar-25820PT",
     "url": "https://hairspring.com/collections/exclusives/products/25820pt-tuscan-dial-royal-oak-quantieme-perpetuel-platinum",
@@ -337,11 +342,6 @@
   "nso-cintree-platinum": {
     "title": "Tank Cintrée, NSO, Platinum",
     "url": "https://hairspring.com/collections/exclusives/products/nso-cintree-platinum",
-    "price": "$155,000"
-  },
-  "elegante-titalyt-48": {
-    "title": "Élégante 48, Titalyt",
-    "url": "https://hairspring.com/collections/exclusives/products/elegante-titalyt-48",
     "price": "$155,000"
   },
   "5402st-royal-oak-c-series-steel": {
@@ -362,6 +362,11 @@
   "6238-pre-daytona-chronograph-yellow-gold": {
     "title": "6238, 'Pre-Daytona' Chronograph, Yellow Gold",
     "url": "https://hairspring.com/collections/exclusives/products/6238-pre-daytona-chronograph-yellow-gold",
+    "price": ""
+  },
+  "octa-quantieme-perpetuel-platinum": {
+    "title": "Octa Quantième Perpétuel, Platinum",
+    "url": "https://hairspring.com/collections/exclusives/products/octa-quantieme-perpetuel-platinum",
     "price": ""
   },
   "mirage-38-sienna-yellow-gold-1": {
@@ -447,7 +452,7 @@
   "43031-perpetual-calendar-guilloche-dial-platinum": {
     "title": "43031, Perpetual Calendar, 'Vieux Panier’ Guilloché Dial, Platinum",
     "url": "https://hairspring.com/collections/exclusives/products/43031-perpetual-calendar-guilloche-dial-platinum",
-    "price": ""
+    "price": "$50,000"
   },
   "1806-day-date-florentine-pink-gold": {
     "title": "1806, Day-Date, Florentine Case, Pink Gold",
@@ -492,7 +497,7 @@
   "little-lange-1-mother-of-pearl-dial": {
     "title": "113.041, Little Lange 1, Blue Mother of Pearl Dial, Pink Gold",
     "url": "https://hairspring.com/collections/exclusives/products/little-lange-1-mother-of-pearl-dial",
-    "price": "$50,000"
+    "price": "$90,000"
   },
   "5990a-nautilus-travel-time-chronograph-tiffany-dial-steel": {
     "title": "5990/1A, Nautilus Travel Time Chronograph, Tiffany Dial, Steel",
@@ -537,7 +542,7 @@
   "116-032-lange-1-time-zone-yellow-gold": {
     "title": "116.032, Lange 1 Time Zone, Pink Gold",
     "url": "https://hairspring.com/collections/exclusives/products/116-032-lange-1-time-zone-yellow-gold",
-    "price": "$90,000"
+    "price": ""
   },
   "h11-central-balance-blue-dial-pink-gold": {
     "title": "H11, Central Balance, Blue Dial, Pink Gold",
@@ -809,11 +814,6 @@
     "url": "https://hairspring.com/collections/exclusives/products/113-041-little-lange-1-mother-of-pearl-dial-pink-gold",
     "price": ""
   },
-  "chronometre-a-resonance-brass-movement-platinum": {
-    "title": "Chronomètre à Résonance, Brass Movement, Platinum",
-    "url": "https://hairspring.com/collections/exclusives/products/chronometre-a-resonance-brass-movement-platinum",
-    "price": ""
-  },
   "db27-titan-hawk-v2-titanium": {
     "title": "DB27, Titan Hawk V2, Titanium",
     "url": "https://hairspring.com/collections/exclusives/products/db27-titan-hawk-v2-titanium",
@@ -904,11 +904,6 @@
     "url": "https://hairspring.com/collections/exclusives/products/1832-ingenieur-sl-steel",
     "price": ""
   },
-  "chronographe-monopoussoir-rattrapante-red-gold": {
-    "title": "FP-Journe-Chronographe-Monopoussoir-Rattrapante",
-    "url": "https://hairspring.com/collections/exclusives/products/chronographe-monopoussoir-rattrapante-red-gold",
-    "price": ""
-  },
   "47100-chronograph-skeleton-yellow-gold": {
     "title": "Vacheron-Constantin-47100-Skeleton-Chronograph",
     "url": "https://hairspring.com/collections/exclusives/products/47100-chronograph-skeleton-yellow-gold",
@@ -994,6 +989,11 @@
     "url": "https://hairspring.com/collections/exclusives/products/401-026-1815-chronograph-first-generation-white-gold",
     "price": ""
   },
+  "elegante-titalyt-48": {
+    "title": "Élégante 48, Titalyt",
+    "url": "https://hairspring.com/collections/exclusives/products/elegante-titalyt-48",
+    "price": ""
+  },
   "239-050-1815-thin-homage-to-fa-lange-honey-gold": {
     "title": "Lange-1815-Thin-Homage-FA-Lange-239.050",
     "url": "https://hairspring.com/collections/exclusives/products/239-050-1815-thin-homage-to-fa-lange-honey-gold",
@@ -1025,7 +1025,7 @@
     "price": ""
   },
   "rq-salmon-dial-chronometre-a-resonance-platinum": {
-    "title": "FP-Journe-Resonance-RQ-Salmon-Platinum",
+    "title": "FP-Journe-Resonance-RQ",
     "url": "https://hairspring.com/collections/exclusives/products/rq-salmon-dial-chronometre-a-resonance-platinum",
     "price": ""
   },
@@ -1187,11 +1187,6 @@
   "ur-102-reloaded-set-titanium-steel": {
     "title": "Urwerk-UR-102-Reloaded",
     "url": "https://hairspring.com/collections/exclusives/products/ur-102-reloaded-set-titanium-steel",
-    "price": ""
-  },
-  "chronometre-bleu-tantalum": {
-    "title": "FP-Journe-Chronomètre-Bleu",
-    "url": "https://hairspring.com/collections/exclusives/products/chronometre-bleu-tantalum",
     "price": ""
   },
   "2913-3-meister-dial-seamaster-300-steel": {
