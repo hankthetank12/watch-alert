@@ -29,11 +29,6 @@
     "url": "https://greyandpatina.com/product/1975-rolex-4014-tropical-cellini/",
     "price": "$ 6,500"
   },
-  "1991-rolex-14060-submariner-8": {
-    "title": "1991 Rolex 14060 Submariner",
-    "url": "https://greyandpatina.com/product/1991-rolex-14060-submariner-8/",
-    "price": "$ 9,500"
-  },
   "1978-tudor-9420-0-monte-carlo-grey-tropical-big-block": {
     "title": "1978 Tudor 9420/0 Monte Carlo Grey Tropical Big Block",
     "url": "https://greyandpatina.com/product/1978-tudor-9420-0-monte-carlo-grey-tropical-big-block/",
@@ -118,5 +113,10 @@
     "title": "1970 Rolex 1501 Blue Mosaic Dial Oyster Perpetual",
     "url": "https://greyandpatina.com/product/1970-rolex-1501-blue-mosaic-dial-oyster-perpetual/",
     "price": "$ 5,000"
+  },
+  "1968-rolex-1500-tropical-lavender-dial-oyster-perpetual": {
+    "title": "1968 Rolex 1500 Tropical Lavender Dial Oyster Perpetual",
+    "url": "https://greyandpatina.com/product/1968-rolex-1500-tropical-lavender-dial-oyster-perpetual/",
+    "price": "$ 8,500"
   }
 }
