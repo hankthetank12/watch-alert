@@ -39,11 +39,6 @@
     "url": "https://www.thekeystone.com/products/chaumet-yellow-gold-lapis-turquoise-watch",
     "price": "$22,500"
   },
-  "piaget-yellow-gold-id-bracelet-cover-watch": {
-    "title": "Piaget Yellow Gold ID Bracelet Cover Watch",
-    "url": "https://www.thekeystone.com/products/piaget-yellow-gold-id-bracelet-cover-watch",
-    "price": "$39,500"
-  },
   "cartier-platinum-watch-1930s": {
     "title": "Cartier Platinum Watch, 1930s",
     "url": "https://www.thekeystone.com/products/cartier-platinum-watch-1930s",
@@ -109,6 +104,11 @@
     "url": "https://www.thekeystone.com/products/patek-philippe-rose-gold-gondolo-ref-5098r-001",
     "price": "$20,000"
   },
+  "rolex-steel-oyster-perpetual-ref-6050-new-arrival": {
+    "title": "Rolex Steel Oyster Perpetual Ref. 6050",
+    "url": "https://www.thekeystone.com/products/rolex-steel-oyster-perpetual-ref-6050-new-arrival",
+    "price": "$8,500"
+  },
   "rolex-steel-oyster-perpetual-date-submariner-ref-1680-with-5-5m-serial-new-arrival": {
     "title": "Rolex Steel Oyster Perpetual Date Submariner Ref. 1680 with 5.5m Serial (New Arrival)",
     "url": "https://www.thekeystone.com/products/rolex-steel-oyster-perpetual-date-submariner-ref-1680-with-5-5m-serial-new-arrival",
@@ -143,11 +143,6 @@
     "title": "Audemars Piguet White Gold Octagonal Bracelet Watch (New Arrivals)",
     "url": "https://www.thekeystone.com/products/audemars-piguet-white-gold-octagonal-bracelet-watch-new-arrivals",
     "price": "$18,500"
-  },
-  "rolex-steel-oyster-perpetual-ref-6050-new-arrival": {
-    "title": "Rolex Steel Oyster Perpetual Ref. 6050",
-    "url": "https://www.thekeystone.com/products/rolex-steel-oyster-perpetual-ref-6050-new-arrival",
-    "price": "$8,500"
   },
   "audemard-piguet-octagon-white-gold-bracelet-watch-new-arrival": {
     "title": "Audemars Piguet - Audemard Piguet Octagon Falcon Eye Stone Dial White Gold Bracelet Watch",
@@ -253,5 +248,10 @@
     "title": "Cartier Yellow Gold Bracelet Watch",
     "url": "https://www.thekeystone.com/products/cartier-yellow-gold-bracelet-watch-new-arrival",
     "price": "$30,000"
+  },
+  "patek-philippe-white-gold-yellow-gold-rectangular-watch": {
+    "title": "Patek Philippe White Gold & Yellow Gold Rectangular Watch",
+    "url": "https://www.thekeystone.com/products/patek-philippe-white-gold-yellow-gold-rectangular-watch",
+    "price": "$32,000"
   }
 }
