@@ -54,11 +54,6 @@
     "url": "https://greyandpatina.com/product/1966-rolex-1016-pre-tropical-explorer-i/",
     "price": "$ 26,500"
   },
-  "1975-rolex-4014-tropical-cellini": {
-    "title": "1975 Rolex 4014 Tropical Cellini",
-    "url": "https://greyandpatina.com/product/1975-rolex-4014-tropical-cellini/",
-    "price": "$ 6,500"
-  },
   "1978-tudor-9420-0-monte-carlo-grey-tropical-big-block": {
     "title": "1978 Tudor 9420/0 Monte Carlo Grey Tropical Big Block",
     "url": "https://greyandpatina.com/product/1978-tudor-9420-0-monte-carlo-grey-tropical-big-block/",
@@ -109,14 +104,19 @@
     "url": "https://greyandpatina.com/product/1977-rolex-5500-tropical-air-king/",
     "price": "$ 3,980"
   },
-  "1960s-patek-philippe-3440-yellow-gold-calatrava": {
-    "title": "1960’s Patek Philippe 3440 Yellow Gold Calatrava",
-    "url": "https://greyandpatina.com/product/1960s-patek-philippe-3440-yellow-gold-calatrava/",
-    "price": "$ 14,500"
-  },
   "2003-rolex-116520-nos-daytona-w-tag": {
     "title": "2003 Rolex 116520 NOS Daytona W/Tag",
     "url": "https://greyandpatina.com/product/2003-rolex-116520-nos-daytona-w-tag/",
     "price": "$ 28,000"
+  },
+  "2002-rolex-16610-kermit-submariner-nos": {
+    "title": "2002 Rolex 16610 Kermit Submariner NOS",
+    "url": "https://greyandpatina.com/product/2002-rolex-16610-kermit-submariner-nos/",
+    "price": "$ 24,950"
+  },
+  "1997-rolex-16520-zenith-daytona-2": {
+    "title": "1997 Rolex 16520 Black Zenith Daytona",
+    "url": "https://greyandpatina.com/product/1997-rolex-16520-zenith-daytona-2/",
+    "price": "$ 27,500"
   }
 }
