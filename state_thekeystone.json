@@ -74,11 +74,6 @@
     "url": "https://www.thekeystone.com/products/rolex-yellow-gold-oyster-perpetual-honeycomb-watch-ref-6085-new-arrival",
     "price": "$25,000"
   },
-  "rolex-yellow-gold-oyster-perpetual-datejust-ref-6917-with-peach-stella-dial-and-original-warranty-new-arrival": {
-    "title": "Rolex Yellow Gold Oyster Perpetual Datejust Ref. 6917 with Peach Stella Dial and Original Warranty",
-    "url": "https://www.thekeystone.com/products/rolex-yellow-gold-oyster-perpetual-datejust-ref-6917-with-peach-stella-dial-and-original-warranty-new-arrival",
-    "price": "$13,500"
-  },
   "patek-philippe-yellow-gold-chronograph-hausmann-co-rose-dial-watch-ref-533": {
     "title": "Patek Philippe Yellow Gold Chronograph Hausmann & Co. Rose Dial Watch Ref. 533",
     "url": "https://www.thekeystone.com/products/patek-philippe-yellow-gold-chronograph-hausmann-co-rose-dial-watch-ref-533",
@@ -108,6 +103,11 @@
     "title": "A. Lange & Sohne Rose Gold Zeitwerk 140.032",
     "url": "https://www.thekeystone.com/products/a-lange-sohne-rose-gold-zeitwerk-140-032",
     "price": "$68,000"
+  },
+  "a-lange-sohne-yellow-gold-arkade-ref-103-021": {
+    "title": "A. Lange & Sohne Yellow Gold Arkade Ref. 103.021",
+    "url": "https://www.thekeystone.com/products/a-lange-sohne-yellow-gold-arkade-ref-103-021",
+    "price": "$19,500"
   },
   "patek-philippe-rose-gold-top-hat-watch-ref-1450-new-arrival": {
     "title": "Patek Philippe Rose Gold Top Hat Watch Ref. 1450 (New Arrival)",
@@ -143,11 +143,6 @@
     "title": "Uti Paris Yellow Gold Watch, Retailed by Spritzer & Furhmann (New Arrival)",
     "url": "https://www.thekeystone.com/products/uti-paris-yellow-gold-watch-retailed-by-spritzer-furhmann-new-arrival",
     "price": "$9,200"
-  },
-  "a-lange-sohne-yellow-gold-arkade-ref-103-021": {
-    "title": "A. Lange & Sohne Yellow Gold Arkade Ref. 103.021",
-    "url": "https://www.thekeystone.com/products/a-lange-sohne-yellow-gold-arkade-ref-103-021",
-    "price": "$19,500"
   },
   "vacheron-constantin-white-gold-square-mechanical-watch-ref-2100-new-arrival": {
     "title": "Vacheron Constantin White Gold Square Mechanical Watch Ref. 2100",
@@ -253,5 +248,10 @@
     "title": "Patek Philippe Rose Gold Gondolo Ref. 5098R-001",
     "url": "https://www.thekeystone.com/products/patek-philippe-rose-gold-gondolo-ref-5098r-001",
     "price": "$20,000"
+  },
+  "rolex-steel-oyster-perpetual-ref-6050-new-arrival": {
+    "title": "Rolex Steel Oyster Perpetual Ref. 6050",
+    "url": "https://www.thekeystone.com/products/rolex-steel-oyster-perpetual-ref-6050-new-arrival",
+    "price": "$8,500"
   }
 }
