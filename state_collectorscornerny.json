@@ -159,11 +159,6 @@
     "url": "https://www.collectorscornerny.com/products/audemars-piguet-tank-ultra-thin-henry-ford-engraving-provenance",
     "price": "$8,900"
   },
-  "rolex-datejust-1601-w-confetti-dial-box-papers-unpolished": {
-    "title": "Rolex Datejust 1601 w/\"Confetti\" Dial - Box & Papers/*Unpolished*",
-    "url": "https://www.collectorscornerny.com/products/rolex-datejust-1601-w-confetti-dial-box-papers-unpolished",
-    "price": "$8,900"
-  },
   "rolex-air-king-4499-w-arabic-dial-papers-rare": {
     "title": "Vintage Rolex Air King 4499 stainless steel watch with rare cream Arabic numeral dial on oyster bracelet at Collectors Corner New York",
     "url": "https://www.collectorscornerny.com/products/rolex-air-king-4499-w-arabic-dial-papers-rare",
@@ -212,11 +207,6 @@
   "tudor-oysterdate-79180-big-block-unpolished": {
     "title": "Tudor Oysterdate 79180 - \"Big Block\"  - *Unpolished*",
     "url": "https://www.collectorscornerny.com/products/tudor-oysterdate-79180-big-block-unpolished",
-    "price": "$6,600"
-  },
-  "omega-speedmaster-professional-st-145-022-archive-papers": {
-    "title": "Omega Speedmaster Professional ST 145.022 - Archive Papers",
-    "url": "https://www.collectorscornerny.com/products/omega-speedmaster-professional-st-145-022-archive-papers",
     "price": "$6,600"
   },
   "audemars-piguet-ultra-thin-clous-de-paris-18k-white-gold-unpolished": {
@@ -348,5 +338,10 @@
     "title": "Gruen Airflight 27524 \"Jumping Hours\"",
     "url": "https://www.collectorscornerny.com/products/gruen-airflight-27524-jumping-hours",
     "price": "$2,300"
+  },
+  "omega-speedmaster-professional-st-145-022-archive-papers": {
+    "title": "Omega Speedmaster Professional ST 145.022 - Archive Papers",
+    "url": "https://www.collectorscornerny.com/products/omega-speedmaster-professional-st-145-022-archive-papers",
+    "price": "$0"
   }
 }
