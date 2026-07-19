@@ -4,11 +4,6 @@
     "url": "https://greyandpatina.com/product/1987-rolex-16550-black-pumpkin-dial-explorer-ii-lnos/",
     "price": "$ 12,500"
   },
-  "2000s-audemars-piguet-15300st-black-dial-royal-oak": {
-    "title": "2000’s Audemars Piguet 15300ST Black Dial Royal Oak",
-    "url": "https://greyandpatina.com/product/2000s-audemars-piguet-15300st-black-dial-royal-oak/",
-    "price": "$ 34,900"
-  },
   "1962-rolex-5512-gilt-chapater-ring-submariner": {
     "title": "1962 Rolex 5512 Gilt Chapater-Ring Submariner",
     "url": "https://greyandpatina.com/product/1962-rolex-5512-gilt-chapater-ring-submariner/",
@@ -23,11 +18,6 @@
     "title": "1991 Rolex 16700 Pepsi GMT – Unpolished",
     "url": "https://greyandpatina.com/product/1991-rolex-16700-pepsi-gmt-unpolished-2/",
     "price": "$ 13,500"
-  },
-  "1987-rolex-5513-ghost-spider-dial-submariner": {
-    "title": "1987 Rolex 5513 Ghost Spider Dial Submariner",
-    "url": "https://greyandpatina.com/product/1987-rolex-5513-ghost-spider-dial-submariner/",
-    "price": "$ 12,950"
   },
   "1970-rolex-6917-ghost-ladies-datejust": {
     "title": "1970 Rolex 6917 Ghost Ladies Datejust",
@@ -58,11 +48,6 @@
     "title": "1980 Rolex 16808 Tropical Yellow Gold Submariner",
     "url": "https://greyandpatina.com/product/1980-rolex-16808-tropical-yellow-gold-submariner/",
     "price": "$ 32,500"
-  },
-  "1977-rolex-1601-matte-dial-datejust": {
-    "title": "1977 Rolex 1601 Matte Dial Datejust",
-    "url": "https://greyandpatina.com/product/1977-rolex-1601-matte-dial-datejust/",
-    "price": "$ 7,200"
   },
   "1978-tudor-9420-0-monte-carlo-grey-tropical-big-block": {
     "title": "1978 Tudor 9420/0 Monte Carlo Grey Tropical Big Block",
@@ -118,5 +103,20 @@
     "title": "2003 Rolex 116520 NOS Daytona W/Tag",
     "url": "https://greyandpatina.com/product/2003-rolex-116520-nos-daytona-w-tag/",
     "price": "$ 28,000"
+  },
+  "2002-rolex-16610-kermit-submariner-nos": {
+    "title": "2002 Rolex 16610 Kermit Submariner NOS",
+    "url": "https://greyandpatina.com/product/2002-rolex-16610-kermit-submariner-nos/",
+    "price": "$ 24,950"
+  },
+  "1997-rolex-16520-zenith-daytona-2": {
+    "title": "1997 Rolex 16520 Black Zenith Daytona",
+    "url": "https://greyandpatina.com/product/1997-rolex-16520-zenith-daytona-2/",
+    "price": "$ 25,900"
+  },
+  "1970-tudor-7021-0-submariner": {
+    "title": "1970 Tudor 7021/0 Blue Snowflake Submariner",
+    "url": "https://greyandpatina.com/product/1970-tudor-7021-0-submariner/",
+    "price": "$ 13,000"
   }
 }
