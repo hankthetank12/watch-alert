@@ -175,10 +175,6 @@
     "title": "Order Our Book!",
     "url": "https://www.amazon.com/Vintage-Watches-Modern-Eric-Wind/dp/0593837665/"
   },
-  "patek-philippe-reference-5980/1r-001-in-18k-rose-gold-full-set": {
-    "title": "Patek Philippe Nautilus Reference 5980/1R-001 in 18K Rose Gold Full Set Unpolished",
-    "url": "https://www.windvintage.com/patek-philippe-reference-5980/1r-001-in-18k-rose-gold-full-set"
-  },
   "patek-philippe-tiffany-co-nautilus-reference-5990/1a-001-full-set": {
     "title": "Patek Philippe Tiffany &amp; Co. Nautilus Reference 5990/1A-001 Full Set Unpolished",
     "url": "https://www.windvintage.com/patek-philippe-tiffany-co-nautilus-reference-5990/1a-001-full-set"
@@ -255,10 +251,6 @@
     "title": "Jaeger-LeCoultre Etrier in 18k YG Unpolished",
     "url": "https://www.windvintage.com/jaeger-lecoultre-etrier-in-18k-yg-unpolished"
   },
-  "gallet-mk-3-flying-officer-unpolished": {
-    "title": "Gallet Mk 3 Flying Officer Unpolished",
-    "url": "https://www.windvintage.com/gallet-mk-3-flying-officer-unpolished"
-  },
   "zenith-el-primero-ref-a386-on-gay-freres-bracelet-unpolished": {
     "title": "Zenith El Primero Ref A386 on Gay Freres Bracelet Unpolished",
     "url": "https://www.windvintage.com/zenith-el-primero-ref-a386-on-gay-freres-bracelet-unpolished"
@@ -270,6 +262,10 @@
   "universal-genve-exotic-dial-compax-reference-885108": {
     "title": "Universal Genève Exotic Dial Compax Reference 885108",
     "url": "https://www.windvintage.com/universal-genve-exotic-dial-compax-reference-885108"
+  },
+  "universal-genve-big-eye-unicompax-ref-88410001": {
+    "title": "Universal Genève Uni-Compax \"Big Eye” Reference 884100/01",
+    "url": "https://www.windvintage.com/universal-genve-big-eye-unicompax-ref-88410001"
   },
   "universal-genve-eric-clapton-tri-compax-reference-881101/01": {
     "title": "Universal Genève Eric Clapton Tri-Compax Reference 881101/01",
@@ -318,6 +314,10 @@
   "heuer-camaro-reference-7843-n-on-gay-freres-bracelet-unpolished": {
     "title": "Heuer Camaro Reference 7843 N on Gay Freres Bracelet Unpolished",
     "url": "https://www.windvintage.com/heuer-camaro-reference-7843-n-on-gay-freres-bracelet-unpolished"
+  },
+  "heuer-audi-sport-chronograph-unpolished": {
+    "title": "HEUER Audi Sport Chronograph Unpolished",
+    "url": "https://www.windvintage.com/heuer-audi-sport-chronograph-unpolished"
   },
   "heuer-dato-carrera-reference-3147n-indianapolis-motor-speedway-indy-500-1": {
     "title": "Heuer Dato Carrera Reference 3147N Indianapolis Motor Speedway Indy 500",
@@ -543,14 +543,6 @@
     "title": "Patek Philippe Pocket Watch in 18K Yellow Gold Owned by James G. Whiteley",
     "url": "https://www.windvintage.com/patek-philippe-pocket-watch-in-18k-yellow-gold-owned-by-james-g-whiteley"
   },
-  "heuer-audi-sport-chronograph-w/-box": {
-    "title": "Heuer Audi Sport Chronograph w/ Box",
-    "url": "https://www.windvintage.com/heuer-audi-sport-chronograph-w/-box"
-  },
-  "heuer-audi-sport-chronograph-unpolished": {
-    "title": "HEUER Audi Sport Chronograph Unpolished",
-    "url": "https://www.windvintage.com/heuer-audi-sport-chronograph-unpolished"
-  },
   "rolex-grey-dial-datejust-ref-1603-full-set": {
     "title": "Rolex Grey Dial Datejust Ref 1603 Full Set",
     "url": "https://www.windvintage.com/rolex-grey-dial-datejust-ref-1603-full-set"
@@ -606,5 +598,17 @@
   "gallet-glossy-dial-valjoux-72-chronograph-unpolished": {
     "title": "Gallet Glossy Dial Valjoux 72 Chronograph Unpolished",
     "url": "https://www.windvintage.com/gallet-glossy-dial-valjoux-72-chronograph-unpolished"
+  },
+  "patek-philippe-reference-5980/1r-001-in-18k-rose-gold-full-set": {
+    "title": "Patek Philippe Nautilus Reference 5980/1R-001 in 18K Rose Gold Full Set Unpolished",
+    "url": "https://www.windvintage.com/patek-philippe-reference-5980/1r-001-in-18k-rose-gold-full-set"
+  },
+  "gallet-mk-3-flying-officer-unpolished": {
+    "title": "Gallet Mk 3 Flying Officer Unpolished",
+    "url": "https://www.windvintage.com/gallet-mk-3-flying-officer-unpolished"
+  },
+  "heuer-audi-sport-chronograph-w/-box": {
+    "title": "Heuer Audi Sport Chronograph w/ Box",
+    "url": "https://www.windvintage.com/heuer-audi-sport-chronograph-w/-box"
   }
 }
