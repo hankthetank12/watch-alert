@@ -54,11 +54,6 @@
     "url": "https://greyandpatina.com/product/1962-rolex-5512-gilt-chapater-ring-submariner/",
     "price": "$ 43,000"
   },
-  "1993-rolex-16610-submariner-w-box-paper": {
-    "title": "1993 Rolex 16610 Submariner W/Box & Paper",
-    "url": "https://greyandpatina.com/product/1993-rolex-16610-submariner-w-box-paper/",
-    "price": "$ 8,500"
-  },
   "1991-rolex-16700-pepsi-gmt-unpolished-2": {
     "title": "1991 Rolex 16700 Pepsi GMT – Unpolished",
     "url": "https://greyandpatina.com/product/1991-rolex-16700-pepsi-gmt-unpolished-2/",
@@ -118,5 +113,10 @@
     "title": "1971 Rolex 1501 Yellow Gold Oyster Perpetual -Date",
     "url": "https://greyandpatina.com/product/1971-rolex-1503-yellow-gold-oyster-perpetual-date/",
     "price": ""
+  },
+  "1975-rolex-1503-yellow-gold-oyster-perpetual-date": {
+    "title": "1975 Rolex 1503 Yellow Gold Oyster Perpetual -Date",
+    "url": "https://greyandpatina.com/product/1975-rolex-1503-yellow-gold-oyster-perpetual-date/",
+    "price": "$ 6,500"
   }
 }
