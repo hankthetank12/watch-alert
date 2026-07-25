@@ -74,11 +74,6 @@
     "url": "https://www.europeanwatch.com/watch/rolex-16600-16600-sea-dweller-ss-black-dial-68364",
     "price": "$10,350"
   },
-  "70246": {
-    "title": "Rolex 214270 Explorer I SS Black Dial",
-    "url": "https://www.europeanwatch.com/watch/rolex-214270-214270-explorer-i-ss-black-dial-70246",
-    "price": "$8,350"
-  },
   "70600": {
     "title": "Grand Seiko Evolution 9 Spring Drive U.F.A. Ushio 300 Diver Titanium Blue Dial 2026",
     "url": "https://www.europeanwatch.com/watch/grand-seiko-slgb023g-evolution-9-spring-drive-ufa-ushio-300-diver-70600",
@@ -489,6 +484,11 @@
     "url": "https://www.europeanwatch.com/watch/a-lange-and-sohne-219032-219032-saxonia-manual-wind-18k-rose-gold-70295",
     "price": "$22,900"
   },
+  "70426": {
+    "title": "Rolex 116610LV Submariner Date \"Hulk\" SS Green Dial",
+    "url": "https://www.europeanwatch.com/watch/rolex-116610lv-116610lv-submariner-date-hulk-ss-green-dial-70426",
+    "price": "$22,900"
+  },
   "64353": {
     "title": "Cartier W1509551 Tonneau Platinum Silver Dial",
     "url": "https://www.europeanwatch.com/watch/cartier-w1509551-w1509551-tonneau-platinum-silver-dial-64353",
@@ -748,6 +748,11 @@
     "title": "Rolex 16220 Datejust SS Blue Dial",
     "url": "https://www.europeanwatch.com/watch/rolex-16220-16220-datejust-ss-blue-dial-70527",
     "price": "$9,450"
+  },
+  "64271": {
+    "title": "Breguet 3880ST Type XXII 44mm SS Black Dial",
+    "url": "https://www.europeanwatch.com/watch/breguet-3880st-h2-3xv-3880st-type-xxii-44mm-ss-black-dial-64271",
+    "price": "$10,350"
   },
   "68065": {
     "title": "Panerai Luminor 1950 Chrono Monopulsante 8 Days GMT Ceramic Black Dial",
