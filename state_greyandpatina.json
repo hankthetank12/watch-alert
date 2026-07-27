@@ -39,11 +39,6 @@
     "url": "https://greyandpatina.com/product/1987-rolex-16030-white-dial-ibm-anniversary-datejust/",
     "price": "$ 6,950"
   },
-  "1991-rolex-16710-coke-gmt-3": {
-    "title": "1991 Rolex 16710 Coke GMT",
-    "url": "https://greyandpatina.com/product/1991-rolex-16710-coke-gmt-3/",
-    "price": "$ 12,900"
-  },
   "1987-rolex-16234-tropical-blue-datejust-w-box-paper": {
     "title": "1987 Rolex 16234 Tropical Blue Datejust W/Box & Paper",
     "url": "https://greyandpatina.com/product/1987-rolex-16234-tropical-blue-datejust-w-box-paper/",
@@ -118,5 +113,10 @@
     "title": "1970 Rolex 1807 White Gold Diamond Marker Day-Date",
     "url": "https://greyandpatina.com/product/1970-rolex-1807-white-gold-diamond-marker-day-date/",
     "price": "$ 19,900"
+  },
+  "1971-rolex-1503-yellow-gold-oyster-perpetual-date": {
+    "title": "1971 Rolex 1501 Yellow Gold Oyster Perpetual -Date",
+    "url": "https://greyandpatina.com/product/1971-rolex-1503-yellow-gold-oyster-perpetual-date/",
+    "price": ""
   }
 }
