@@ -14,11 +14,6 @@
     "url": "https://greyandpatina.com/product/1977-rolex-1680-yellow-gold-blue-dial-submariner/",
     "price": "$ 32,500"
   },
-  "1978-rolex-1680-mk1-pumpkin-ghost-insert-submariner": {
-    "title": "1978 Rolex 1680 MK1 Pumpkin Ghost Insert Submariner",
-    "url": "https://greyandpatina.com/product/1978-rolex-1680-mk1-pumpkin-ghost-insert-submariner/",
-    "price": "$ 13,950"
-  },
   "1995-patek-philippe-3940j-yellow-gold-second-edition": {
     "title": "1995 Patek Philippe 3940J Yellow Gold Second Edition",
     "url": "https://greyandpatina.com/product/1995-patek-philippe-3940j-yellow-gold-second-edition/",
@@ -118,5 +113,10 @@
     "title": "1961 Rolex 5508 Ghost Exclamation Submariner",
     "url": "https://greyandpatina.com/product/1961-rolex-5508-ghost-exclamation-submariner-4/",
     "price": "$ 39,500"
+  },
+  "1980-rolex-16808-tropical-yellow-gold-submariner": {
+    "title": "1980 Rolex 16808 Tropical Yellow Gold Submariner",
+    "url": "https://greyandpatina.com/product/1980-rolex-16808-tropical-yellow-gold-submariner/",
+    "price": "$ 32,500"
   }
 }
