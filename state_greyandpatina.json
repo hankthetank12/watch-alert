@@ -24,11 +24,6 @@
     "url": "https://greyandpatina.com/product/1991-rolex-14060-submariner-9/",
     "price": "$ 9,300"
   },
-  "1978-rolex-17000-tropical-purple-oysterquartz-2": {
-    "title": "1978 Rolex 17000 Tropical Purple Oysterquartz",
-    "url": "https://greyandpatina.com/product/1978-rolex-17000-tropical-purple-oysterquartz-2/",
-    "price": "$ 10,500"
-  },
   "1967-rolex-1016-explorer-i-fat-font-pumpkin-dial": {
     "title": "1967 Rolex 1016 Explorer I Fat Font Pumpkin Dial",
     "url": "https://greyandpatina.com/product/1967-rolex-1016-explorer-i-fat-font-pumpkin-dial/",
@@ -118,5 +113,10 @@
     "title": "1991 Rolex 16700 Pepsi GMT – Unpolished",
     "url": "https://greyandpatina.com/product/1991-rolex-16700-pepsi-gmt-unpolished-2/",
     "price": "$ 13,500"
+  },
+  "1970-rolex-6917-ghost-ladies-datejust": {
+    "title": "1970 Rolex 6917 Ghost Ladies Datejust",
+    "url": "https://greyandpatina.com/product/1970-rolex-6917-ghost-ladies-datejust/",
+    "price": "$ 7,990"
   }
 }
