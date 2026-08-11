@@ -194,11 +194,6 @@
     "url": "https://www.thekeystone.com/products/rolex-steel-pocket-watch-circa-1930s-new-arrival",
     "price": "$3,000"
   },
-  "patek-philippe-steel-ufo-ref-3580-new-arrival": {
-    "title": "Patek Philippe Steel UFO Ref. 3580",
-    "url": "https://www.thekeystone.com/products/patek-philippe-steel-ufo-ref-3580-new-arrival",
-    "price": "$14,500"
-  },
   "rolex-white-gold-day-date-salmon-dial-watch-ref-1803": {
     "title": "Rolex White Gold Day-Date Salmon Dial Watch Ref. 1803",
     "url": "https://www.thekeystone.com/products/rolex-white-gold-day-date-salmon-dial-watch-ref-1803",
@@ -253,5 +248,10 @@
     "title": "Vacheron Constantin Steel Mechanical Watch",
     "url": "https://www.thekeystone.com/products/vacheron-constantin-steel-mechanical-watch-new-arrival",
     "price": "$7,900"
+  },
+  "rolex-oyster-perpetual-day-date-ref-1803-8-new-arrival": {
+    "title": "Rolex Oyster Perpetual Day-Date Ref. 1803/8",
+    "url": "https://www.thekeystone.com/products/rolex-oyster-perpetual-day-date-ref-1803-8-new-arrival",
+    "price": "$19,000"
   }
 }

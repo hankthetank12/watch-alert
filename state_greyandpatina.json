@@ -99,11 +99,6 @@
     "url": "https://greyandpatina.com/product/1987-rolex-16550-black-pumpkin-dial-explorer-ii-lnos/",
     "price": "$ 12,500"
   },
-  "1987-rolex-16550-off-white-cream-polar-explorer-ii-2": {
-    "title": "1987 Rolex 16550 Off White Cream Polar Explorer II",
-    "url": "https://greyandpatina.com/product/1987-rolex-16550-off-white-cream-polar-explorer-ii-2/",
-    "price": "$ 11,900"
-  },
   "1962-rolex-5512-gilt-chapater-ring-submariner": {
     "title": "1962 Rolex 5512 Gilt Chapater-Ring Submariner",
     "url": "https://greyandpatina.com/product/1962-rolex-5512-gilt-chapater-ring-submariner/",
@@ -118,5 +113,10 @@
     "title": "1970 Rolex 6917 Ghost Ladies Datejust",
     "url": "https://greyandpatina.com/product/1970-rolex-6917-ghost-ladies-datejust/",
     "price": "$ 7,990"
+  },
+  "1980-rolex-16014-black-dial-datejust": {
+    "title": "1980 Rolex 16014 Black Dial Datejust",
+    "url": "https://greyandpatina.com/product/1980-rolex-16014-black-dial-datejust/",
+    "price": "$ 6,500"
   }
 }
