@@ -204,11 +204,6 @@
     "url": "https://www.thekeystone.com/products/patek-philippe-yellow-gold-automatic-retailed-by-huber-ref-3525-original-papers",
     "price": "$32,000"
   },
-  "rolex-steel-paul-newman-daytona-ref-6243": {
-    "title": "Rolex Steel Paul Newman Daytona Ref. 6239",
-    "url": "https://www.thekeystone.com/products/rolex-steel-paul-newman-daytona-ref-6243",
-    "price": "$295,000"
-  },
   "patek-philippe-pink-gold-perpetual-calendar-second-series-watch-ref-3940": {
     "title": "Patek Philippe Pink Gold Perpetual Calendar Second Series Watch Ref. 3940",
     "url": "https://www.thekeystone.com/products/patek-philippe-pink-gold-perpetual-calendar-second-series-watch-ref-3940",
@@ -229,11 +224,6 @@
     "url": "https://www.thekeystone.com/products/rolex-yellow-gold-oyster-perpetual-honeycomb-watch-ref-6085-new-arrival",
     "price": "$25,000"
   },
-  "patek-philippe-yellow-gold-chronograph-hausmann-co-rose-dial-watch-ref-533": {
-    "title": "Patek Philippe Yellow Gold Chronograph Hausmann & Co. Rose Dial Watch Ref. 533",
-    "url": "https://www.thekeystone.com/products/patek-philippe-yellow-gold-chronograph-hausmann-co-rose-dial-watch-ref-533",
-    "price": "$185,000"
-  },
   "audemars-piguet-yellow-gold-turquoise-diamond-bracelet-watch-new-arrival": {
     "title": "Audemars Piguet Yellow Gold Turquoise & Diamond Bracelet Watch",
     "url": "https://www.thekeystone.com/products/audemars-piguet-yellow-gold-turquoise-diamond-bracelet-watch-new-arrival",
@@ -253,5 +243,15 @@
     "title": "Piaget White Gold Emperador Ref. 9131C516 with Diamond Dial",
     "url": "https://www.thekeystone.com/products/piaget-white-gold-emperador-ref-9131c516-super-heavy-with-diamond-dial-new-arrival",
     "price": "$27,000"
+  },
+  "a-lange-sohne-rose-gold-zeitwerk-140-032": {
+    "title": "A. Lange & Sohne Rose Gold Zeitwerk 140.032",
+    "url": "https://www.thekeystone.com/products/a-lange-sohne-rose-gold-zeitwerk-140-032",
+    "price": "$68,000"
+  },
+  "a-lange-sohne-yellow-gold-arkade-ref-103-021": {
+    "title": "A. Lange & Sohne Yellow Gold Arkade Ref. 103.021",
+    "url": "https://www.thekeystone.com/products/a-lange-sohne-yellow-gold-arkade-ref-103-021",
+    "price": "$19,500"
   }
 }
