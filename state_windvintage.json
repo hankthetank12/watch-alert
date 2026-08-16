@@ -39,10 +39,6 @@
     "title": "Rolex Datejust Ref. 16234 Black Dial Unpolished",
     "url": "https://www.windvintage.com/rolex-datejust-ref-16234-black-dial-unpolished"
   },
-  "rolex-datejust-ref-16030-with-silver-dial": {
-    "title": "Rolex Datejust Ref. 16030 with Silver Dial Unpolished",
-    "url": "https://www.windvintage.com/rolex-datejust-ref-16030-with-silver-dial"
-  },
   "rolex-datejust-dial-ref-16220-white-roman-numeral-dial-unpolished": {
     "title": "Rolex Datejust Dial Ref. 16220 Non-Luminous White Roman Numeral Dial Unpolished",
     "url": "https://www.windvintage.com/rolex-datejust-dial-ref-16220-white-roman-numeral-dial-unpolished"
@@ -58,14 +54,6 @@
   "rolex-ladies-oyster-perpetual-ref-76030-unpolished": {
     "title": "Rolex Ladies Oyster Perpetual Ref 76030 Unpolished",
     "url": "https://www.windvintage.com/rolex-ladies-oyster-perpetual-ref-76030-unpolished"
-  },
-  "rolex-gmtmaster-reference-1675-pepsi-on-jubilee": {
-    "title": "Rolex GMT-Master Reference 1675 Pepsi On Jubilee",
-    "url": "https://www.windvintage.com/rolex-gmtmaster-reference-1675-pepsi-on-jubilee"
-  },
-  "rolex-sprite-destro-gmt-master-ii-on-oyster-reference-126720vtnr-full-set-new": {
-    "title": "Rolex Sprite Destro GMT-Master II on Oyster Reference 126720VTNR Full Set New",
-    "url": "https://www.windvintage.com/rolex-sprite-destro-gmt-master-ii-on-oyster-reference-126720vtnr-full-set-new"
   },
   "rolex-double-red-sea-dweller-reference-1665-thin-case-tropical": {
     "title": "Rolex Tropical Double Red Sea-Dweller Reference 1665 Thin Case",
@@ -182,10 +170,6 @@
   "audemars-piguet-royal-oak-15550sroo1356sr02-full-set": {
     "title": "Audemars Piguet Royal Oak 15550SR.OO.1356SR.02 Full Set",
     "url": "https://www.windvintage.com/audemars-piguet-royal-oak-15550sroo1356sr02-full-set"
-  },
-  "vacheron-constantin-overseas-chronograph-5500v/110a-b481-full-set-straps-bracelet": {
-    "title": "Vacheron Constantin Overseas Chronograph 5500V/110A-B481 Full Set + Straps &amp; Bracelet",
-    "url": "https://www.windvintage.com/vacheron-constantin-overseas-chronograph-5500v/110a-b481-full-set-straps-bracelet"
   },
   "cartier-tank-louis-xl-jumbo-17002-in-18k-white-gold": {
     "title": "Cartier Tank Louis Xl Jumbo 17002 in 18K White Gold Unpolished",
@@ -455,10 +439,6 @@
     "title": "Jaeger-LeCoultre Memovox Reference E 850 Unpolished w/ Extract",
     "url": "https://www.windvintage.com/jaegerlecoultre-memovox-reference-e-850-unpolished"
   },
-  "rolex-day-date-reference-18038-w/-black-dial-": {
-    "title": "Rolex Day-Date Reference 18038 w/ Black Dial Unpolished",
-    "url": "https://www.windvintage.com/rolex-day-date-reference-18038-w/-black-dial-"
-  },
   "piaget-aventurine-dial-reference-92121-in-18k-white-gold": {
     "title": "Piaget Aventurine Dial Reference 92121 in 18k White Gold Unpolished",
     "url": "https://www.windvintage.com/piaget-aventurine-dial-reference-92121-in-18k-white-gold"
@@ -507,10 +487,6 @@
     "title": "Audemars Piguet Jules Audemars AP25695OR Perpetual Calendar Chronograph w/ Box &amp; Service Papers",
     "url": "https://www.windvintage.com/audemars-piguet-jules-audemars-ap25695or-perpetual-calendar-chronograph-in-18k-rg-w/-box-service-papers"
   },
-  "rolex-coke-gmt-master-ii-reference-16710-box-papers": {
-    "title": "Rolex Coke GMT-Master II Reference 16710 Box &amp; Papers Unpolished",
-    "url": "https://www.windvintage.com/rolex-coke-gmt-master-ii-reference-16710-box-papers"
-  },
   "omega-speedmaster-silver-snoopy-award-50th-anniversary-box-papers": {
     "title": "OMEGA Speedmaster  “SILVER SNOOPY AWARD” 50TH ANNIVERSARY  310.32.42.50.02.001 Box &amp; Papers",
     "url": "https://www.windvintage.com/omega-speedmaster-silver-snoopy-award-50th-anniversary-box-papers"
@@ -547,9 +523,21 @@
     "title": "Rolex GMT-Master Reference 1675 Radial Dial",
     "url": "https://www.windvintage.com/rolex-gmt-master-reference-1675-radial-dial"
   },
+  "rolex-sprite-destro-gmt-master-ii-on-oyster-reference-126720vtnr-full-set-new": {
+    "title": "Rolex Sprite Destro GMT-Master II on Oyster Reference 126720VTNR Full Set New",
+    "url": "https://www.windvintage.com/rolex-sprite-destro-gmt-master-ii-on-oyster-reference-126720vtnr-full-set-new"
+  },
+  "rolex-gmtmaster-reference-1675-pepsi-on-jubilee": {
+    "title": "Rolex GMT-Master Reference 1675 Pepsi On Jubilee",
+    "url": "https://www.windvintage.com/rolex-gmtmaster-reference-1675-pepsi-on-jubilee"
+  },
   "heuer-audi-sport-chronograph-unpolished": {
     "title": "HEUER Audi Sport Chronograph Unpolished",
     "url": "https://www.windvintage.com/heuer-audi-sport-chronograph-unpolished"
+  },
+  "vacheron-constantin-overseas-chronograph-5500v/110a-b481-full-set-straps-bracelet": {
+    "title": "Vacheron Constantin Overseas Chronograph 5500V/110A-B481 Full Set + Straps &amp; Bracelet",
+    "url": "https://www.windvintage.com/vacheron-constantin-overseas-chronograph-5500v/110a-b481-full-set-straps-bracelet"
   },
   "rolex-ladies-datejust-diamond-set-ref-69158-in-18k-yg-full-set-unpolished": {
     "title": "Rolex Ladies Datejust Diamond Set Ref. 69158 in 18k YG Full Set Unpolished",
@@ -570,6 +558,10 @@
   "rolex-datejust-ref-16200-roman-dial-unpolished": {
     "title": "Rolex Datejust Ref. 16200 Non-Luminous Roman Dial Unpolished",
     "url": "https://windvintage.com/rolex-datejust-ref-16200-roman-dial-unpolished"
+  },
+  "rolex-datejust-ref-16030-with-silver-dial": {
+    "title": "Rolex Datejust Ref. 16030 with Silver Dial Unpolished",
+    "url": "https://www.windvintage.com/rolex-datejust-ref-16030-with-silver-dial"
   },
   "rolex-dominos-air-king-14000-full-set-w/-hangtag-unpolished": {
     "title": "Rolex Domino's Air-King 14000 Full Set W/ Hangtag Unpolished",
