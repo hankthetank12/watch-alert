@@ -4,11 +4,6 @@
     "url": "https://greyandpatina.com/product/1990-rolex-16700-pumpkin-pepsi-gmt-master/",
     "price": "$ 15,500"
   },
-  "audemars-piguet-56023st-tropical-royal-oak": {
-    "title": "Audemars Piguet 56023ST Tropical Royal Oak",
-    "url": "https://greyandpatina.com/product/audemars-piguet-56023st-tropical-royal-oak/",
-    "price": "$ 26,900"
-  },
   "audemars-piguet-56175st-tropical-nfs-royal-oak": {
     "title": "Audemars Piguet 56175ST Tropical “NFS” Royal Oak",
     "url": "https://greyandpatina.com/product/audemars-piguet-56175st-tropical-nfs-royal-oak/",
@@ -118,5 +113,10 @@
     "title": "1970 Rolex 6917 Ghost Ladies Datejust",
     "url": "https://greyandpatina.com/product/1970-rolex-6917-ghost-ladies-datejust/",
     "price": "$ 7,990"
+  },
+  "1980-rolex-16014-black-dial-datejust": {
+    "title": "1980 Rolex 16014 Black Dial Datejust",
+    "url": "https://greyandpatina.com/product/1980-rolex-16014-black-dial-datejust/",
+    "price": "$ 6,500"
   }
 }
