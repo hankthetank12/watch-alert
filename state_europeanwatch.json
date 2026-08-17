@@ -1,4 +1,494 @@
 {
+  "68670": {
+    "title": "Girard-Perregaux 81010 Laureato SS Black Dial LIMITED",
+    "url": "https://www.europeanwatch.com/watch/girard-perregaux-81010-11-191511a-81010-laureato-ss-black-dial-li-68670",
+    "price": "$12,650"
+  },
+  "67966": {
+    "title": "Girard-Perregaux 49970 Chrono Hawk Brazil Edition SS Black Dial LIMITED",
+    "url": "https://www.europeanwatch.com/watch/girard-perregaux-49970-11-1302sfk6b-49970-chrono-hawk-brazil-edit-67966",
+    "price": "$6,450"
+  },
+  "69992": {
+    "title": "Chronoswiss CH-2841R Sirius Kairos 40 18K Rose Gold Silver Dial",
+    "url": "https://www.europeanwatch.com/watch/chronoswiss-ch-2841r-ch-2841r-sirius-kairos-40-18k-rose-gold-silv-69992",
+    "price": "$8,890"
+  },
+  "64676": {
+    "title": "Blancpain 5050 Fifty Fathoms Titanium Black Dial",
+    "url": "https://www.europeanwatch.com/watch/blancpain-5050-12b30-b52a-5050-fifty-fathoms-titanium-black-dial-64676",
+    "price": "$11,990"
+  },
+  "66866": {
+    "title": "Blancpain 1106-1127-55 Villeret Ultra Slim Power Reserve SS White Dial",
+    "url": "https://www.europeanwatch.com/watch/blancpain-1106-1127-55-1106-1127-55-villeret-ultra-slim-power-res-66866",
+    "price": "$6,490"
+  },
+  "63569": {
+    "title": "Blancpain 6669 Villeret Grande Date 18K Rose Gold Opaline Dial",
+    "url": "https://www.europeanwatch.com/watch/blancpain-6669-3642-55b-6669-villeret-grande-date-18k-rose-gold-o-63569",
+    "price": "$12,990"
+  },
+  "66406": {
+    "title": "Zenith Defy El Primero 21 Chronograph Black Ceramic Skeleton Dial",
+    "url": "https://www.europeanwatch.com/watch/zenith-4990009004-78m9000-defy-el-primero-21-chronograph-black-ce-66406",
+    "price": "$11,350"
+  },
+  "68260": {
+    "title": "Omega 145.014 Speedmaster Mark II SS Black Dial",
+    "url": "https://www.europeanwatch.com/watch/omega-145014-145014-speedmaster-mark-ii-ss-black-dial-68260",
+    "price": "$4,350"
+  },
+  "66976": {
+    "title": "Omega Constellation Manhattan SS / 18K YG Diamonds Blue Aventurine Dial",
+    "url": "https://www.europeanwatch.com/watch/omega-13125292053001-constellation-manhattan-ss-18k-yg-diamonds-b-66976",
+    "price": "$12,450"
+  },
+  "66993": {
+    "title": "Omega Speedmaster \"Dark Side of the Moon Black Black\" Ceramic Black Dial 2025",
+    "url": "https://www.europeanwatch.com/watch/omega-31092445101003-speedmaster-dark-side-of-the-moon-black-blac-66993",
+    "price": "$13,350"
+  },
+  "67841": {
+    "title": "Omega De Ville Prestige 18K Sedna Gold Blue Dial",
+    "url": "https://www.europeanwatch.com/watch/omega-43453412003001-de-ville-prestige-18k-sedna-gold-blue-dial-67841",
+    "price": "$11,450"
+  },
+  "67519": {
+    "title": "Glashütte Original SeaQ Panorama Date SS Reed Green Dial 2026",
+    "url": "https://www.europeanwatch.com/watch/glashutte-original-1-36-13-07-83-33-seaq-panorama-date-ss-reed-gr-67519",
+    "price": "$9,980"
+  },
+  "70553": {
+    "title": "Glashütte Original SeaQ SS Blue Dial",
+    "url": "https://www.europeanwatch.com/watch/glashutte-original-1-39-11-09-81-70-seaq-ss-blue-dial-70553",
+    "price": "$9,350"
+  },
+  "67862": {
+    "title": "Glashütte Original Sixties Panorama Date SS Black Dial 2026",
+    "url": "https://www.europeanwatch.com/watch/glashutte-original-2-39-47-03-02-04-sixties-panorama-date-ss-blac-67862",
+    "price": "$6,350"
+  },
+  "66483": {
+    "title": "Grand Seiko SLGH013G Heritage Collection Hi-Beat 36000 SS \"Spring on Mt. Iwate\"",
+    "url": "https://www.europeanwatch.com/watch/grand-seiko-slgh013g-slgh013g-heritage-collection-hi-beat-36000-s-66483",
+    "price": "$7,490"
+  },
+  "68000": {
+    "title": "Grand Seiko SBGE248 Spring Drive GMT SS / 18K YG Bezel Blue Dial 2026",
+    "url": "https://www.europeanwatch.com/watch/grand-seiko-sbge248-sbge248-spring-drive-gmt-ss-18k-yg-bezel-blue-68000",
+    "price": "$7,890"
+  },
+  "68319": {
+    "title": "Bulgari 102713 Octo Finissimo Automatic Titanium Gray Dial",
+    "url": "https://www.europeanwatch.com/watch/bulgari-102713-bgo40c14ttxtauto-102713-octo-finissimo-automatic-t-68319",
+    "price": "$10,890"
+  },
+  "66081": {
+    "title": "Cartier Rotonde de Cartier Central Chronograph 18K Rose Gold Silver Dial",
+    "url": "https://www.europeanwatch.com/watch/cartier-w1555951-rotonde-de-cartier-central-chronograph-18k-rose-66081",
+    "price": "$16,890"
+  },
+  "68065": {
+    "title": "Panerai Luminor 1950 Chrono Monopulsante 8 Days GMT Ceramic Black Dial",
+    "url": "https://www.europeanwatch.com/watch/panerai-pam00317-luminor-1950-chrono-monopulsante-8-days-gmt-cera-68065",
+    "price": "$8,990"
+  },
+  "68228": {
+    "title": "Panerai PAM00911 Luminor Marina 8 Days SS Green Dial LIMITED",
+    "url": "https://www.europeanwatch.com/watch/panerai-pam00911-pam00911-luminor-marina-8-days-ss-green-dial-lim-68228",
+    "price": "$12,890"
+  },
+  "67667": {
+    "title": "Panerai PAM00577 Radiomir 1940 3 Days Ceramica Black Dial",
+    "url": "https://www.europeanwatch.com/watch/panerai-pam00577-pam00577-radiomir-1940-3-days-ceramica-black-dia-67667",
+    "price": "$4,990"
+  },
+  "70527": {
+    "title": "Rolex 16220 Datejust SS Blue Dial",
+    "url": "https://www.europeanwatch.com/watch/rolex-16220-16220-datejust-ss-blue-dial-70527",
+    "price": "$8,990"
+  },
+  "69798": {
+    "title": "Rolex 114200 Air-King SS White Dial",
+    "url": "https://www.europeanwatch.com/watch/rolex-114200-114200-air-king-ss-white-dial-69798",
+    "price": "$6,990"
+  },
+  "70495": {
+    "title": "Rolex Datejust 18K YG / SS White Roman Dial Circa. 2000",
+    "url": "https://www.europeanwatch.com/watch/rolex-16203-datejust-18k-yg-ss-white-roman-dial-circa-2000-70495",
+    "price": "$6,990"
+  },
+  "68754": {
+    "title": "Rolex 124200 Oyster Perpetual 34 SS Beige Dial 2026 UNWORN",
+    "url": "https://www.europeanwatch.com/watch/rolex-124200-124200-oyster-perpetual-34-ss-beige-dial-2026-unworn-68754",
+    "price": "$10,450"
+  },
+  "70904": {
+    "title": "Girard-Perregaux 81010 Laureato Eternity Edition SS Green Dial LIMITED",
+    "url": "https://www.europeanwatch.com/watch/girard-perregaux-81010-11-433-11a-81010-laureato-eternity-edition-70904",
+    "price": "$14,990"
+  },
+  "70990": {
+    "title": "Jaeger-LeCoultre Q2458422 Reverso Classic Medium Duoface SS Silver Dial 2025",
+    "url": "https://www.europeanwatch.com/watch/jaeger-lecoultre-q2458422-q2458422-reverso-classic-medium-duoface-70990",
+    "price": "$14,990"
+  },
+  "71242": {
+    "title": "Rolex 224270 Explorer 40MM SS Black Dial 2026",
+    "url": "https://www.europeanwatch.com/watch/rolex-224270-224270-explorer-40mm-ss-black-dial-2026-71242",
+    "price": "$10,450"
+  },
+  "71068": {
+    "title": "Breitling venger B01 Chronograph 42 Night Mission Ceramic Green Dial",
+    "url": "https://www.europeanwatch.com/watch/breitling-sb01462a1l1x1-venger-b01-chronograph-42-night-mission-c-71068",
+    "price": "$8,650"
+  },
+  "71133": {
+    "title": "Credor GCCR999J Locomotive Titanium Black Dial LIMITED UNWORN",
+    "url": "https://www.europeanwatch.com/watch/credor-gccr999j-gccr999j-locomotive-titanium-black-dial-limited-u-71133",
+    "price": "$16,400"
+  },
+  "70883": {
+    "title": "Blancpain Air Command Flyback Chronograph Titanium Blue Dial",
+    "url": "https://www.europeanwatch.com/watch/blancpain-ac02-12b40-63a-air-command-flyback-chronograph-titanium-70883",
+    "price": "$13,450"
+  },
+  "70055": {
+    "title": "Rolex 14060 Submariner No Date SS Black Dial Circa. 1991",
+    "url": "https://www.europeanwatch.com/watch/rolex-14060-14060-submariner-no-date-ss-black-dial-circa-1991-70055",
+    "price": "$11,650"
+  },
+  "70898": {
+    "title": "Rolex 126000 Oyster Perpetual 36 SS Green Dial 2026",
+    "url": "https://www.europeanwatch.com/watch/rolex-126000-126000-oyster-perpetual-36-ss-green-dial-2026-70898",
+    "price": "$10,900"
+  },
+  "70607": {
+    "title": "Jaeger-LeCoultre Q2788570 Grande Reverso Ultra Thin Tribute to 1931 SS Black Dial",
+    "url": "https://www.europeanwatch.com/watch/jaeger-lecoultre-q2788570-q2788570-grande-reverso-ultra-thin-trib-70607",
+    "price": "$11,900"
+  },
+  "70882": {
+    "title": "Breguet 5907BA Classique 5907 18K Yellow Gold Silver Dial",
+    "url": "https://www.europeanwatch.com/watch/breguet-5907ba-12-984-5907ba-classique-5907-18k-yellow-gold-silve-70882",
+    "price": "$13,900"
+  },
+  "70454": {
+    "title": "Grand Seiko SBGC242 Spring Drive Chronograph GMT SS / 18K YG Blue Dial",
+    "url": "https://www.europeanwatch.com/watch/grand-seiko-sbgc242-sbgc242-spring-drive-chronograph-gmt-ss-18k-y-70454",
+    "price": "$10,350"
+  },
+  "70829": {
+    "title": "Cartier Santos-Dumont XL SS / 18K RG Pink Dial LIMITED",
+    "url": "https://www.europeanwatch.com/watch/cartier-w2sa0025-santos-dumont-xl-ss-18k-rg-pink-dial-limited-70829",
+    "price": "$14,900"
+  },
+  "70926": {
+    "title": "Blancpain 5015 Fifty Fathoms Automatique SS Black Dial 2025",
+    "url": "https://www.europeanwatch.com/watch/blancpain-5015-1130-52a-5015-fifty-fathoms-automatique-ss-black-d-70926",
+    "price": "$10,350"
+  },
+  "69755": {
+    "title": "Breguet 3810ST Type XXI Flyback Chronograph SS Gray Dial",
+    "url": "https://www.europeanwatch.com/watch/breguet-3810st-92-sz9-3810st-type-xxi-flyback-chronograph-ss-gray-69755",
+    "price": "$8,590"
+  },
+  "68542": {
+    "title": "Jaeger-LeCoultre Q2068570 Deep Sea Chronograph SS Black Dial",
+    "url": "https://www.europeanwatch.com/watch/jaeger-lecoultre-q2068570-q2068570-deep-sea-chronograph-ss-black-68542",
+    "price": "$8,890"
+  },
+  "70933": {
+    "title": "Blancpain 0021-1418-55 Villeret Ultra Slim 18K Yellow Gold White Dial",
+    "url": "https://www.europeanwatch.com/watch/blancpain-0021-1418-55-0021-1418-55-villeret-ultra-slim-18k-yello-70933",
+    "price": "$8,650"
+  },
+  "70781": {
+    "title": "Omega Speedmaster Professional Moonwatch 40th Anniversary SS Black Dial LE",
+    "url": "https://www.europeanwatch.com/watch/omega-31130423001002-speedmaster-professional-moonwatch-40th-anni-70781",
+    "price": "$7,600"
+  },
+  "71304": {
+    "title": "Glashütte Original Sixties Chronograph Annual Edition SS Gray Dial",
+    "url": "https://www.europeanwatch.com/watch/glashutte-original-1-39-34-06-22-04-sixties-chronograph-annual-ed-71304",
+    "price": "$8,290"
+  },
+  "71278": {
+    "title": "Franck Muller Vanguard Beach Glass Fiber Blue Dial",
+    "url": "https://www.europeanwatch.com/watch/franck-muller-v-41-sc-dt-beach-gfbubl-vanguard-beach-glass-fiber-71278",
+    "price": "$8,290"
+  },
+  "70822": {
+    "title": "Grand Seiko SBGC251G Spring Drive Chronograph GMT Titanium Black Dial",
+    "url": "https://www.europeanwatch.com/watch/grand-seiko-sbgc251g-sbgc251g-spring-drive-chronograph-gmt-titani-70822",
+    "price": "$6,890"
+  },
+  "70919": {
+    "title": "Grand Seiko SLGW007 Evolution 9 Collection Hi-Beat SS Blue \"Moonlit Birch\" Dial 2026",
+    "url": "https://www.europeanwatch.com/watch/grand-seiko-slgw007-slgw007-evolution-9-collection-hi-beat-ss-blu-70919",
+    "price": "$7,890"
+  },
+  "70939": {
+    "title": "Panerai PAM01272 Luminor Marina Quaranta SS Black Dial",
+    "url": "https://www.europeanwatch.com/watch/panerai-pam01272-pam01272-luminor-marina-quaranta-ss-black-dial-70939",
+    "price": "$6,350"
+  },
+  "70007": {
+    "title": "Breitling Chronomat Automatic GMT 40 SS / Platinum Blue Dial",
+    "url": "https://www.europeanwatch.com/watch/breitling-p32398101c1s2-chronomat-automatic-gmt-40-ss-platinum-bl-70007",
+    "price": "$5,650"
+  },
+  "70932": {
+    "title": "Grand Seiko SBGM221 Elegance GMT SS Cream Dial",
+    "url": "https://www.europeanwatch.com/watch/grand-seiko-sbgm221-sbgm221-elegance-gmt-ss-cream-dial-70932",
+    "price": "$3,900"
+  },
+  "71279": {
+    "title": "Breitling Classic AVI Super AVI B04 Chronograph GMT 46 Mosquito Black Dial",
+    "url": "https://www.europeanwatch.com/watch/breitling-yb04451a1b1x1-classic-avi-super-avi-b04-chronograph-gmt-71279",
+    "price": "$5,950"
+  },
+  "71137": {
+    "title": "Rolex 1603 Vintage Datejust SS Gray Dial Circa. 1974",
+    "url": "https://www.europeanwatch.com/watch/rolex-1603-1603-vintage-datejust-ss-gray-dial-circa-1974-71137",
+    "price": "$6,350"
+  },
+  "70816": {
+    "title": "MB&F M.A.D.2 SS Orange Dial",
+    "url": "https://www.europeanwatch.com/watch/mbandf-mad2-mad2-ss-orange-dial-70816",
+    "price": "$6,350"
+  },
+  "70944": {
+    "title": "MB&F M.A.D 2 SS Green Dial",
+    "url": "https://www.europeanwatch.com/watch/mbandf-mad-2-green-mad-2-ss-green-dial-70944",
+    "price": "$4,850"
+  },
+  "70428": {
+    "title": "Grand Seiko SBGA211G Spring Drive \"Snowflake\" Titanium White Dial 2025",
+    "url": "https://www.europeanwatch.com/watch/grand-seiko-sbga211g-sbga211g-spring-drive-snowflake-titanium-whi-70428",
+    "price": "$5,350"
+  },
+  "70780": {
+    "title": "Omega Speedmaster Reduced Schumacher SS Black Racing Dial LIMITED",
+    "url": "https://www.europeanwatch.com/watch/omega-35185000-speedmaster-reduced-schumacher-ss-black-racing-dia-70780",
+    "price": "$7,350"
+  },
+  "71225": {
+    "title": "Breitling AB0138211B1P1 Navitimer B01 Chronograph 43 SS Black Dial",
+    "url": "https://www.europeanwatch.com/watch/breitling-ab0138211b1p1-ab0138211b1p1-navitimer-b01-chronograph-4-71225",
+    "price": "$6,490"
+  },
+  "68761": {
+    "title": "Cartier WSTA0053 Tank Must Extra-Large SS Silver Flinque Dial 2025",
+    "url": "https://www.europeanwatch.com/watch/cartier-wsta0053-wsta0053-tank-must-extra-large-ss-silver-flinque-68761",
+    "price": "$4,400"
+  },
+  "70875": {
+    "title": "Omega Seamaster Diver 300M Chronograph Titanium / 18K Sedna Gold Blue Dial",
+    "url": "https://www.europeanwatch.com/watch/omega-21060445103001-seamaster-diver-300m-chronograph-titanium-18-70875",
+    "price": "$16,900"
+  },
+  "70606": {
+    "title": "Breguet 3810BR Type XXI Flyback Chronograph 18K Rose Gold Brown Dial",
+    "url": "https://www.europeanwatch.com/watch/breguet-3810br-92-9zu-3810br-type-xxi-flyback-chronograph-18k-ros-70606",
+    "price": "$17,500"
+  },
+  "70703": {
+    "title": "Rolex 126331 Datejust 41 18K RG / SS \"Wimbledon\" Dial",
+    "url": "https://www.europeanwatch.com/watch/rolex-126331-126331-datejust-41-18k-rg-ss-wimbledon-dial-70703",
+    "price": "$17,900"
+  },
+  "70630": {
+    "title": "Audemars Piguet 25822ST Millenary Chronograph SS White Dial",
+    "url": "https://www.europeanwatch.com/watch/audemars-piguet-25822sto0001cr01-25822st-millenary-chronograph-ss-70630",
+    "price": "$17,500"
+  },
+  "71220": {
+    "title": "Patek Philippe 5970J Perpetual Calendar Chronograph 18K Yellow Gold Silver Dial",
+    "url": "https://www.europeanwatch.com/watch/patek-philippe-5970j-001-5970j-perpetual-calendar-chronograph-18k-71220",
+    "price": "$245,000"
+  },
+  "70632": {
+    "title": "Breguet 7057BR Tradition Power Reserve 18K Rose Gold Black Skeleton Dial",
+    "url": "https://www.europeanwatch.com/watch/breguet-7057br-g9-9w6-7057br-tradition-power-reserve-18k-rose-gol-70632",
+    "price": "$21,900"
+  },
+  "71076": {
+    "title": "Rolex 126719BLRO GMT-Master II Pepsi 18K White Gold Meteorite Dial",
+    "url": "https://www.europeanwatch.com/watch/rolex-126719blro-126719blro-gmt-master-ii-pepsi-18k-white-gold-me-71076",
+    "price": "$59,900"
+  },
+  "71109": {
+    "title": "Rolex 126715CHNR GMT Master II \"Root Beer\" 18K Everose Gold Black Dial",
+    "url": "https://www.europeanwatch.com/watch/rolex-126715chnr-126715chnr-gmt-master-ii-root-beer-18k-everose-g-71109",
+    "price": "$42,500"
+  },
+  "70799": {
+    "title": "Breguet 7057BR Tradition Power Reserve 18K Rose Gold Skeleton Dial",
+    "url": "https://www.europeanwatch.com/watch/breguet-7057br-g9-9w6-7057br-tradition-power-reserve-18k-rose-gol-70799",
+    "price": "$18,900"
+  },
+  "70119": {
+    "title": "Rolex 116509 Daytona 18K White Gold Blue Dial",
+    "url": "https://www.europeanwatch.com/watch/rolex-116509-116509-daytona-18k-white-gold-blue-dial-70119",
+    "price": "$46,900"
+  },
+  "70794": {
+    "title": "Girard-Perregaux Laureato Chronograph SS Ice Blue Dial LIMITED 2025",
+    "url": "https://www.europeanwatch.com/watch/girard-perregaux-81020-11-3370-1gm-laureato-chronograph-ss-ice-bl-70794",
+    "price": "$18,900"
+  },
+  "70603": {
+    "title": "A. Lange & Söhne 414.028 1815 Chronograph 18K White Gold Black Dial",
+    "url": "https://www.europeanwatch.com/watch/a-lange-and-sohne-414028-414028-1815-chronograph-18k-white-gold-b-70603",
+    "price": "$59,900"
+  },
+  "71056": {
+    "title": "Breguet 7047PT Tradition 7047 Fusee Tourbillon Platinum Silver Skeleton Dial",
+    "url": "https://www.europeanwatch.com/watch/breguet-7047pt-11-9zu-7047pt-tradition-7047-fusee-tourbillon-plat-71056",
+    "price": "$165,000"
+  },
+  "70255": {
+    "title": "Rolex 326934 Sky-Dweller SS Silver Dial",
+    "url": "https://www.europeanwatch.com/watch/rolex-326934-326934-sky-dweller-ss-silver-dial-70255",
+    "price": "$18,500"
+  },
+  "69053": {
+    "title": "Rolex 218235 Day-Date II 18K Everose Pink Roman Dial",
+    "url": "https://www.europeanwatch.com/watch/rolex-218235-218235-day-date-ii-18k-everose-pink-roman-dial-69053",
+    "price": "$38,900"
+  },
+  "70170": {
+    "title": "Rolex 326933 Sky-Dweller 18K YG / SS Black Dial",
+    "url": "https://www.europeanwatch.com/watch/rolex-326933-326933-sky-dweller-18k-yg-ss-black-dial-70170",
+    "price": "$19,900"
+  },
+  "70084": {
+    "title": "Piaget 9151 Vintage 18K White Gold Blue Lapis Diamond Dial",
+    "url": "https://www.europeanwatch.com/watch/piaget-9151-9151-vintage-18k-white-gold-blue-lapis-diamond-dial-70084",
+    "price": "$17,900"
+  },
+  "70169": {
+    "title": "Rolex 18349 Day-Date President Diamonds 18K WG Champagne Dial Circa. 1989",
+    "url": "https://www.europeanwatch.com/watch/rolex-18349-18349-day-date-president-diamonds-18k-wg-champagne-di-70169",
+    "price": "$32,500"
+  },
+  "66777": {
+    "title": "Rolex 1675/8 GMT Master 18K Yellow Gold Black Dial Circa. 1978",
+    "url": "https://www.europeanwatch.com/watch/rolex-1675-8-1675-8-gmt-master-18k-yellow-gold-black-dial-circa-1-66777",
+    "price": "$33,500"
+  },
+  "70362": {
+    "title": "Patek Philippe 570G Calatrava 18K White Gold Silver Dial",
+    "url": "https://www.europeanwatch.com/watch/patek-philippe-570g-570g-calatrava-18k-white-gold-silver-dial-70362",
+    "price": "$47,500"
+  },
+  "67267": {
+    "title": "Breguet 5707BB Classique \"Le Reveil du Tsar\" 18K White Gold Silver Dial",
+    "url": "https://www.europeanwatch.com/watch/breguet-5707-bb-12-9v6-5707bb-classique-le-reveil-du-tsar-18k-whi-67267",
+    "price": "$25,900"
+  },
+  "71331": {
+    "title": "Blancpain 5010A Fifty Fathoms \"70th Anniversary\" SS Black Dial LIMITED UNWORN",
+    "url": "https://www.europeanwatch.com/watch/blancpain-5010a-1130-naba-5010a-fifty-fathoms-70th-anniversary-ss-71331",
+    "price": "$22,900"
+  },
+  "71288": {
+    "title": "Rolex 226627 Yacht-Master 42 RLX Titanium Intense Black Dial 2025",
+    "url": "https://www.europeanwatch.com/watch/rolex-226627-226627-yacht-master-42-rlx-titanium-intense-black-di-71288",
+    "price": "$25,900"
+  },
+  "70745": {
+    "title": "Rolex 116520 Daytona SS Black Dial Circa. 2004",
+    "url": "https://www.europeanwatch.com/watch/rolex-116520-116520-daytona-ss-black-dial-circa-2004-70745",
+    "price": "$25,900"
+  },
+  "70773": {
+    "title": "Rolex 116519 Daytona 18K White Gold White Dial Circa. 2000",
+    "url": "https://www.europeanwatch.com/watch/rolex-116519-116519-daytona-18k-white-gold-white-dial-circa-2000-70773",
+    "price": "$29,900"
+  },
+  "70661": {
+    "title": "H. Moser & Cie. 1341-0200 Endeavour Perpetual Calendar 18K White Gold Silver Dial",
+    "url": "https://www.europeanwatch.com/watch/h-moser-and-cie-1341-0200-1341-0200-endeavour-perpetual-calendar-70661",
+    "price": "$34,500"
+  },
+  "68767": {
+    "title": "Audemars Piguet 26186SN Royal Oak Offshore Las Vegas Strip PVD SS Black Dial LIMITED",
+    "url": "https://www.europeanwatch.com/watch/audemars-piguet-26186snood101cr01-26186sn-royal-oak-offshore-las-68767",
+    "price": "$32,500"
+  },
+  "70502": {
+    "title": "Vacheron Constantin 49150 Overseas Chronograph SS Blue Dial",
+    "url": "https://www.europeanwatch.com/watch/vacheron-constantin-49150-000a-9745-49150-overseas-chronograph-ss-70502",
+    "price": "$29,500"
+  },
+  "71283": {
+    "title": "Patek Philippe 5326G Annual Calendar Travel Time 18K White Gold Gray Dial",
+    "url": "https://www.europeanwatch.com/watch/patek-philippe-5326g-001-5326g-annual-calendar-travel-time-18k-wh-71283",
+    "price": "$73,500"
+  },
+  "71290": {
+    "title": "Patek Philippe 5327G Perpetual Calendar 18K White Gold Blue Dial",
+    "url": "https://www.europeanwatch.com/watch/patek-philippe-5327g-001-5327g-perpetual-calendar-18k-white-gold-71290",
+    "price": "$72,500"
+  },
+  "70686": {
+    "title": "Vacheron Constantin 47292 Traditionnelle Perpetual Calendar Chronograph Platinum Silver Dial",
+    "url": "https://www.europeanwatch.com/watch/vacheron-constantin-47292-000p-9590-47292-traditionnelle-perpetua-70686",
+    "price": "$64,500"
+  },
+  "71167": {
+    "title": "Breguet 3657PT Classique Tourbillon Power Reserve Platinum Silver Dial",
+    "url": "https://www.europeanwatch.com/watch/breguet-3657pt-12-9v6-3657pt-classique-tourbillon-power-reserve-p-71167",
+    "price": "$53,900"
+  },
+  "71126": {
+    "title": "Cartier WHRO0014 Rotonde de Cartier Mysterious Hour Palladium Skeleton Dial",
+    "url": "https://www.europeanwatch.com/watch/cartier-whro0014-whro0014-rotonde-de-cartier-mysterious-hour-pall-71126",
+    "price": "$57,500"
+  },
+  "71111": {
+    "title": "Patek Philippe 5905 Annual Calendar Chronograph SS Olive Green Dial",
+    "url": "https://www.europeanwatch.com/watch/patek-philippe-5905-1a-001-5905-annual-calendar-chronograph-ss-ol-71111",
+    "price": "$52,500"
+  },
+  "71202": {
+    "title": "Patek Philippe 5059R Perpetual Calendar Retrograde 18K Rose Gold White Dial",
+    "url": "https://www.europeanwatch.com/watch/patek-philippe-5059r-015-5059r-perpetual-calendar-retrograde-18k-71202",
+    "price": "$49,500"
+  },
+  "71176": {
+    "title": "Rolex 326938 Sky Dweller 18K Yellow Gold Silver Dial",
+    "url": "https://www.europeanwatch.com/watch/rolex-326938-326938-sky-dweller-18k-yellow-gold-silver-dial-71176",
+    "price": "$43,500"
+  },
+  "69298": {
+    "title": "Rolex 326939 Sky Dweller 18K White Gold Silver Roman Dial",
+    "url": "https://www.europeanwatch.com/watch/rolex-326939-326939-sky-dweller-18k-white-gold-silver-roman-dial-69298",
+    "price": "$36,500"
+  },
+  "65418": {
+    "title": "Audemars Piguet 26238TI Royal Oak Offshore Chronograph Titanium Green Dial",
+    "url": "https://www.europeanwatch.com/watch/audemars-piguet-26238tiooa056ca01-26238ti-royal-oak-offshore-chro-65418",
+    "price": "$38,500"
+  },
+  "71030": {
+    "title": "Patek Philippe 5235G Annual Calendar Regulator 18K White Gold Silver Dial",
+    "url": "https://www.europeanwatch.com/watch/patek-philippe-5235g-001-5235g-annual-calendar-regulator-18k-whit-71030",
+    "price": "$42,500"
+  },
+  "70969": {
+    "title": "Rolex 126500LN Daytona SS Black Dial 2025",
+    "url": "https://www.europeanwatch.com/watch/rolex-126500ln-126500ln-daytona-ss-black-dial-2025-70969",
+    "price": "$34,500"
+  },
+  "70370": {
+    "title": "Roger Dubuis H37.57.0 Hommage 18K White Gold Cream Dial LIMITED",
+    "url": "https://www.europeanwatch.com/watch/roger-dubuis-h37570-h37570-hommage-18k-white-gold-cream-dial-limi-70370",
+    "price": "$36,500"
+  },
   "71008": {
     "title": "Rolex 226659 Yacht-Master 18K White Gold Black Dial",
     "url": "https://www.europeanwatch.com/watch/rolex-226659-226659-yacht-master-18k-white-gold-black-dial-71008",
@@ -29,11 +519,6 @@
     "url": "https://www.europeanwatch.com/watch/breguet-5517bb-y2-5zu-5517bb-marine-5517-18k-white-gold-blue-dial-70571",
     "price": "$22,900"
   },
-  "70661": {
-    "title": "H. Moser & Cie. 1341-0200 Endeavour Perpetual Calendar 18K White Gold Silver Dial",
-    "url": "https://www.europeanwatch.com/watch/h-moser-and-cie-1341-0200-1341-0200-endeavour-perpetual-calendar-70661",
-    "price": "$36,500"
-  },
   "70845": {
     "title": "Audemars Piguet 26393ST Code 11.59 Chronograph SS Green Dial",
     "url": "https://www.europeanwatch.com/watch/audemars-piguet-26393stooa056kb01-26393st-code-1159-chronograph-s-70845",
@@ -56,7 +541,7 @@
   },
   "66455": {
     "title": "Breitling RB0311 Navitimer Rattrapante 18K Rose Gold Black Dial",
-    "url": "https://www.europeanwatch.com/watch/breitling-rb0311-rb0311-navitimer-rattrapante-18k-rose-gold-black-66455",
+    "url": "https://www.europeanwatch.com/watch/breitling-rb0311e61f1p1-rb0311-navitimer-rattrapante-18k-rose-gol-66455",
     "price": "$15,490"
   },
   "67241": {
@@ -73,11 +558,6 @@
     "title": "Jaquet Droz Grande Seconde SW SS / Ceramic Black Dial",
     "url": "https://www.europeanwatch.com/watch/jaquet-droz-j029030440-grande-seconde-sw-ss-ceramic-black-dial-70022",
     "price": "$6,990"
-  },
-  "67941": {
-    "title": "Grand Seiko SBGH343G \"Sakura Wakaba\" High Intensity Titanium Green Dial",
-    "url": "https://www.europeanwatch.com/watch/grand-seiko-sbgh343g-sbgh343g-sakura-wakaba-high-intensity-titani-67941",
-    "price": "$6,890"
   },
   "63391": {
     "title": "Piaget G0A29120 Altiplano 18K Yellow Gold Silver Dial",
@@ -109,10 +589,10 @@
     "url": "https://www.europeanwatch.com/watch/roger-dubuis-ex451448937att2-excalibur-triple-time-zone-ss-black-70631",
     "price": "$14,980"
   },
-  "70758": {
-    "title": "Jaeger-LeCoultre Q130842J Master Ultra Thin Perpetual Calendar SS Silver Dial",
-    "url": "https://www.europeanwatch.com/watch/jaeger-lecoultre-q130842j-q130842j-master-ultra-thin-perpetual-ca-70758",
-    "price": "$17,350"
+  "71118": {
+    "title": "Rolex 126234 Datejust 36 Jubilee SS Gradient Green Dial 2026 UNWORN",
+    "url": "https://www.europeanwatch.com/watch/rolex-126234-126234-datejust-36-jubilee-ss-gradient-green-dial-20-71118",
+    "price": "$17,550"
   },
   "70247": {
     "title": "Rolex 126333 Datejust 41 18K YG / SS Black Diamond Dial",
@@ -133,11 +613,6 @@
     "title": "Piaget G0A41006 Polo Chronograph SS Blue Dial",
     "url": "https://www.europeanwatch.com/watch/piaget-g0a41006-g0a41006-polo-chronograph-ss-blue-dial-68410",
     "price": "$11,350"
-  },
-  "70583": {
-    "title": "H. Moser & Cie. Venturer Small Seconds XL Purity 18K White Gold Cosmic Green Dial",
-    "url": "https://www.europeanwatch.com/watch/h-moser-and-cie-2327-0209-venturer-small-seconds-xl-purity-18k-wh-70583",
-    "price": "$16,290"
   },
   "70847": {
     "title": "Grand Seiko SLGB005 Evolution 9 SS Purple Dial LIMITED UNWORN",
@@ -178,11 +653,6 @@
     "title": "Jaeger-LeCoultre Q1322410 Master Ultra Thin Tourbillon 18K Rose Gold Cream Dial",
     "url": "https://www.europeanwatch.com/watch/jaeger-lecoultre-q1322410-q1322410-master-ultra-thin-tourbillon-1-71171",
     "price": "$32,500"
-  },
-  "71223": {
-    "title": "Vacheron Constantin 47192 Patrimony Traditionnelle Chronograph 18K WG Silver Dial",
-    "url": "https://www.europeanwatch.com/watch/vacheron-constantin-47192-000g-9504-47192-patrimony-traditionnell-71223",
-    "price": "$33,900"
   },
   "70121": {
     "title": "A. Lange & Söhne 403.035F Datograph Flyback Wellendorff Platinum Black Dial",
@@ -249,11 +719,6 @@
     "url": "https://www.europeanwatch.com/watch/patek-philippe-5320g-001-5320g-perpetual-calendar-18k-white-gold-71153",
     "price": "$62,500"
   },
-  "70877": {
-    "title": "H. Moser & Cie. 6902 Streamliner Flyback Chronograph SS Blue Dial",
-    "url": "https://www.europeanwatch.com/watch/h-moser-and-cie-6902-1201-6902-streamliner-flyback-chronograph-ss-70877",
-    "price": "$31,500"
-  },
   "69321": {
     "title": "A. Lange & Söhne 220.028 1815 18K White Gold Blue Dial 2026",
     "url": "https://www.europeanwatch.com/watch/a-lange-and-sohne-220028-220028-1815-18k-white-gold-blue-dial-202-69321",
@@ -283,11 +748,6 @@
     "title": "Piaget Vintage Inspiration \"Andy Warhol\" 18K RG Blue Lapis Dial",
     "url": "https://www.europeanwatch.com/watch/piaget-g0a43236-vintage-inspiration-andy-warhol-18k-rg-blue-lapis-69523",
     "price": "$79,500"
-  },
-  "71051": {
-    "title": "Rolex 52506 1908 Platinum Ice Blue Guilloche Dial 2026",
-    "url": "https://www.europeanwatch.com/watch/rolex-52506-52506-1908-platinum-ice-blue-guilloche-dial-2026-71051",
-    "price": "$44,500"
   },
   "70798": {
     "title": "Rolex 126500LN Daytona SS Black Dial 2026 UNWORN",
@@ -319,34 +779,9 @@
     "url": "https://www.europeanwatch.com/watch/rolex-326935-326935-sky-dweller-18k-rose-gold-silver-dial-70890",
     "price": "$46,500"
   },
-  "71076": {
-    "title": "Rolex 126719BLRO GMT-Master II Pepsi 18K White Gold Meteorite Dial",
-    "url": "https://www.europeanwatch.com/watch/rolex-126719blro-126719blro-gmt-master-ii-pepsi-18k-white-gold-me-71076",
-    "price": "$63,500"
-  },
-  "70119": {
-    "title": "Rolex 116509 Daytona 18K White Gold Blue Dial",
-    "url": "https://www.europeanwatch.com/watch/rolex-116509-116509-daytona-18k-white-gold-blue-dial-70119",
-    "price": "$48,500"
-  },
-  "71103": {
-    "title": "Audemars Piguet 26715ST Royal Oak Chronograph SS Gray Dial",
-    "url": "https://www.europeanwatch.com/watch/audemars-piguet-26715stoo1356st02-26715st-royal-oak-chronograph-s-71103",
-    "price": "$49,900"
-  },
   "67804": {
     "title": "Patek Philippe 5140G Perpetual Calendar Ultra Thin 18K White Gold Silver Dial",
     "url": "https://www.europeanwatch.com/watch/patek-philippe-5140g-001-5140g-perpetual-calendar-ultra-thin-18k-67804",
     "price": "$63,500"
-  },
-  "71004": {
-    "title": "Jaeger-LeCoultre Reverso Tribute Monoface Small Seconds 18K Rose Gold Gold Dial 2026",
-    "url": "https://www.europeanwatch.com/watch/jaeger-lecoultre-q713216j-reverso-tribute-monoface-small-seconds-71004",
-    "price": "$53,500"
-  },
-  "70783": {
-    "title": "Vacheron Constantin 4200H Historiques 222 SS Blue Dial 2026",
-    "url": "https://www.europeanwatch.com/watch/vacheron-constantin-4200h-222a-b934-4200h-historiques-222-ss-blue-70783",
-    "price": "$62,500"
   }
 }
