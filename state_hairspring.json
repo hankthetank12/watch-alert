@@ -1,28 +1,18 @@
 {
-  "hamatic-vintage-cream-white-gold": {
-    "title": "Hamatic Vintage Cream, White Gold",
-    "url": "https://hairspring.com/collections/exclusives/products/hamatic-vintage-cream-white-gold",
-    "price": "$55,000"
-  },
-  "239-050-1815-thin-homage-to-fa-lange-honeygold": {
-    "title": "239.050, 1815 Thin 'Homage to FA Lange', Honeygold",
-    "url": "https://hairspring.com/collections/exclusives/products/239-050-1815-thin-homage-to-fa-lange-honeygold",
-    "price": "$52,500"
-  },
   "3940j-first-series-perpetual-calendar-yellow-gold-1": {
     "title": "3940J, First Series, Perpetual Calendar, Yellow Gold",
     "url": "https://hairspring.com/collections/exclusives/products/3940j-first-series-perpetual-calendar-yellow-gold-1",
-    "price": "$55,000"
+    "price": "$400,000"
   },
   "chronometre-artisans-rose-gold": {
     "title": "Chronomètre Artisans, Rose Gold",
     "url": "https://hairspring.com/collections/exclusives/products/chronometre-artisans-rose-gold",
-    "price": "$55,000"
+    "price": "$400,000"
   },
   "101-005-stealth-lange-1-solid-caseback-platinum-1": {
     "title": "101.005, ‘Stealth’ Lange 1, Solid Caseback, Platinum",
     "url": "https://hairspring.com/collections/exclusives/products/101-005-stealth-lange-1-solid-caseback-platinum-1",
-    "price": "$55,000"
+    "price": "$400,000"
   },
   "chronometre-souverain-38mm-platinum": {
     "title": "Chronomètre Souverain, 38mm, Platinum",
@@ -32,7 +22,7 @@
   "origine-piece-unique-white-pink-gold": {
     "title": "Origine, Piece Unique, White & Pink Gold",
     "url": "https://hairspring.com/collections/exclusives/products/origine-piece-unique-white-pink-gold",
-    "price": "$55,000"
+    "price": "$400,000"
   },
   "mirage-38-sienna-yellow-gold-2": {
     "title": "Mirage 38, Sienna, Yellow Gold",
@@ -42,22 +32,27 @@
   "410-038-datograph-perpetual-white-gold": {
     "title": "410.038, Datograph Perpetual, White Gold",
     "url": "https://hairspring.com/collections/exclusives/products/410-038-datograph-perpetual-white-gold",
-    "price": "$55,000"
+    "price": "$400,000"
   },
   "3800a-nautilus-steel": {
     "title": "3800A, Nautilus, Steel",
     "url": "https://hairspring.com/collections/exclusives/products/3800a-nautilus-steel",
-    "price": "$125,000"
+    "price": "$400,000"
   },
   "series-2-yellow-gold": {
     "title": "Series 2, Mark 1, Yellow Gold",
     "url": "https://hairspring.com/collections/exclusives/products/series-2-yellow-gold",
-    "price": "$125,000"
+    "price": "$400,000"
   },
   "sbgz005": {
     "title": "SBGZ005, Kintaro Hattori 160th, Platinum",
     "url": "https://hairspring.com/collections/exclusives/products/sbgz005",
-    "price": "$125,000"
+    "price": "$55,000"
+  },
+  "hamatic-vintage-cream-white-gold": {
+    "title": "Hamatic Vintage Cream, White Gold",
+    "url": "https://hairspring.com/collections/exclusives/products/hamatic-vintage-cream-white-gold",
+    "price": "$55,000"
   },
   "730-032-1815-tourbillon-pink-gold": {
     "title": "730.032, 1815 Tourbillon, Pink Gold",
@@ -72,12 +67,12 @@
   "166-066-lange-1-time-zone-25th-anniversary-white-gold": {
     "title": "116.066, Lange 1 Time Zone, 25th Anniversary, White Gold",
     "url": "https://hairspring.com/collections/exclusives/products/166-066-lange-1-time-zone-25th-anniversary-white-gold",
-    "price": "$125,000"
+    "price": "$55,000"
   },
   "square-micro-rotor-ice-blue-steel": {
     "title": "Square Micro-Rotor, Ice Blue, Steel",
     "url": "https://hairspring.com/collections/exclusives/products/square-micro-rotor-ice-blue-steel",
-    "price": "$125,000"
+    "price": "$55,000"
   },
   "elegante-40-pink-gold": {
     "title": "Élégante 40, Pink Gold",
@@ -94,10 +89,15 @@
     "url": "https://hairspring.com/collections/exclusives/products/daytona-steel",
     "price": "$205,000"
   },
+  "239-050-1815-thin-homage-to-fa-lange-honeygold": {
+    "title": "239.050, 1815 Thin 'Homage to FA Lange', Honeygold",
+    "url": "https://hairspring.com/collections/exclusives/products/239-050-1815-thin-homage-to-fa-lange-honeygold",
+    "price": "$380,000"
+  },
   "3970ep-small-hallmark-second-series-perpetual-calendar-chronograph-platinum": {
     "title": "3970EP, 'Small Hallmark' Second Series, Perpetual Calendar Chronograph, Platinum",
     "url": "https://hairspring.com/collections/exclusives/products/3970ep-small-hallmark-second-series-perpetual-calendar-chronograph-platinum",
-    "price": "$205,000"
+    "price": "$380,000"
   },
   "chronometre-souverain-38mm-pink-gold": {
     "title": "Chronomètre Souverain, 38mm, Pink Gold",
@@ -107,22 +107,22 @@
   "403-035-datograph-wellendorff-first-generation-platinum": {
     "title": "403.035, Datograph Wellendorff, First Generation, Platinum",
     "url": "https://hairspring.com/collections/exclusives/products/403-035-datograph-wellendorff-first-generation-platinum",
-    "price": "$205,000"
+    "price": "$380,000"
   },
   "1601-9-datejust-lapis-dial-white-gold-1": {
     "title": "1601/9, Datejust, Lapis Dial, White Gold",
     "url": "https://hairspring.com/collections/exclusives/products/1601-9-datejust-lapis-dial-white-gold-1",
-    "price": "$205,000"
+    "price": "$380,000"
   },
   "363-150-odysseus-honeygold": {
     "title": "363.150, Odysseus, Honeygold",
     "url": "https://hairspring.com/collections/exclusives/products/363-150-odysseus-honeygold",
-    "price": "$205,000"
+    "price": "$380,000"
   },
   "reference-5-platinum": {
     "title": "Reference 5, Platinum",
     "url": "https://hairspring.com/collections/exclusives/products/reference-5-platinum",
-    "price": "$205,000"
+    "price": "$380,000"
   },
   "royal-oak-jumbo-extra-thin-white-gold": {
     "title": "Royal Oak, 'Jumbo' Extra Thin, White Gold",
@@ -132,7 +132,7 @@
   "grand-sport-tourbillon-steel": {
     "title": "Grand Sport Tourbillon, Steel",
     "url": "https://hairspring.com/collections/exclusives/products/grand-sport-tourbillon-steel",
-    "price": "$205,000"
+    "price": "$380,000"
   },
   "3417-amagnetic-steel-1": {
     "title": "3417, Amagnetic, Steel",

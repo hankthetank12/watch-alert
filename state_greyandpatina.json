@@ -14,11 +14,6 @@
     "url": "https://greyandpatina.com/product/1968-king-seiko-5626-7000-day-date-on-blue-strap/",
     "price": "$ 1,450"
   },
-  "1997-rolex-16570-chi-chi-pumpkin-explorer-ii": {
-    "title": "1997 Rolex 16570 Chi-Chi Pumpkin Explorer II",
-    "url": "https://greyandpatina.com/product/1997-rolex-16570-chi-chi-pumpkin-explorer-ii/",
-    "price": "$ 11,500"
-  },
   "1985-rolex-16030-tropical-purple-dial-datejust-2": {
     "title": "1985 Rolex 16030 Tropical Purple Dial Datejust",
     "url": "https://greyandpatina.com/product/1985-rolex-16030-tropical-purple-dial-datejust-2/",
@@ -118,5 +113,10 @@
     "title": "1991 Rolex 16700 Pepsi GMT – Unpolished",
     "url": "https://greyandpatina.com/product/1991-rolex-16700-pepsi-gmt-unpolished-2/",
     "price": "$ 13,500"
+  },
+  "1970-rolex-6917-ghost-ladies-datejust": {
+    "title": "1970 Rolex 6917 Ghost Ladies Datejust",
+    "url": "https://greyandpatina.com/product/1970-rolex-6917-ghost-ladies-datejust/",
+    "price": "$ 7,990"
   }
 }
