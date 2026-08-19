@@ -54,11 +54,6 @@
     "url": "https://greyandpatina.com/product/1971-rolex-mk2-1675-faded-pepsi-gmt-w-papers/",
     "price": "$ 19,500"
   },
-  "1993-rolex-16570-polar-explorer-ii-2": {
-    "title": "1993 Rolex 16570 Polar Explorer II",
-    "url": "https://greyandpatina.com/product/1993-rolex-16570-polar-explorer-ii-2/",
-    "price": "$ 9,650"
-  },
   "1977-rolex-1680-yellow-gold-blue-dial-submariner": {
     "title": "1977 Rolex 1680 Yellow Gold Blue Dial Submariner",
     "url": "https://greyandpatina.com/product/1977-rolex-1680-yellow-gold-blue-dial-submariner/",
@@ -118,5 +113,10 @@
     "title": "1970 Rolex 6917 Ghost Ladies Datejust",
     "url": "https://greyandpatina.com/product/1970-rolex-6917-ghost-ladies-datejust/",
     "price": "$ 7,990"
+  },
+  "1980-rolex-16014-black-dial-datejust": {
+    "title": "1980 Rolex 16014 Black Dial Datejust",
+    "url": "https://greyandpatina.com/product/1980-rolex-16014-black-dial-datejust/",
+    "price": "$ 6,500"
   }
 }
